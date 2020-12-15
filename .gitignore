@@ -1,0 +1,5 @@
+g2p/phonetisaurus/Phonetisaurus/
+g2p/phonetisaurus/log_*
+g2p/phonetisaurus/openfst-1.6.2*
+g2p/phonetisaurus/test*
+g2p/phonetisaurus/tmp*
