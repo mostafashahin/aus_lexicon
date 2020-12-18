@@ -16,6 +16,9 @@ arpa2aus_dict=data/arpa2aus.dict
 g2arpa_model=data/model_g2arpa_8.fst
 arpa2aus_model=data/model_arpa2aus_8.fst
 
+phone_list=data/asr_phoneme.list
+phone_map=data/asr2sampa.map
+
 in_wrd_lst=$1
 out_dict=$2
 
@@ -30,4 +33,6 @@ cat tmp/arpa_gen.dict | cut -f1 > tmp/arpa_gen.wrds
 phonetisaurus-apply -gs " " --model $arpa2aus_model --word_list tmp/arpa_gen.trans > tmp/arpa_aus_gen.dict
 cat tmp/arpa_aus_gen.dict | while read line; do t=`echo $line | cut -f2`; l=`echo $line | cut -f1`; m=`grep -P "\t$l$" tmp/arpa_gen.dict | cut -f1` ; for w in $m; do echo -e "$w\t$t"; done; done > tmp/aus_gen.dict
 
-cp tmp/aus_gen.dict $out_dict
+#convert to sampa
+
+python3 ../dict_tool/map_dict.py tmp/aus_gen.dict $phone_list $phone_map $out_dict
