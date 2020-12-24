@@ -3,7 +3,7 @@ cat - | tr [:lower:] [:upper:] > oov_words
 
 IFS=$'\n'
 
-wget -O cmudict.dict https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict
+wget -O cmudict.dict https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict 2>/dev/null
 cat cmudict.dict \
   | perl -pe 's/\([0-9]+\)//;
               s/[0-9]//g;
