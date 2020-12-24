@@ -1,7 +1,9 @@
 #!/bin/env bash
+cat - | tr [:lower:] [:upper:] > oov_words
+
 IFS=$'\n'
 
-wget https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict
+wget -O cmudict.dict https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict
 cat cmudict.dict \
   | perl -pe 's/\([0-9]+\)//;
               s/[0-9]//g;
@@ -19,8 +21,8 @@ arpa2aus_model=data/model_arpa2aus_8.fst
 phone_list=data/asr_phoneme.list
 phone_map=data/asr2sampa.map
 
-in_wrd_lst=$1
-out_dict=$2
+in_wrd_lst=oov_words
+#out_dict=$2
 
 mkdir -p tmp
 
@@ -35,4 +37,6 @@ cat tmp/arpa_aus_gen.dict | while read line; do t=`echo $line | cut -f2`; l=`ech
 
 #convert to sampa
 
-python3 ../dict_tool/map_dict.py tmp/aus_gen.dict $phone_list $phone_map $out_dict
+python3 ../../dict_tool/map_dict.py tmp/aus_gen.dict $phone_list $phone_map oov_dict
+
+cat oov_dict
