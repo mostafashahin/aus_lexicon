@@ -7,11 +7,10 @@ wget -O cmudict.dict https://raw.githubusercontent.com/cmusphinx/cmudict/master/
 cat cmudict.dict \
   | perl -pe 's/\([0-9]+\)//;
               s/[0-9]//g;
-              /#/d;
               s/\s+/ /g; s/^\s+//;
               s/\s+$//; @_ = split (/\s+/);
               $w = shift (@_);
-              $_ = $w."\t".join (" ", @_)."\n";' | tr [:lower:] [:upper:] > cmudict.formatted_upp.dict
+              $_ = $w."\t".join (" ", @_)."\n";' | sed '/#/d' | tr [:lower:] [:upper:] > cmudict.formatted_upp.dict
 
 cmu_dict=cmudict.formatted_upp.dict
 arpa2aus_dict=data/arpa2aus.dict

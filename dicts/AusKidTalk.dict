@@ -1,6 +1,6 @@
 ALWAYS	o: l w {I z
 ATTACK	@ t { k
-AUSTRALIA	@ s t r\ { I l i: @
+AUSTRALIA	@ s t r { I l i: @
 BACK	b { k
 BAG	b { g
 BEARD	b I@ d
@@ -11,16 +11,16 @@ BIRD	b 3: d
 BOAT	b @} t
 BONE	b @} n
 BOY	b oI
-BREATHE	b r\ i: D
-BRIDGE	b r\ I dZ
-BURY	b e r\ i:
+BREATHE	b r i: D
+BRIDGE	b r I dZ
+BURY	b e r i:
 BUY	b Ae
 CAKE	k {I k
 CANOE	k @ n }:
 CAR	k 6:
 CARD	k 6: d
 CARPET	k 6: p @ t
-CARRY	k { r\ i:
+CARRY	k { r i:
 CART	k 6: t
 CAT	k { t
 CATCH	k { tS
@@ -34,8 +34,8 @@ COLOUR	k 6 l @
 COOK	k U k
 CORNER	k o: n @
 COW	k {O
-CRAB	k r\ { b
-CROCODILE	k r\ O k @ d Ae l
+CRAB	k r { b
+CROCODILE	k r O k @ d Ae l
 CUB	k 6 b
 CUCUMBER	k j }: k 6 m b @
 CUP	k 6 p
@@ -45,7 +45,7 @@ DESSERT	d @ z 3: t
 DETECTIVE	d @ t e k t I v
 DINOSAUR	d Ae n @ s o:
 DOLL	d O l
-DRINK	d r\ I N k
+DRINK	d r I N k
 EAR	I@
 EGG	e g
 EIGHT	{I t
@@ -55,14 +55,14 @@ FOLLOW	f O l @}
 FOOD	f }: d
 FOOT	f U t
 FOUR	f o:
-FROG	f r\ O g
-FROM	f r\ O m
+FROG	f r O g
+FROM	f r O m
 FUR	f 3:
-GARAGE	g { r\ 6: Z
+GARAGE	g { r 6: Z
 GARDEN	g 6: d n
 GIRL	g 3: l
 GOLD	g @} l d
-GREEN	g r\ i: n
+GREEN	g r i: n
 HAIR	h e:
 HEAD	h e d
 HIDE	h Ae d
@@ -71,7 +71,7 @@ HILL	h I l
 HOLE	h @} l
 IN	I n
 JAM	dZ { m
-KANGAROO	k { N g @ r\ }:
+KANGAROO	k { N g @ r }:
 KEY	k i:
 KITCHEN	k I tS @ n
 LEAF	l i: f
@@ -95,7 +95,7 @@ POOL	p }: l
 POTATO	p @ t {I t @}
 POUR	p o:
 PULL	p U l
-RIDE	r\ Ae d
+RIDE	r Ae d
 SAUSAGE	s O s I dZ
 SEE	s i:
 SEVEN	s e v @ n
@@ -109,10 +109,10 @@ SNAKE	s n {I k
 SPADE	s p {I d
 SPAGHETTI	s p @ g e t i:
 SPLASH	s p l { S
-SPROUT	s p r\ {O t
+SPROUT	s p r {O t
 STETHOSCOPE	s t e T @ s k @} p
-STORY	s t o: r\ i:
-STRAW	s t r\ o:
+STORY	s t o: r i:
+STRAW	s t r o:
 SWING	s w I N
 SWORD	s o: d
 TAIL	t {I l
@@ -121,14 +121,14 @@ TEN	t e n
 THAT	D { t
 THE	D @
 THERMOMETER	T @ m O m @ t @
-THREE	T r\ i:
+THREE	T r i:
 THUMB	T 6 m
 TO	t }:
 TOMATO	t @ m 6: t @}
 TONIGHT	t @ n Ae t
 TOOTH	t }: T
-TREASURE	t r\ e Z @
-TREE	t r\ i:
+TREASURE	t r e Z @
+TREE	t r i:
 TWO	t }:
 UNDER	6 n d @
 VANILLA	v @ n I l @

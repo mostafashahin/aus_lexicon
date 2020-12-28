@@ -1,7 +1,7 @@
 IFS=$'\n'
-stage=2
-arpa_lex_train=../cmudict.formatted_upp.dict
-arpa_aus_lex_train=../arpa2aus_train.dict
+stage=0
+arpa_lex_train=../../data/cmudict.formatted_upp.dict
+arpa_aus_lex_train=../arpa2aus.dict
 aus_lex_test=../lexicon_test.txt
 test_wrd_list=test_words
 nOrderG2p=$1
