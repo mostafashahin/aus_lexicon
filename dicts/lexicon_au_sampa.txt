@@ -140,7 +140,7 @@ ABDULAZIZ	{ b d j }: @ l @ z i: z
 ABDUL	{ b d j }: @ l
 ABDULLAH	{ b d U l @
 ABDULLAH-	{ b d U l @
-ABDULLAH’S	{ b d U l @ s
+ABDULLAH'S	{ b d U l @ s
 ABDULLA	O b d j }: l @
 ABED	@ b e d
 ABEDI	@ b e d i:
@@ -729,7 +729,7 @@ ACHIEVING	@ tS i: v I N
 ACHILLE	@ k I l i:
 ACHILLES	@ k I l i: z
 ACHILLES'	@ k I l i: z
-ACHILLES’	@ k I l s
+ACHILLES'	@ k I l s
 ACHILL'S	{ k I l z
 ACHING	{I k I N
 ACHINGLY	{I k I N l i:
@@ -1944,7 +1944,7 @@ AGUE	e g j }:
 AGUERO	{ g e r @}
 AGÜERO	{ g e r @}
 AGÜERO-	{ g e r @}
-AGÜERO’S	{ g @ r s
+AGÜERO'S	{ g @ r s
 AGUIAR	o: g w i: @
 AGUILA	o: g w I@ l @
 AGUILAR	{ g @ l 6:
@@ -2000,7 +2000,7 @@ AHLSTROM	O l s t r @ m
 AHLUWALIA	{ l j @ {I l i: @
 AHMAD	6: m 6: d
 AHMADI	6: m 6: d i:
-AHMAD’S	6: m { d s
+AHMAD'S	6: m { d s
 AHMAD'S	6: m { d z
 AHMANN	O m @ n
 AHMANSON	6: m e n s n
@@ -2110,8 +2110,8 @@ AINSLIE	{I n z l i:
 AINSWORTH	{I n s w 3: T
 AINSWORTH'S	{I n z w 3: D z
 AIN'T	{I n t
-AIN’T	n t
-AIN’T-	n t
+AIN'T	n t
+AIN'T-	n t
 AINU	{I n j }:
 AIPAC	@ p @ k
 AIPAC'S	@ p @ k s
@@ -2794,7 +2794,7 @@ ALIRIO	@ l I@ r i: @}
 ALI'S	6: l i: z
 ALISA	@ l i: s @
 ALISHA	6: l i: S @
-ALI’S	{I l I s
+ALI'S	{I l I s
 ALISKY	@ l I s k i:
 ALISLAMIYYA	{ l @ s l @ m i: @
 ALISON	{ l @ s @ n
@@ -3667,7 +3667,7 @@ AMERICAN-STYLE	@ m e r @ k @ n s t Ae l
 AMERICARE	@ m e r @ k e:
 AMERICARES	@ m e r @ k e z
 AMERICAR	@ m e r @ k 6:
-AMERICA’S	@ m e r @ k @ s
+AMERICA'S	@ m e r @ k @ s
 AMERICA'S	@ m e r @ k @ z
 AMERICAS	@ m e r @ k @ z
 AMERICAS'	@ m e r @ k @ z
@@ -4457,7 +4457,7 @@ ANNENBERG	{ n @ n b 3: g
 ANNE	{ n d
 ANNEN	{ n @ n
 ANNESE	O n {I z i:
-ANNE’S	{ n s
+ANNE'S	{ n s
 ANNE'S	{ n z
 ANNETTE	@ n e t
 ANNETT	@ n e t
@@ -4889,8 +4889,8 @@ ANYONE-	e n i: w 6 n
 ANYONE'LL	e n i: w 6 n @ l
 ANYON	e n i: O n
 ANYONE'S	e n i: w 6 n z
-ANYONE’S	e n i: w 6 s
-ANYONE’S-	e n i: w 6 s
+ANYONE'S	e n i: w 6 s
+ANYONE'S-	e n i: w 6 s
 ANYPLACE	e n i: p l {I s
 ANYTHING	e n i: T I N
 ANYTHING	e n I T I N
@@ -5315,7 +5315,7 @@ ARABICHON'S	@ r { b I S o: n z
 ARABICON	@ r { b @ k O n
 ARABIC	{ r @ b I k
 ARABIC-	{ r @ b I k
-ARABIC’S	{ r { b I k s
+ARABIC'S	{ r { b I k s
 ARABIE	{ r @ b i:
 ARABLE	{ r @ b @ l
 ARAB	{ r @ b
@@ -5576,7 +5576,7 @@ ARENS	e r @ n z
 ARENSON	{ r @ n s n
 AREN'T	6: n t
 ARENT	6: n t
-AREN’T	@ r e n t
+AREN'T	@ r e n t
 ARENTZ	{ r I n t s
 ARENZ	6: r {I n z
 AREQUIPA	6: r e k i: p 6:
@@ -6192,7 +6192,7 @@ ASELMA	@ s e l m @
 ASELTINE	o: s e l t i: n i:
 ASENCIO	@ s e n s i: @}
 ASENSIO	{I s e n S @}
-ASENSIO’S	{I s e n S s
+ASENSIO'S	{I s e n S s
 ASERITIS	@ s e r @ t @ s
 ASEXUAL	{I s e k s j }: @ l
 ASGARD	o: s g 6: d
@@ -6374,7 +6374,7 @@ ASSASSINATING	@ s { s @ n {I t I N
 ASSASSINATION	@ s { s @ n {I S @ n
 ASSASSINATIONS	@ s { s @ n {I S n z
 ASSASSIN	@ s { s @ n
-ASSASSIN’S	@ s { s I n s
+ASSASSIN'S	@ s { s I n s
 ASSASSIN'S	@ s { s n z
 ASSASSINS	@ s { s n z
 ASSAULTED	@ s O l t @ d
@@ -6643,7 +6643,7 @@ ATHENEUM	{ T @ n j }: m
 ATHENIANS	@ T i: n i: @ n z
 ATHENIAN	@ T i: n i: @ n
 ATHENS	{ T @ n z
-A-THERE’S	@ D r s
+A-THERE'S	@ D r s
 ATHEROSCLEROSIS	{ T @ r @} s k l @ r @} s @ s
 ATHERTON	{ T 3: t @ n
 ATHEY	{ T i:
@@ -7021,7 +7021,7 @@ AUNGST	{O N s
 AUNT	6: n t
 AUNTIE	{ n t i:
 AUNTIE-	{ n t i:
-AUNTIE’S	{ n t i: s
+AUNTIE'S	{ n t i: s
 AUNTIES	{ n t i: z
 AUNT	{ n t
 AUNT-	{ n t
@@ -7092,7 +7092,7 @@ AUSTRALIAN	@ s t r {I l j @ n
 AUSTRALIA	O s t r {I l i: @
 AUSTRALIA	O s t r {I l j @
 AUSTRALIA-	O s t r {I l j @
-AUSTRALIA’S	O s t r {I l i: @ s
+AUSTRALIA'S	O s t r {I l i: @ s
 AUSTRALIA'S	O s t r {I l j @ z
 AUSTRALIA	@ s t r { I l i: @
 AUSTRALIA	@ s t r {I l i: @
@@ -7726,8 +7726,8 @@ BACHE	b { tS
 BACHELDER	b O k e l d @
 BACHELLER	b O k l @
 BACHELOR	b { tS @ l @
-BACHELOR’S	b { tS @ l o: r s
-BACHELOR’S-	b { tS @ l o: r s
+BACHELOR'S	b { tS @ l o: r s
+BACHELOR'S-	b { tS @ l o: r s
 BACHELOR'S	b { tS @ l @ z
 BACHELORS	b { tS @ l @ z
 BACHERA	b O k @ r @
@@ -10307,7 +10307,7 @@ BEIRA	b {I r @
 BEIRNE	b I@ n
 BEIRUT	b {I r }: t
 BEIRUT'S	b {I r }: t s
-BEIRUT’S	b {I r }: t s
+BEIRUT'S	b {I r }: t s
 BEISEL	b 6: I s @ l
 BEISER	b 6: I s @
 BEISNER	b 6: I s n @
@@ -11390,7 +11390,7 @@ BETTOR	b e t @
 BETTORS	b e t @ z
 BETTS	b e t s
 BETTY	b e t i:
-BETTY’S	b e t i: s
+BETTY'S	b e t i: s
 BETTY'S	b e t i: z
 BETWEEN	b @ t w i: n
 BETWEEN-	b @ t w i: n
@@ -12169,7 +12169,7 @@ BIRT	b 3: t
 BIRTCHER	b 3: tS @
 BIRTH	b 3: T
 BIRTHDAY	b 3: T d {I
-BIRTHDAY’S	b 3: T d i: s
+BIRTHDAY'S	b 3: T d i: s
 BIRTHDAY'S	b 3: T d {I z
 BIRTHDAYS	b 3: T d {I z
 BIRTHING	b 3: T I N
@@ -12489,7 +12489,7 @@ BLANCK	b l { N k
 BLANCMANGE	b l 6 m 6 n dZ
 BLANCO	b l { N k @}
 BLANCO-	b l { N k @}
-BLANCO’S	b l { N k s
+BLANCO'S	b l { N k s
 BLANDA	b l { n d @
 BLAND	b l { n d
 BLANDER	b l { n d @
@@ -13254,7 +13254,7 @@ BODYBUILDERS	b O d i: b I l d @ z
 BODYGUARD	b O d i: g 6: d
 BODYGUARDS	b O d i: g 6: d z
 BODYPUNCH	b O d Ae p 6 n tS
-BODY’S	b O d i: s
+BODY'S	b O d i: s
 BODY'S	b O d i: z
 BODZIAK	b o: d z i: { k
 BODZIAK'S	b o: d z i: { k s
@@ -14592,7 +14592,7 @@ BOYLSTON	b oI l s t @ n
 BOYLSTON'S	b oI l s t n z
 BOYNE	b oI n
 BOYNTON	b oI n t @ n
-BOY’S	b i: s
+BOY'S	b i: s
 BOY'S	b oI z
 BOYS	b oI z
 BOYS'	b oI z
@@ -15101,7 +15101,7 @@ BREADED	b r e d @ d
 BREADFRUIT	b r e d f r }: t
 BREADING	b r e d I N
 BREADLINE	b r e d l 6: I n
-BREAD’S	b r e d s
+BREAD'S	b r e d s
 BREADS	b r e d z
 BREADTH	b r e d T
 BREADWINNER	b r e d w I n @
@@ -15125,7 +15125,7 @@ BREAKFAST	b r e k f @ s t
 BREAKFASTS	b r e k f @ s t s
 BREAKFIELD	b r {I k f i: l d
 BREAK-IN	b r {I k I n
-BREAKIN’	b r {I k I n
+BREAKIN'	b r {I k I n
 BREAKING	b r {I k I N
 BREAKMATE	b r {I k m {I t
 BREAKNECK	b r {I k n e k
@@ -15962,8 +15962,8 @@ BROTHERHOOD	b r 6 D @ h U d
 BROTHER-IN-LAW	b r 6 D @ I n l o:
 BROTHER-IN-LAW	b r 6 D @ r I n l o:
 BROTHERLY	b r 6 D @ l i:
-BROTHER’S	b r 6 D r s
-BROTHER’S-	b r 6 D r s
+BROTHER'S	b r 6 D r s
+BROTHER'S-	b r 6 D r s
 BROTHER'S	b r 6 D @ z
 BROTHERS	b r 6 D @ z
 BROTHERS'	b r 6 D @ z
@@ -16030,7 +16030,7 @@ BROWNRIGG	b r {O n r I g
 BROWN'S	b r {O n d z
 BROWNS	b r {O n d z
 BROWNS'	b r {O n d z
-BROWN’S	b r {O n s
+BROWN'S	b r {O n s
 BROWNSON	b r {O n s n
 BROWNSTEIN	b r {O n s t Ae n
 BROWNSTEIN	b r {O n s t i: n
@@ -16698,7 +16698,7 @@ BULLARD	b U l @ d
 BULLBAR	b U l b 6:
 BULL	b U l
 BULLDOG	b U l d O g
-BULLDOGS’	b U l d O g s
+BULLDOGS'	b U l d O g s
 BULLDOGS	b U l d O g z
 BULLDOZE	b U l d @} z
 BULLDOZED	b U l d @} z d
@@ -18527,8 +18527,8 @@ CAN'T	k 6: n t
 CANT	k 6: n t
 CAN'T	k { n t
 CAN'T-	k { n t
-CAN’T	k { n t
-CAN’T-	k { n t
+CAN'T	k { n t
+CAN'T-	k { n t
 CANT	k { n t
 CANTLE	k { n t @ l
 CANTLEY	k { n t l i:
@@ -19889,7 +19889,7 @@ CAUSATIVE	k o: z @ t I v
 CAUSATIVE	k O z @ t I v
 CAUSBY	k o: z b i:
 CAUSED	k o: z d
-‘CAUSE	k o: z
+'CAUSE	k o: z
 CAUSE	k o: z
 'CAUSE	k @ z
 CAUSER	k o: z @
@@ -20612,7 +20612,7 @@ CHAMPIONING	tS { m p i: @ n I N
 CHAMPIONSHIP'S	tS { m p i: @ n S I p s
 CHAMPIONSHIPS	tS { m p i: @ n S I p s
 CHAMPIONSHIP	tS { m p i: @ n S I p
-CHAMPION’S	tS { m p i: n s
+CHAMPION'S	tS { m p i: n s
 CHAMPION'S	tS { m p i: @ n z
 CHAMPIONS	tS { m p i: @ n z
 CHAMPION	tS { m p i: @ n
@@ -20759,7 +20759,7 @@ CHARADES	S @ r {I d z
 CHARALAMBOS	tS 6: l O m b @} s
 CHARASSE	tS e r 6: s
 CHARA	tS 6: @
-CHARBEL’S	tS 6: b e l s
+CHARBEL'S	tS 6: b e l s
 CHARBEL'S	tS 6: b l z
 CHARBEL	tS 6: b l
 CHARBONEAU	S 6: b @ n @}
@@ -20913,7 +20913,7 @@ CHASTISE	tS { s t 6: I z
 CHASTISING	tS { s t Ae z I N
 CHASTITY	tS { s t @ t i:
 CHAS	tS O z
-CHA’S	tS @ s
+CHA'S	tS @ s
 CHASUBLE	tS O s @ b @ l
 CHATAQUA	S 6 t o: k w @
 CHATEAU	S { t @}
@@ -21447,7 +21447,7 @@ CHILDLIKE	tS 6: I l d l 6: I k
 CHILDMINDER	tS Ae l d m 6: I n d @
 CHILDRAISING	tS Ae l d r {I z I N
 CHILDREE	tS Ae l d r i:
-CHILDREN’S	tS I l d r e n s
+CHILDREN'S	tS I l d r e n s
 CHILDREN'S	tS I l d r @ n z
 CHILDRENS	tS I l d r @ n z
 CHILDRENS'	tS I l d r @ n z
@@ -21455,7 +21455,7 @@ CHILDREN	tS I l d r @ n
 CHILDRESS	tS I l d r @ s
 CHILDRES	tS Ae l d @ z
 CHILDREY	tS I l d r i:
-CHILD’S	tS Ae l d s
+CHILD'S	tS Ae l d s
 CHILD'S	tS Ae l d z
 CHILDS	tS Ae l d z
 CHILD	tS 6: I l d
@@ -21560,7 +21560,7 @@ CHIPPS	tS I p s
 CHIPPY	tS I p i:
 CHIPSOFT	tS I p s O f t
 CHIP'S	tS I p s
-CHIP’S	tS I p s
+CHIP'S	tS I p s
 CHIPS	tS I p s
 CHIP	tS I p
 CHIQUITA	k I k w i: t @
@@ -21792,7 +21792,7 @@ CHRIPTOSPORIDIUM	k r I p t @} s p O r @ d i: @ m
 CHRISCOE	k r I s k @}
 CHRISCO	k r i: s k @}
 CHRISH-	k r @ S
-CHRIS’	k r Ae s
+CHRIS'	k r Ae s
 CHRIS	k r I s
 CHRIS'	k r I s
 CHRIS-	k r I s
@@ -21843,7 +21843,7 @@ CHRISTIES	k r I s t i: z
 CHRISTI	k r I s t i:
 CHRISTINA	k r I s t i: n @
 CHRISTINE	k r I s t i: n
-CHRISTINE’S	k r I s t i: n s
+CHRISTINE'S	k r I s t i: n s
 CHRISTINE'S	k r I s t i: n z
 CHRISTISON	k r I s t @ s @ n
 CHRIST	k r Ae s t
@@ -21964,7 +21964,7 @@ CHUI	k oI
 CHUJITSUYA	tS }: dZ i: t s j }: n @} w
 CHUKCHI	tS U k tS i:
 CHULA	tS }: l @
-CHULLORA’S	tS 6 l @ @ s
+CHULLORA'S	tS 6 l @ @ s
 CHULLORA	tS 6 l @ r @
 CHULLORA-	tS 6 l @ r @
 CHUL	tS @ l
@@ -22322,7 +22322,7 @@ CITYSEARCH	s I t i: S 3: tS
 CITYSIDE	s I t i: s 6: I d
 CITY	s I t i:
 CITY-	s I t i:
-CITY’S	s I t i: s
+CITY'S	s I t i: s
 CITY'S	s I t i: z
 CITYTRUST	s I t i: t r @ s t
 CITYWIDE	s I t i: w 6: I d
@@ -23104,7 +23104,7 @@ COACHES	k @} tS @ z
 COACHING	k @} tS I N
 COACH	k @} tS
 COACHMAN	k @} tS m @ n
-COACH’S	k @} tS s
+COACH'S	k @} tS s
 COACH'S	k @} tS @ z
 COAD	k @} d
 COADY	k @} d i:
@@ -26478,12 +26478,12 @@ COULD-	k U d
 COULDN'T	k U d @ n t
 COULDN'T	k U d n t
 COULDN'T-	k U d n t
-COULDN’T	k U d n t
-COULDN’T-	k U d n t
+COULDN'T	k U d n t
+COULDN'T-	k U d n t
 COULD'VE	k U d @ v
 COULD'VE-	k U d @ v
-COULD’VE	k U l d v
-COULD’VE-	k U l d v
+COULD'VE	k U l d v
+COULD'VE-	k U l d v
 COULEE	k }: l i:
 COULL	k {O l
 COULOMBE	k {O l @} m b i:
@@ -26627,7 +26627,7 @@ COUNTRY-	k 6 n t r i:
 COUNTRYMAN	k 6 n t r i: m @ n
 COUNTRYMEN	k 6 n t r i: m @ n
 COUNTRYSIDE	k 6 n t r i: s Ae d
-COUNTRY’S	k 6 n t r i: s
+COUNTRY'S	k 6 n t r i: s
 COUNTRY'S	k 6 n t r i: z
 COUNTRYWIDE	k 6 n t r i: w 6: I d
 COUNTS	k {O n t s
@@ -26733,8 +26733,8 @@ COUSIN	k 6 z @ n
 COUSIN	k 6 z n
 COUSIN-	k 6 z n
 COUSINO	k 6: U s i: n @}
-COUSIN’S	k 6 z I n s
-COUSINS’	k 6 z n s
+COUSIN'S	k 6 z I n s
+COUSINS'	k 6 z n s
 COUSIN'S	k 6 z n z
 COUSINS	k 6 z n z
 COUSINS-	k 6 z n z
@@ -26900,7 +26900,7 @@ COZINESS	k @} z i: n @ s
 COZ	k 6 z
 COZ	k o: z
 COZ	k O z
-‘COZ	k @} z
+'COZ	k @} z
 COZ	k @} z
 COZ-	k @} z
 COZMAN	k @} z m @ n
@@ -27037,7 +27037,7 @@ CRANIAL	k r {I n j @ l
 CRANIUM	k r {I n i: @ m
 CRANKED	k r { N k t
 CRANKING	k r { N k I N
-CRANKIN’	k r { N k I n
+CRANKIN'	k r { N k I n
 CRANK	k r { N k
 CRANKSHAFT	k r { N k S 6: f t
 CRANKSHAFTS	k r { N k S 6: f t s
@@ -28657,7 +28657,7 @@ DADDONA	d O d @} n @
 DADDY	d { d i:
 DADDY-O	d { d i: @}
 DADDY-O'S	d { d i: @} z
-DADDY’S	d { d d i: s
+DADDY'S	d { d d i: s
 DADDY'S	d { d i: z
 DADE	d {I d
 DADELAND	d {I d l @ n d
@@ -28665,8 +28665,8 @@ DADFAR	d { d D { t
 DA	d i: {I
 DADISMAN	d { d @ s m @ n
 DADO	d {I d @}
-DAD’S	d { d s
-DAD’S-	d { d s
+DAD'S	d { d s
+DAD'S-	d { d s
 DAD'S	d { d z
 DADS	d { d z
 DADY	d {I d i:
@@ -28979,7 +28979,7 @@ DANA	d {I n @
 DANAHER	d { n @ h @
 DANAHY	d { n i: @
 DANA'S	d {I n @ z
-DANA’S	d { n @ s
+DANA'S	d { n @ s
 DANBURY	d { n b @ r i:
 DANBY	d { n b i:
 DANCA	d O N k @
@@ -29442,7 +29442,7 @@ DAVI	d O v i:
 DAVIDOW	d { v @ d @}
 DAVID'S	d {I v @ d z
 DAVIDS	d {I v @ d z
-DAVID’S	d {I v I d s
+DAVID'S	d {I v I d s
 DAVIDSON	d {I v @ d s n
 DAVIDSON'S	d {I v @ d s n z
 DAVIE	d {I v i:
@@ -29486,7 +29486,7 @@ DAWNS	d o: n z
 DAWS	d o: z
 DAWSEY	d O s i:
 DAWSON	d O s n
-DAWSON’S	d o: s n s
+DAWSON'S	d o: s n s
 DAWSON'S	d O s n z
 DAX	d { k s
 DAX'	d { k s
@@ -29518,7 +29518,7 @@ DAYLIGHTS	d {I l 6: I t s
 DAYLONG	d {I l O N
 DAYNARD	d {I n @ d
 DAYNE	d {I n
-DAY’S	d i: s
+DAY'S	d i: s
 DAY'S	d {I z
 DAYS	d {I z
 DAYS'	d {I z
@@ -29545,7 +29545,7 @@ DBASE	d i: b {I s
 D.C.	d i: s i:
 DC	d i: s i:
 DC-	d i: s i:
-‘D	d
+'D	d
 D-	d
 D	d i:
 D-	d i:
@@ -32487,8 +32487,8 @@ DIDION'S	d I d i: @ n z
 DID	j }:
 DIDN'T	d I d n t
 DIDN'T-	d I d n t
-DIDN’T	d I d n t
-DIDN’T-	d I d n t
+DIDN'T	d I d n t
+DIDN'T-	d I d n t
 DIDNT	d I d n t
 DIDO	d @ d @}
 DIDOMENICO	d I d @ m e n @ k @}
@@ -32546,7 +32546,7 @@ DIERY	d I@ r i:
 DIES	d Ae z
 DIESEL	d i: z @ l
 DIESEL	d i: z l
-DIESEL’S	d i: s e l s
+DIESEL'S	d i: s e l s
 DIESELS	d i: z @ l z
 DIESES	d Ae z @ z
 DIESING	d i: s I N
@@ -34108,7 +34108,7 @@ DOCTOR	d O k t @
 DOCTOR-	d O k t @
 DOCTORED	d O k t @ d
 DOCTORING	d O k t @ r I N
-DOCTOR’S	d O k t r s
+DOCTOR'S	d O k t r s
 DOCTOR'S	d O k t @ z
 DOCTORS	d O k t @ z
 DOCTORS'	d O k t @ z
@@ -34192,8 +34192,8 @@ DOES	d @ z
 DOESN'T	d 6 z @ n
 DOESN'T	d 6 z n t
 DOESN'T-	d 6 z n t
-DOESN’T	d @} s n t
-DOESN’T-	d @} s n t
+DOESN'T	d @} s n t
+DOESN'T-	d @} s n t
 DOETSCH	d @} tS
 D'OEUVRE	d 3: v
 D'OEUVRES	d 3: v z
@@ -34240,7 +34240,7 @@ DOGMATISM	d O g m @ t I z @ m
 DOG'S	d O g z
 DOGS	d O g z
 DOGS'	d O g z
-DOG’S	d O N s
+DOG'S	d O N s
 DOGWOOD	d O g w U d
 DOGWOODS	d O g w U d z
 DOHA	d @} h 6:
@@ -34269,7 +34269,7 @@ DOILY	d o: I l i:
 DOIN	d oI n
 DOIN'	d oI n
 DOIN-	d oI n
-DOIN’	d }: oI n
+DOIN'	d }: oI n
 DOING	d }: I N
 DOING-	d }: I N
 DOINGS	d }: I N z
@@ -34342,7 +34342,7 @@ DOLLIVER	d O l @ v @
 DOLLOFF	d O l O f
 DOLLOP	d O l @ p
 DOLL'S	d O l z
-DOLL’S	d O l z
+DOLL'S	d O l z
 DOLLS	d O l z
 DOLLY	d O l i:
 DOLLY'S	d O l i: z
@@ -34582,14 +34582,14 @@ DONOVAN'S	d O n @ v n z
 DONSBACH	d O n z b O k
 DON'S	d O n z
 DONS	d O n z
-DON’T	d }:
+DON'T	d }:
 DON'T	d @} n
 DON'T	d @} n t
 DON'T-	d @} n t
 DONT	d @} n t
 DONT-	d @} n t
-DON’T	d O n t
-DON’T-	d O n t
+DON'T	d O n t
+DON'T-	d O n t
 DON'TS	d @} n s
 DON'TS	d @} n t s
 DONUT	d @} n 6 t
@@ -35156,7 +35156,7 @@ DRAMA	d r 6: m @
 DRAMAMINE	d r { m @ m i: n
 DRAMA'S	d r 6: m @ z
 DRAMAS	d r 6: m @ z
-DRAMA’S	d r { m @ s
+DRAMA'S	d r { m @ s
 DRAMATICALLY	d r @ m { t I k l i:
 DRAMATIC	d r @ m { t I k
 DRAMATICS	d r @ m { t I k s
@@ -35380,7 +35380,7 @@ DRINKER	d r I N k @
 DRINKER'S	d r I N k @ z
 DRINKERS	d r I N k @ z
 DRINKING	d r I N k I N
-DRINK’S	d r I N k s
+DRINK'S	d r I N k s
 DRINKS	d r I N k s
 DRINKWATER	d r I N k w o: t @
 DRINKWINE	d r I N k w Ae n
@@ -35632,7 +35632,7 @@ DUARTE'S	d w 6: t {I z
 DUBACH	d 6 b O k
 DUBA	d j }: b @
 DUBAI	d U b Ae
-DUBAI’S	d @ b {I I s
+DUBAI'S	d @ b {I I s
 DUBARRY	d j }: b @ r i:
 DUBAS	d j }: b @ z
 DUBAY	d @ b {I
@@ -36378,7 +36378,7 @@ DYNEER	d 6: I n I@
 DYNEER	d @ n I@
 DYNES	d Ae n z
 D'YOU	d Ae }:
-D’YOU-	d i: }:
+D'YOU-	d i: }:
 D'YOU	dZ j }:
 DYSAN	d 6: I s n
 DYSART	d I s @ t
@@ -38010,7 +38010,7 @@ EMACIATES	@ m {I S i: {I t s
 EMACIATING	@ m {I S i: {I t I N
 EMACS	@ m { k s
 EMAD	@ m { d
-EMAD’S	@ m { d s
+EMAD'S	@ m { d s
 E-MAILED	i: m {I l d
 EMAILED	i: m {I l d
 E-MAIL	i: m {I l
@@ -38243,7 +38243,7 @@ EMLING	e m l I N
 EMLYN	@ m l @ n
 EMLYNNE	@ m l 6: I n
 'EM	@ m
-‘EM	m
+'EM	m
 EMMA	e m @
 EMMALINE	e m O l i: n i:
 EMMANUELLE	@ m O n }: e l
@@ -40052,7 +40052,7 @@ EUROPHILE	j }: r @} f 6: I l
 EUROPHILES	j }: r @} f Ae l z
 EUROPIUM	j }: r @} p i: @ m
 EUROSID	j o: @ s @ d
-EURO’S	j }: r s
+EURO'S	j }: r s
 EURO'S	j }: r @} z
 EUROS	j }: r @} z
 EUROSTAR	j }: r @ s t 6:
@@ -40231,14 +40231,14 @@ EVERYONE	e v r i: w 6 n
 EVERYONE-	e v r i: w 6 n
 EVERYONE'S	e v r i: w 6 n z
 EVERYONE'S-	e v r i: w 6 n z
-EVERYONE’S	e v r i: w 6 s
-EVERYONE’S-	e v r i: w 6 s
+EVERYONE'S	e v r i: w 6 s
+EVERYONE'S-	e v r i: w 6 s
 EVERYON	e v r i: O n
 EVERYPLACE	e v r i: p l {I s
 EVERYTHING	e v r i: T I N
 EVERYTHING	e v r I T I N
 EVERYTHING-	e v r I T I N
-EVERYTHING’S	e v r I T I N s
+EVERYTHING'S	e v r I T I N s
 EVERYTHING'S	e v r I T I N z
 EVERYTHING'S-	e v r I T I N z
 EVERYTHINGS	e v r I T I N z
@@ -40375,7 +40375,7 @@ EXAMPLE	@ g z { m p @ l
 EXAMPLE	@ g z { m p l
 EXAMPLE-	@ g z { m p l
 EXAMPLES	@ g z { m p l z
-EXAM’S	@ g z { m s
+EXAM'S	@ g z { m s
 EXAM'S	@ g z { m z
 EXAMS	@ g z { m z
 EXAMS-	@ g z { m z
@@ -41177,7 +41177,7 @@ FACTORS	f { k t @ z
 FACTORS'	f { k t @ z
 FACTORY	f { k t @ r i:
 FACTORY	f { k t r i:
-FACTORY’S	f { k t @ r i: s
+FACTORY'S	f { k t @ r i: s
 FACTORY'S	f { k t @ r i: z
 FACTOY	f { k t oI
 FACTS	f { k s
@@ -41468,7 +41468,7 @@ FAMILYLAW	f { m l i: l o:
 FAMILY-ORIENTED	f { m @ l i: o: r i: e n t @ d
 FAMILYPLANNING	f { m l i: p l { n I N
 FAMILYROOM	f { m l i: r }: m
-FAMILY’S	f { m @ l i: s
+FAMILY'S	f { m @ l i: s
 FAMILY'S	f { m @ l i: z
 FAMINE	f { m @ n
 FAMINES	f { m @ n z
@@ -41930,7 +41930,7 @@ FAVOUR	f {I v @
 FAVOURITE	f {I v @ r @ t
 FAVOURITE-	f {I v @ r @ t
 FAVOURITE'S	f {I v @ r @ t s
-FAVOURITE’S	f {I v @ r @ t s
+FAVOURITE'S	f {I v @ r @ t s
 FAVOURITES	f {I v @ r @ t s
 FAVOURS	f {I v @ z
 FAVREAU	f 6 v r @}
@@ -44882,7 +44882,7 @@ FORTNIGHTLY	f o: t n Ae t l i:
 FORTNIGHTS	f o: t n Ae t s
 FORTNITE	f o: t n Ae t
 FORTNITE-	f o: t n Ae t
-FORTNITE’S	f o: t n Ae t s
+FORTNITE'S	f o: t n Ae t s
 FORTON	f o: t @ n
 FORTRESSES	f o: t r @ s @ z
 FORTRESS	f o: t r @ s
@@ -45378,8 +45378,8 @@ FREAKEN	f r i: k @ n
 FREAK	f r i: k
 FREAKIN	f r i: k I n
 FREAKIN'	f r i: k I n
-FREAKIN’	f r i: k I n
-FREAKIN’-	f r i: k I n
+FREAKIN'	f r i: k I n
+FREAKIN'-	f r i: k I n
 FREAKING	f r i: k I N
 FREAKING-	f r i: k I N
 FREAK'S	f r i: k s
@@ -45759,7 +45759,7 @@ FRIENDLINESS	f r e n d l i: n @ s
 FRIENDLY	f r e n d l i:
 FRIENDLY-	f r e n d l i:
 FRIENDLY'S	f r e n d l i: z
-FRIEND’S	f r e n d s
+FRIEND'S	f r e n d s
 FRIEND'S	f r e n d z
 FRIENDS	f r e n d z
 FRIENDS'	f r e n d z
@@ -46038,8 +46038,8 @@ FUCKER	f 6 k @
 FUCKERS	f 6 k @ z
 FUCK	f 6 k
 FUCK-	f 6 k
-FUCKIN’	f 6 k I n
-FUCKIN’-	f 6 k I n
+FUCKIN'	f 6 k I n
+FUCKIN'-	f 6 k I n
 FUCKIN	f 6 k @ n
 FUCKING	f 6 k I N
 FUCKING-	f 6 k I N
@@ -46746,7 +46746,7 @@ GALLEGO	g O l e g @}
 GALLEGOS	g { l @ g @} z
 GALLEMORE	g O l e m o:
 GALLEN	g { l @ n
-GALLEN’S	g { l n s
+GALLEN'S	g { l n s
 GALLENTINE	g O l e n t i: n i:
 GALLEON	g { l i: @ n
 GALLEONS	g { l i: @ n z
@@ -47841,7 +47841,7 @@ GENERATIONALLY	dZ e n @ r {I S n @ l i:
 GENERATION	dZ e n @ r {I S @ n
 GENERATION	dZ e n @ r {I S n
 GENERATION-	dZ e n @ r {I S n
-GENERATION’S	dZ e n @ r {I S n s
+GENERATION'S	dZ e n @ r {I S n s
 GENERATION'S	dZ e n @ r {I S n z
 GENERATIONS	dZ e n @ r {I S n z
 GENERATIVE	dZ e n @ r @ t I v
@@ -48820,12 +48820,12 @@ GIRLHOOD	g 3: l h U d
 GIRLIE	g 3: l i:
 GIRLISH	g 3: l I S
 GIRLISHLY	g 3: l @ S l i:
-GIRL’S	g 3: l s
+GIRL'S	g 3: l s
 GIRL'S	g 3: l z
 GIRLS	g 3: l z
 GIRLS'	g 3: l z
 GIRLS-	g 3: l z
-GIRLS’	g 3: l z
+GIRLS'	g 3: l z
 GIROBANK	g I r @} b { N k
 GIROD	Z @ r O d
 GIROIR	Z 6: I@ w 6:
@@ -49496,7 +49496,7 @@ GODSELL	g O d s l
 GODSEND	g O d s e n d
 GODSENDS	g O d s e n d z
 GODSEY	g O d z i:
-GOD’S	g O d s
+GOD'S	g O d s
 GOD'S	g O d z
 GODS	g O d z
 GODSHALK	g O d S 6 k
@@ -49599,7 +49599,7 @@ GOING-	g @} I N
 GOINGIN-	g @} I n dZ @ n
 GOIN'	g @} @ n
 GOIN	g oI n
-GOIN’	g @} oI n
+GOIN'	g @} oI n
 GOINGS	g @} I N z
 GOINGS-ON	g @} I N z O n
 GOINGS-ONS	g @} I N z O n z
@@ -50509,7 +50509,7 @@ GRANDMAISON	g r { n d m 6: I z O n
 GRANDMAISON	g r { n m {I s @ n
 GRANDMA'S	g r { n m 6: z
 GRANDMAS	g r { n m 6: z
-GRANDMA’S	g r { n m @ s
+GRANDMA'S	g r { n m @ s
 GRANDMASTER	g r { n m 6: s t @
 GRANDMET	g r { n m e t
 GRANDMOM	g r { n m 6: m
@@ -50823,7 +50823,7 @@ GREELY	g r i: @ l i:
 GREENACRE	g r i: n {I k r i:
 GREENACRE-	g r i: n {I k r i:
 GREENACRE-LE-SANDS	g r i: n {I k r i: l @ s { n d z
-GREENACRE’S	g r i: n {I k r s
+GREENACRE'S	g r i: n {I k r s
 GREENA-	g r i: n @
 GREENAN	g r i: n @ n
 GREENAWALT	g r i: n @ w O l t
@@ -52189,7 +52189,7 @@ GUY'S	g Ae z
 GUYS	g Ae z
 GUYS'	g Ae z
 GUYS-	g Ae z
-GUY’S	g i: s
+GUY'S	g i: s
 GUYTON	g 6: I t @ n
 GUZA	g j }: z @
 GUZEK	g }: z e k
@@ -52425,7 +52425,7 @@ HADLOCK	h { d l @ k
 HADNOT	h { d n @ t
 HADN'T	h { d @ n t
 HADN'T	h { d n t
-HADN’T	h { d n t
+HADN'T	h { d n t
 HADOOP	h { d j }: p
 HADOYA	h 6 d I@
 HADRIA	h { d r i: @
@@ -52838,7 +52838,7 @@ HALON	h {I l O n
 HALOPHYTIC	h { l @ f I t I k
 HALO'S	h {I l @} z
 HALOS	h {I l @} z
-HALO’S	h { l s
+HALO'S	h { l s
 HALPER	h { l p @
 HALPERIN	h { l p r @ n
 HALPERN	h { l p @ n
@@ -53124,7 +53124,7 @@ HANDLERS	h { n d l @ z
 HANDLES	h { n d l z
 HANDLEY	h { n d l i:
 HANDLING	h { n d l I N
-HANDLING’S	h { n d l I N s
+HANDLING'S	h { n d l I N s
 HANDLIN	h { n d l @ n
 HANDLON	h { n d l @ n
 HANDLOOM	h { n d l }: m
@@ -53194,7 +53194,7 @@ HANGING	h { N I N
 HANGINGS	h { N I N z
 HANGIN	h { N I n
 HANGIN'	h { N I n
-HANGIN’	h { N I n
+HANGIN'	h { N I n
 HANGMAN	h { N m @ n
 HANG	{O t
 HANGOUT	h { N {O t
@@ -53250,7 +53250,7 @@ HANNAFORD	h { n @ f 3: d
 HANNAGAN	h { n @ g { n
 HANNAH	h { n @
 HANNA	h { n @
-HANNAH’S	h { n @ s
+HANNAH'S	h { n @ s
 HANNAH'S	h { n @ z
 HANNAHS	h { n @ z
 HANNAMAN	h { n @ m @ n
@@ -53918,8 +53918,8 @@ HASLER	h { s l @
 HASLETT	h { s l I t
 HASLEY	h { z l i:
 HASMAN	h { s m @ n
-HASN’T	h { s n t
-HASN’T-	h { s n t
+HASN'T	h { s n t
+HASN'T-	h { s n t
 HASN'T	h { z n t
 HASO	h O s @}
 HASO'S	h O s @} z
@@ -54135,8 +54135,8 @@ HAVENER	h { v i: n @
 HAVEN	h {I v @ n
 HAVEN-	h {I v n
 HAVENS	h {I v @ n z
-HAVEN’T	h {I v n t
-HAVEN’T-	h {I v n t
+HAVEN'T	h {I v n t
+HAVEN'T-	h {I v n t
 HAVEN'T	h { v n t
 HAVEN'T-	h { v n t
 HAVENT	h { v n t
@@ -54634,7 +54634,7 @@ HEDGES	h e dZ @ z
 HEDGING	h e dZ I N
 HEDGLIN	h e dZ l @ n
 HEDGPETH	h e dZ p I T
-HE’D	h d
+HE'D	h d
 HE'D	h i: d
 HEDIGER	h e d I g @
 HEDI	h e d i:
@@ -55002,8 +55002,8 @@ HE'LL	h i: l
 HE'LL-	h i: l
 HELL	h i: l
 HELL-	h i: l
-HE’LL	h l
-HE’LL-	h l
+HE'LL	h l
+HE'LL-	h l
 HELLICKSON	h e l i: k s n
 HELLIER	h e l j @
 HELLINGER	h e l I N g @
@@ -55018,7 +55018,7 @@ HELLO	h 6 l @}
 HELLO	h e l @}
 HELLO	h @ l @}
 HELLRAISER	h e l r {I z @
-HELL’S	h e l s
+HELL'S	h e l s
 HELL'S	h e l z
 HELLSTROM	h e l s t r @ m
 HELLUMS	h e l @ m z
@@ -55191,7 +55191,7 @@ HENDERSHOT	h e n d @ S @ t
 HENDERSHOTT	h e n d @ S @ t
 HENDERSON	h e n d @ s n
 HENDERSON-	h e n d @ s n
-HENDERSON’S	h e n d @ s n s
+HENDERSON'S	h e n d @ s n s
 HENDLER	h e n d l @
 HENDLEY	h e n d l i:
 HENDON	h e n d @} n
@@ -55440,7 +55440,7 @@ HERE	h I@
 HEREIN	h I r @ n
 HERE	{ n d
 HERENDEEN	h I@ n d i: n
-HERE’S	h I r s
+HERE'S	h I r s
 HERE'S	h I@ z
 HERESY	h e r @ s i:
 HERETICAL	h @ r e t I k @ l
@@ -55643,8 +55643,8 @@ HESHENG	h e S e N
 -HE'S	h i: z
 HE'S	h i: z
 HE'S-	h i: z
-HE’S	h s
-HE’S-	h s
+HE'S	h s
+HE'S-	h s
 HESIK	h e s I k
 HESIK	h {I s I k
 HESIOD	h i: z i: @ d
@@ -57087,7 +57087,7 @@ HOMEFED	h @} m f e d
 HOMEFED'S	h @} m f e d z
 HOMEFRONT	h @} m f r 6 n t
 HOMEFRONT'S	h @} m f r 6 n t s
-HOMEFRONT’S	h @} m f r 6 n t s
+HOMEFRONT'S	h @} m f r 6 n t s
 HOME-GROWN	h @} m g r @} n
 HOMEGROWN	h @} m g r @} n
 HOME	h @} m
@@ -57792,12 +57792,12 @@ HOURLY	{O @ l i:
 HOUR	{O @
 HOUR-	{O @
 HOUR	{O @ r
-HOURS’	{O @ s
+HOURS'	{O @ s
 HOUR'S	{O @ z
 HOURS	{O @ z
 HOURS'	{O @ z
 HOURS-	{O @ z
-HOUR’S	r s
+HOUR'S	r s
 HOUSAND	h {O z @ n d
 HOUSDEN	h {O z d n t
 HOUSEAL	h {O z @ l
@@ -57908,7 +57908,7 @@ HOWDEN	h {O d n
 HOWDESHELL	h {O d I S e l
 HOW'D	h {O d
 HOWD	h {O d
-HOW’D	h {O w d
+HOW'D	h {O w d
 HOWDYDOODY	h {O d i: d }: d i:
 HOWDY	h {O d i:
 HOWDYSHELL	h {O d I S e l
@@ -57960,7 +57960,7 @@ HOWSARE	h 6: U s @
 HOWSE	h {O z
 HOWSELL	h 6: U z @ l
 HOWSER	h {O z @
-HOW’S	h {O w s
+HOW'S	h {O w s
 HOW'S	h {O z
 HOW'S-	h {O z
 HOWSON	h 6: U s n
@@ -58621,7 +58621,7 @@ HUSBAND	h 6 z b @ n d
 HUSBAND-	h 6 z b @ n d
 HUSBANDRY	h 6 z b @ n d r i:
 HUSBANDS'	h 6 s b @ n d z
-HUSBAND’S	h 6 z b @ n d s
+HUSBAND'S	h 6 z b @ n d s
 HUSBAND'S	h 6 z b @ n d z
 HUSBAND'S-	h 6 z b @ n d z
 HUSBANDS	h 6 z b @ n d z
@@ -59171,8 +59171,8 @@ IDEOLOGY	Ae d i: O l @ dZ i:
 IDEOLOGY-	Ae d i: O l @ dZ i:
 IDEONOMY	Ae d i: O n @ m i:
 IDETTE	Ae d e t
-I’D	I d
-I’D-	I d
+I'D	I d
+I'D-	I d
 IDIDEROD	Ae d @ d @ r O d
 IDIOCY	I d i: @ s i:
 IDIOMATIC	I d i: @ m { t I k
@@ -59363,8 +59363,8 @@ ILLG	I l g
 ILLICIT	I l I s @ t
 ILLICITLY	I l I s @ t l i:
 ILLIG	@ l I g
-I’LL	I l
-I’LL-	I l
+I'LL	I l
+I'LL-	I l
 ILL	I l
 ILLINA	@ l i: n @
 ILLINGWORTH	@ l I N w 3: T
@@ -59419,7 +59419,7 @@ ILSLEY	@ l z l i:
 ILVA	I l v @
 ILYA	@ l i: @
 ILYARONOFF	I l j 6: O n O f
-I’M	@
+I'M	@
 IMAD	@ m { d
 I'M	Ae m
 I'M-	Ae m
@@ -59479,7 +59479,7 @@ IMBUED	@ m b j }: d
 IMBUE	@ m b j }:
 IMBURGIA	@ m b 3: g i: @
 IMCERA	I m s e r @
-I’M	dZ 6 s t
+I'M	dZ 6 s t
 IMELDA	@ m e l d @
 IMEL	I m @ l
 IMES	Ae m z
@@ -59488,8 +59488,8 @@ IMHOFF	@ m h O f
 IMHOF	@ m h 6 f
 IMIG	I m I g
 I'M	I m
-I’M	I m
-I’M-	I m
+I'M	I m
+I'M-	I m
 IM	I m
 IM-IM	Ae m Ae m
 IMITABLE	I m @ t @ b @ l
@@ -59589,7 +59589,7 @@ IMMUNOPEROXIDASE	I m j }: n @} p { r o: k s @ d {I z
 IMMUNOTHERAPY	I m j }: n @} T e r @ p i:
 IMMUTABLE	I m j }: t @ b @ l
 IMNET	I m n e t
-I’M	n O t
+I'M	n O t
 IMO	Ae e m @}
 IMO	Ae m @}
 IMOGENE	I m @ dZ i: n
@@ -59863,7 +59863,7 @@ IMREG	@ m r e g
 IMREG'S	@ m r e g z
 IMRE	@ m r @
 IMRIE	@ m @ r i:
-I’M	t o: k I N
+I'M	t o: k I N
 IMUS	I m @ s
 I	n @}
 INABILITY	I n t @ b I l @ t i:
@@ -62196,8 +62196,8 @@ ISM	I z @ m
 ISMS	I z m z
 ISNER	I s n @
 ISNS	Ae e s e n e s
-ISN’T	I s n t
-ISN’T-	I s n t
+ISN'T	I s n t
+ISN'T-	I s n t
 ISN'T	I z @ n
 ISN'T	I z @ n t
 ISN'T	I z n t
@@ -62281,7 +62281,7 @@ ISSUES'	@ s }: z
 ISSUING	I S }: I N
 ISSY	@ s i:
 ISTANBUL	I s t { n b U l
-ISTANBUL’S	@ s t { n b j l s
+ISTANBUL'S	@ s t { n b j l s
 ISTAT	@ s t { t
 ISTEL'S	@ s t e l z
 ISTEL	@ s t e l
@@ -62324,7 +62324,7 @@ ITCHING	I tS I N
 ITCH	I tS
 ITCHY	I tS i:
 IT'D	I t
-IT’D	@ t
+IT'D	@ t
 ITEK	6: I t e k
 ITEL	6: I t e l
 ITEM	6: I t @ m
@@ -62354,12 +62354,12 @@ IT-ITS	I t I t s
 ITKIN	I t k @ n
 IT'LL	I t l
 IT'LL-	I t l
-IT’LL	@ t l
+IT'LL	@ t l
 ITOCHU	i: t @} tS }:
 ITOH	i: t @}
 ITO	i: t @}
 ITO'S	@ t @} z
-IT’S	dZ 6 s t
+IT'S	dZ 6 s t
 ITSELF	I t s e l f
 IT'S	I t s
 IT'S-	I t s
@@ -62367,12 +62367,12 @@ ITS	I t s
 ITS-	I t s
 IT'S-IT'S	I t s I t s
 IT'S	o: l r Ae t
-IT’S-OVER-NOW	@ t s @} v @ n {O
+IT'S-OVER-NOW	@ t s @} v @ n {O
 ITSTEE	I t s t i:
 IT'S	@ t s
 IT'S	t s
-IT’S	@ t s
-IT’S-	@ t s
+IT'S	@ t s
+IT'S-	@ t s
 ITSY-BITSY	I t s i: b I t s i:
 ITSY	I t s i:
 IT	@ t
@@ -62408,9 +62408,9 @@ IVE	6: I v
 I'VE	Ae v
 I'VE-	Ae v
 IVE	Ae v
--I’VE	I v
-I’VE	I v
-I’VE-	I v
+-I'VE	I v
+I'VE	I v
+I'VE-	I v
 I'VE-I'VE	Ae v Ae v
 IVEN	Ae v n
 IVENS	Ae v n z
@@ -62851,7 +62851,7 @@ JAPAN	dZ @ p { n
 JAPAN-	dZ @ p { n
 JAPANESE	dZ { p @ n i: z
 JAPANIMATION	dZ @ p { n @ m {I S @ n
-JAPAN’S	dZ @ p { n s
+JAPAN'S	dZ @ p { n s
 JAPAN'S	dZ @ p { n z
 JAPANS	dZ @ p { n z
 JAP	dZ { p
@@ -63038,7 +63038,7 @@ JEANNIE	dZ i: n i:
 JEANNIOT	dZ i: n i: @ t
 JEAN-PIERRE	Z 6: n p j e:
 JEANPIERRE	Z O n p i: e
-JEAN’S	dZ e n s
+JEAN'S	dZ e n s
 JEAN'S	dZ i: n z
 JEANS	dZ i: n z
 JEANSONNE	dZ e n s n
@@ -63565,7 +63565,7 @@ JOHNNIE	dZ O n i:
 JOHNNIE'S	dZ O n i: z
 JOHNNY	dZ O n i:
 JOHNNY'S	dZ O n i: z
-JOHN’S	dZ O n s
+JOHN'S	dZ O n s
 JOHN'S	dZ O n z
 JOHNS	dZ O n z
 JOHNSEN	dZ O n s n
@@ -63694,7 +63694,7 @@ JORDAN-	dZ o: d n
 JORDANIAN	dZ o: d {I n i: @ n
 JORDANIAN-PALESTINIAN	dZ o: d {I n i: @ n p { l @ s t I n i: @ n
 JORDANIANS	dZ o: d {I n i: @ n z
-JORDAN’S	dZ o: d { n s
+JORDAN'S	dZ o: d { n s
 JORDAN'S	dZ o: d n z
 JORDANS	dZ o: d n z
 JORDE	dZ o: d
@@ -63739,7 +63739,7 @@ JOSEY	dZ @} z i:
 JOSH	dZ O S
 JOSHI	dZ @} S i:
 JOSHUA	dZ O S j }: @
-JOSHUA’S	dZ O S j }: @ s
+JOSHUA'S	dZ O S j }: @ s
 JOSHUA'S	dZ O S j }: @ z
 JOSIAH	dZ @} z I@
 JOSIE	dZ @} z i:
@@ -64954,7 +64954,7 @@ KAYDON	k {I d @ n
 KAYE	k {I
 KAYES	k z
 'KAY	k {I
-‘KAY	k {I
+'KAY	k {I
 KAY	k {I
 KAYLA	k {I l @
 KAYLIE	k {I l i:
@@ -65657,7 +65657,7 @@ KHABIB	k 6: b @ b
 KHABIB	k 6: b i: b
 KHABIB	k 6: b @ s
 KHABIB'S-	k 6: b @ b z
-KHABIB’S	k {I b I b s
+KHABIB'S	k {I b I b s
 KHACHIGIAN	k 6 S i: dZ i: @ n
 KHADAFI	k @ d O f i:
 KHAD	k { d
@@ -65775,7 +65775,7 @@ KIDNAPS	k I d n { p s
 KIDNEY	k I d n i:
 KIDNEYS	k I d n i: z
 KIDO	k i: d @}
-KID’S	k I d s
+KID'S	k I d s
 KID'S	k I d z
 KIDS	k I d z
 KIDS'	k I d z
@@ -68044,7 +68044,7 @@ KRZYZANOWSKI	k r I z n O f s k i:
 KSIAZEK	k S 6: z e k
 KS	k {I s
 KS	k {I z
-K’S	k s
+K'S	k s
 KS	k s
 K'S	k z
 K.'S	k z
@@ -70049,7 +70049,7 @@ LAYLA	l {I l 6:
 LAYLAND	l {I l @ n d
 LAY	l {I
 LAYMAN	l {I m @ n
-LAYMAN’S	l {I m @ n s
+LAYMAN'S	l {I m @ n s
 LAYMAN'S	l {I m @ n z
 LAYMEN	l {I m @ n
 LAYMON	l {I m @ n
@@ -70286,7 +70286,7 @@ LEBAN-	l e b { n
 LEBANON	l e b @ n @ n
 LEBANON-	l e b @ n @ n
 LEBANON'S	l e b @ n @ n z
-LEBANON’S	l e b @ n O n s
+LEBANON'S	l e b @ n O n s
 LEBAR	l I b 6:
 LEBARON	l 6 b { r @ n
 LEBARRON	l 6 b { r @ n
@@ -70386,7 +70386,7 @@ LEDEZMA	l {I d {I z m @
 LEDFORD	l e d f 3: d
 LEDGE	l e dZ
 LEDGER	l e dZ @
-LEDGER’S	l e dZ r s
+LEDGER'S	l e dZ r s
 LEDGERS	l e dZ @ z
 LEDGERWOOD	l e dZ @ w U d
 LEDGES	l e dZ @ z
@@ -71098,8 +71098,8 @@ LETSINGER	l e t s @ n dZ @
 LET'S	l e t s
 LET'S-	l e t s
 LETS	l e t s
-LET’S	l @ t s
-LET’S-	l @ t s
+LET'S	l @ t s
+LET'S-	l @ t s
 LETSON	l e t s n
 LETTAU	l I t @}
 LETTERED	l e t @ d
@@ -71583,7 +71583,7 @@ LIFESAVER	l 6: I f s {I v @
 LIFESAVERS	l 6: I f s {I v @ z
 LIFESAVING	l 6: I f s {I v I N
 LIFE'S	l Ae f s
-LIFE’S	l Ae f s
+LIFE'S	l Ae f s
 LIFES	l Ae f s
 LIFESPAN	l Ae f s p @ n
 LIFESPANS	l Ae f s p { n z
@@ -73702,10 +73702,10 @@ LUKEN	l }: k @ n
 LUKENS	l }: k @ n z
 LUKER	l }: k @
 LUKE'S	l }: k s
-LUKE’S	l }: k s
+LUKE'S	l }: k s
 LUKES	l }: k s
 LUKEWARM	l }: k w o: m
-LUKIE’S	l }: k i: s
+LUKIE'S	l }: k i: s
 LUKIN	l }: k @ n
 LUKINS	l }: k @ n z
 LUK	l 6 k
@@ -74171,7 +74171,7 @@ MACCA-	m { k @
 MACCAQUANO	m { s @ k w 6: n @}
 MACCARONE	m { k @ r @} n
 MACCARTHY	m @ k 6: T i:
-MACCA’S	m @ k @ s
+MACCA'S	m @ k @ s
 MACCA'S	m { k @ z
 MACCAS	m { k @ z
 MACCHIA	m { k i: @
@@ -74922,7 +74922,7 @@ MAKERS	m {I k @ z
 MAKERS'	m {I k @ z
 MAKESHIFT	m {I k S I f t
 MAKE'S	m {I k s
-MAKE’S	m {I k s
+MAKE'S	m {I k s
 MAKES	m {I k s
 MAKES-	m {I k s
 MAKE-UP	m {I k 6 p
@@ -75539,7 +75539,7 @@ MANSIONS	m { n tS @ n z
 MANSKE	m { n s k
 MANSKER	m { n s k @
 MANSLAUGHTER	m { n s l o: t @
-MAN’S	m @ n s
+MAN'S	m @ n s
 MAN'S	m { n z
 MANS	m { n z
 MANSO	m { n s @}
@@ -75955,7 +75955,7 @@ MARINADES	m { r @ n {I d z
 MARINA	m @ r i: n @
 MARINARO	m { r @ n O r @}
 MARINAS	m @ r i: n @ z
-MARINA’S	m { r @ n @ s
+MARINA'S	m { r @ n @ s
 MARINATED	m { r @ n {I t @ d
 MARINATE	m { r @ n {I t
 MARINATES	m { r @ n {I t s
@@ -76408,7 +76408,7 @@ MARVEL	m 6: v l
 MARVEL-	m 6: v l
 MARVELOUSLY	m 6: v @ l @ s l i:
 MARVELOUS	m 6: v @ l @ s
-MARVEL’S	m 6: v l s
+MARVEL'S	m 6: v l s
 MARVEL'S	m 6: v l z
 MARVELS	m 6: v l z
 MARVER	m 6: v @
@@ -76443,7 +76443,7 @@ MARYMOUNT'S	m { r i: m {O n t s
 MARY	m { r i:
 MARYRUTH	m { r I@ r }: T
 MARYSE	m { r i: s
-MARY’S	m e r i: s
+MARY'S	m e r i: s
 MARY'S	m e r i: z
 MARYSVILLE	m { r i: z v @ l
 MARYVILLE	m { r i: v @ l
@@ -76646,8 +76646,8 @@ MASTERMIND	m 6: s t @ m 6: I n d
 MASTERMINDS	m 6: s t @ m Ae n d z
 MASTERPIECE	m 6: s t @ p i: s
 MASTERPIECES	m 6: s t @ p i: s @ z
-MASTER’S	m 6: s t r s
-MASTER’S-	m 6: s t r s
+MASTER'S	m 6: s t r s
+MASTER'S-	m 6: s t r s
 MASTER'S	m 6: s t @ z
 MASTERS	m 6: s t @ z
 MASTERS'	m 6: s t @ z
@@ -76760,7 +76760,7 @@ MATERNITY	m @ t 3: n @ t i:
 MATERN	m { t @ n
 MATE'S	m {I t s
 MATES	m {I t s
-MATE’S	m @ t s
+MATE'S	m @ t s
 MATEWAN	m {I t w O n
 MATEWAN	m { t j }: @ n
 MATEY	m {I t i:
@@ -77385,7 +77385,7 @@ MCCAN	m @ k { n
 MCCANNA	m @ k { n @
 MCCANN	m @ k { n
 MCCANNON	m @ k { n @ n
-MCCANN’S	m @ k { n s
+MCCANN'S	m @ k { n s
 MCCANN'S	m @ k { n z
 MCCANTS	m @ k { n t s
 MCCARDELL	m @ k 6: d @ l
@@ -77661,7 +77661,7 @@ MCDIVITT	m @ k d I v @ t
 MCDOLE	m @ k d @} l
 MCDONAGH	m @ k d n @
 MCDONALD	m @ k d O n l d
-MCDONALD’S	m @ k d O n l d s
+MCDONALD'S	m @ k d O n l d s
 MCDONALD'S	m @ k d O n l d z
 MCDONALDS	m @ k d O n l d z
 MCDONELL	m @ k d O n l
@@ -77878,7 +77878,7 @@ MCGREAL	m @ g r i: l
 MCGREEVEY	m @ g r i: v i:
 MCGREEVY	m @ g r i: v i:
 MCGREGOR	m @ g r e g @
-MCGREGOR’S	m @ g r e g @ r s
+MCGREGOR'S	m @ g r e g @ r s
 MCGREGORY	m @ g r e g @ r i:
 MCGREVIN	m @ g r e v @ n
 MCGREW	m @ g r }:
@@ -78923,7 +78923,7 @@ MELROD	m e l r O d
 MELROSE	m e l r @} z
 MELROY	m e l r oI
 MEL'S	m e l z
-MEL’S	m l s
+MEL'S	m l s
 MELSON	m e l s n
 MELTDOWN	m e l t d {O n
 MELTED	m e l t @ d
@@ -79623,7 +79623,7 @@ METPATH	m e t p 6: T
 METRAHEALTH	m e t r @ h e l T
 METRA	m e t r @
 METRE	m i: t @
-METRES’	m i: t @ e s
+METRES'	m i: t @ e s
 METRES	m i: t @ z
 METRICALLY	m e t r I k l i:
 METRICAL	m e t r I k l
@@ -79695,7 +79695,7 @@ MEXICANA	m e k s @ k { n @
 MEXICAN	m e k s I k @ n
 MEXICANO	m e k s I k O n @}
 MEXICANOS	m e k s I k O n @} z
-MEXICAN’S	m e k s I k { n s
+MEXICAN'S	m e k s I k { n s
 MEXICANS	m e k s I k @ n z
 MEXICO	m e k s I k @}
 MEXICO'S	m e k s I k @} z
@@ -79817,7 +79817,7 @@ MICHEL'S	m Ae k l z
 MICHEL'S	m I S e l z
 MICHELS	m I S e l z
 MICHEL'S	m I tS @ l z
-MICHEL’S	m @ S e l s
+MICHEL'S	m @ S e l s
 MICHELSON	m Ae k l s n
 MICHENER	m I tS n @
 MICHENER'S	m I tS n @ z
@@ -79834,7 +79834,7 @@ MICH	m I tS
 MICHNA	m I tS n @
 MICHOACAN	m I tS @} k @ n
 MICHON	m I tS @ n
-MICH’S	m I k s
+MICH'S	m I k s
 MICKA	m I k @
 MICKELBERRY	m I k l b @ r i:
 MICKEL	m I k @ l
@@ -80110,7 +80110,7 @@ MIGHT	m Ae t
 MIGHT-	m Ae t
 MIGHTN'T	m 6: I t @ n t
 MIGHT'VE	m 6: I t @ v
-MIGHT’VE	m Ae t v
+MIGHT'VE	m Ae t v
 MIGHTY	m 6: I t i:
 MIGHTY	m Ae t i:
 MIGLIACCIO	m i: g l i: O tS i: @}
@@ -80479,7 +80479,7 @@ MINAR	m 6: I n @
 MINASIAN	m I n { Z n
 MINASIAN	m @ n {I Z n
 MINAS	m i: n @ s
-MINA’S	m I n @ s
+MINA'S	m I n @ s
 MINASSIAN	m I n { s Z n
 MINATOME	m I n @ t @} m
 MINCED	m I n s t
@@ -80571,7 +80571,7 @@ MINE'S	m Ae n z
 MINE'S-	m Ae n z
 MINES	m Ae n z
 MINES'	m Ae n z
-MINE’S	m I n s
+MINE'S	m I n s
 MINESTRONE	m I n @ s t r @} n i:
 MINESWEEPER	m 6: I n s w i: p @
 MINESWEEPERS	m 6: I n s w i: p @ z
@@ -80774,7 +80774,7 @@ MINUTE'S	m I n @ t s
 MINUTES	m I n @ t s
 MINUTES'	m I n @ t s
 MINUTES-	m I n @ t s
-MINUTES’	m I n @ t s
+MINUTES'	m I n @ t s
 MINUTIAE	m I n j }: S @
 MINUTIA	m I n j }: S @
 MINYARD	m I n j 6: d
@@ -80810,7 +80810,7 @@ MIRAMAX'S	m I r @ m { k s @ z
 MIRA	m I r @
 MIRAMONTES	m I r { m O n t e s
 MIRANDA	m @ r { n d @
-MIRANDA’S	m @ r { n d @ s
+MIRANDA'S	m @ r { n d @ s
 MIRANDA'S	m @ r { n d @ z
 MIRANDO	m I r { n d @}
 MIRATEC	m I r @ t e k
@@ -82164,7 +82164,7 @@ MONTH-	m 6 n T
 MONTH'S	m 6 n T s
 MONTHS	m 6 n T s
 MONTHS-	m 6 n T s
-MONTHS’	m 6 n T s
+MONTHS'	m 6 n T s
 MONTHS'	m O n T s
 MONTICCIOLO	m O n t i: tS i: @} l @}
 MONTICELLO	m O n t @ s e l @}
@@ -82747,7 +82747,7 @@ MOTHERSHIP	m 6 D @ S I p
 MOTHERSHIP'S	m 6 D @ S I p s
 MOTHERSHIPS	m 6 D @ S I p s
 MOTHERS-IN-LAW	m 6 D @ z I n l o:
-MOTHER’S	m 6 D r s
+MOTHER'S	m 6 D r s
 MOTHER'S	m 6 D @ z
 MOTHERS	m 6 D @ z
 MOTHERS'	m @ T @ z
@@ -82958,7 +82958,7 @@ MOVIEMAKERS	m }: v i: m {I k @ z
 MOVIEMAKING	m }: v i: m {I k I N
 MOVIE	m }: v i:
 MOVIE-	m }: v i:
-MOVIE’S	m }: v i: s
+MOVIE'S	m }: v i: s
 MOVIE'S	m }: v i: z
 MOVIES	m }: v i: z
 MOVIES-	m }: v i: z
@@ -83392,7 +83392,7 @@ MUMPER	m 6 m p @
 MUMPHREY	m 6 m f @ r i:
 MUMPOWER	m 6 m p @} @
 MUMPS	m 6 m p s
-MUM’S	m 6 m s
+MUM'S	m 6 m s
 MUM'S	m 6 m z
 MUM'S-	m 6 m z
 MUMS	m 6 m z
@@ -83938,7 +83938,7 @@ NADER	n {I d @
 NADER'S	n {I d @ z
 NADGWICK	n { dZ w I k
 NADIA	n 6: d i: @
-NADIA’S	n {I d i: @ s
+NADIA'S	n {I d i: @ s
 NADINE	n 6: d i: n
 NADING	n {I d I N
 NADIR	n {I d @
@@ -84078,7 +84078,7 @@ NAMEPLATES	n {I m p l {I t s
 NAMER	n {I m @
 NAMESAKE	n {I m s {I k
 NAMESAKES	n {I m s {I k s
-NAME’S	n {I m s
+NAME'S	n {I m s
 NAME'S	n {I m z
 NAME'S-	n {I m z
 NAMES	n {I m z
@@ -84102,7 +84102,7 @@ NANDI	n O n d i:
 NANDITA	n O n d @ t @
 NANDONET	n { n d @ n e t
 NANDO	n { n d @}
-NANDO’S	n { n d s
+NANDO'S	n { n d s
 NANETTE	n @ n e t
 NANEZ	n O n e z
 NANGAKU	n { N o: k }:
@@ -85402,7 +85402,7 @@ NEZ	n e z
 NFC	e n e f s i:
 NF	e n e f
 NFL	e n e f e l
-NF’S	n f s
+NF'S	n f s
 NGAI	g Ae
 NGAI	@ n g 6: I
 NGAW	g o:
@@ -85661,7 +85661,7 @@ NIGHTHAWKS	n Ae t h o: k s
 NIGHTHORSE	n Ae t h o: s
 NIGHTINGALE	n Ae t I N g {I l
 NIGHTLIFE	n Ae t l Ae f
-NIGHTLIFE’S	n Ae t l Ae f s
+NIGHTLIFE'S	n Ae t l Ae f s
 NIGHTLINE	n Ae t l 6: I n
 NIGHTLINE'S	n Ae t l Ae n z
 NIGHTLINES	n Ae t l Ae n z
@@ -85938,10 +85938,10 @@ NIZIOLEK	n I z i: @} l e k
 NIZNIK	n I z n I k
 NKOHSE	e N k @} s i:
 NMR	e n e m 6:
-‘N’	n
+'N'	n
 N	n
 N-	n
-N’	n
+N'	n
 NN	n n
 NN-	n n
 NNNN	n n n n
@@ -86757,7 +86757,7 @@ NOTHI-	n 6 T i:
 NOTHING	n 6 T I N
 NOTHING-	n 6 T I N
 NOTHINGNESS	n 6 T I N n @ s
-NOTHING’S	n 6 T I N s
+NOTHING'S	n 6 T I N s
 NOTHING'S	n 6 T I N z
 NOTHINGS	n 6 T I N z
 NOTHIN'	n 6 T I n
@@ -86908,7 +86908,7 @@ NOW	n {O
 NOW-	n {O
 NOWOTNY	n {O @} t n i:
 NOW'S	n {O z
-NOW’S	n @} w s
+NOW'S	n @} w s
 NOXELL	n O k s e l
 NOXEMA	n O k s i: m @
 NOXIOUS	n O k S @ s
@@ -87592,8 +87592,8 @@ OCKER	O k @
 O'CLAIR	@} k l @
 OCLAIR	@} k l @
 O'CLOCK	@ k l O k
-O’CLOCK	k l O k
-O’CLOCK-	k l O k
+O'CLOCK	k l O k
+O'CLOCK-	k l O k
 OCLOCK	@ k l O k
 OCON	@ k O n
 O'CONNELL	@} k O n @ l
@@ -88151,7 +88151,7 @@ OLD-	@} l d
 OLDMAN	@} l d m @ n
 OLDROYD	@} l d r oI d
 OLD-SCHOOL	@} l d s k }: l
-OLD’S	@} l d s
+OLD'S	@} l d s
 OLD'S	@} l d z
 OLDS	@} l d z
 OLDSMAR	@} l d z m 6:
@@ -88469,8 +88469,8 @@ ONE'S-	w 6 n z
 ONES	w 6 n z
 ONES'	w 6 n z
 ONES-	w 6 n z
-ONE’S	w 6 s
-ONE’S-	w 6 s
+ONE'S	w 6 s
+ONE'S-	w 6 s
 ONE-THIRD	w 6 n T @ d
 ONE-THIRTY	w 6 n T 3: t i:
 ONE-THOUSAND-FIVE-HUNDRED	w 6 n T {O z n d f Ae v h 6 n d r @ d
@@ -88674,7 +88674,7 @@ OPLINGER	@} p l I N g @
 OP	O p
 OP-	O p
 OP-OPEN	O p @} p @ n
-OPORTO’S	@} p o: t @} z
+OPORTO'S	@} p o: t @} z
 OPOSSUM	@} p O s @ m
 OPPEDISANO	@} p e d i: S 6: n @}
 OPPEL	O p @ l
@@ -88932,7 +88932,7 @@ ORGANIC	o: g { n I k
 ORGANICS	o: g { n I k s
 ORGANISATION	o: g @ n 6: I z {I S @ n
 ORGANISATION	o: g @ n Ae z {I S n
-ORGANISATION’S	o: g @ n Ae z {I S n s
+ORGANISATION'S	o: g @ n Ae z {I S n s
 ORGANISATIONS	o: g @ n Ae z {I S n z
 ORGANISED	o: g @ n Ae z d
 ORGANISE	o: g @ n 6: I z
@@ -89411,7 +89411,7 @@ OTHELLO	o: T e l @}
 OTHER	6 D @
 OTHER-	6 D @
 OTHERNESS	6 D @ n @ s
-OTHER’S	6 D r s
+OTHER'S	6 D r s
 OTHER'S	6 D @ z
 OTHERS	6 D @ z
 OTHERS'	6 D @ z
@@ -90431,7 +90431,7 @@ PADDLING	p { d @ l I N
 PADDLING	p { d l I N
 PADDOCK	p { d @ k
 PADDY	p { d i:
-PADDY’S	p { d i: s
+PADDY'S	p { d i: s
 PADDY'S	p { d i: z
 PADEN	p {I d @ n
 PADEREWSKI	p O d }: s k i:
@@ -91184,7 +91184,7 @@ PARENT'S	p e r @ n t s
 PARENTS	p e r @ n t s
 PARENTS'	p e r @ n t s
 PARENTS-	p e r @ n t s
-PARENTS’	p @ r @ n t s
+PARENTS'	p @ r @ n t s
 PARE	p e:
 PARES	p e z
 PARETI	p { r e t i:
@@ -91324,7 +91324,7 @@ PARQUET	p 6: k {I
 PARRACK	p { r I k
 PARRAMATTA	p { r @ m @ t @
 PARRAMATTA-	p { r @ m @ t @
-PARRAMATTA’S	p { r @ m { t @ s
+PARRAMATTA'S	p { r @ m { t @ s
 PARRAMATTA'S	p { r @ m @ t @ z
 PARRAMATTA'S-	p { r @ m @ t @ z
 PARRAMORE	p @ r { m o:
@@ -91449,7 +91449,7 @@ PARTNERSHIP	p 6: t n @ S I p
 PARTNERSHIP'S	p 6: t n @ S I p s
 PARTNERSHIPS	p 6: t n @ S I p s
 PARTNERSHIPS'	p 6: t n @ S I p s
-PARTNER’S	p 6: t n r s
+PARTNER'S	p 6: t n r s
 PARTNER'S	p 6: t n @ z
 PARTNERS	p 6: t n @ z
 PARTNERS'	p 6: t n @ z
@@ -91852,7 +91852,7 @@ PAULOS	p {O l @} z
 PAUL	p o: l
 PAULSEN	p {O l s n
 PAULSON	p o: l s n
-PAUL’S	p o: l s
+PAUL'S	p o: l s
 PAUL'S	p o: l z
 PAULS	p o: l z
 PAULUS	p o: l @ s
@@ -92600,7 +92600,7 @@ PEOPLE-PERSON	p i: p l p 3: s n
 PEOPLE	p i: p @ l
 PEOPLE	p i: p l
 PEOPLE-	p i: p l
-PEOPLE’S	p i: p l s
+PEOPLE'S	p i: p l s
 PEOPLE'S	p i: p l z
 PEOPLES	p i: p l z
 PEOPLES'	p i: p l z
@@ -93071,7 +93071,7 @@ PERSONNEL	p 3: s @ n e l
 PERSON	p 3: s @ n
 PERSON	p 3: s n
 PERSON-	p 3: s n
-PERSON’S	p 3: s n s
+PERSON'S	p 3: s n s
 PERSON'S	p 3: s n z
 PERSONS	p 3: s n z
 PERS	p 3: s
@@ -93213,7 +93213,7 @@ PETERSEN	p i: t @ s n
 PETERSEN'S	p i: t @ s n z
 PETERSON	p i: t @ s n
 PETERSON'S	p i: t @ s n z
-PETER’S	p i: t r s
+PETER'S	p i: t r s
 PETER'S	p i: t @ z
 PETERS	p i: t @ z
 PETERY	p i: t @ r i:
@@ -93706,7 +93706,7 @@ PHONEMATE	f @} n m {I t
 PHONEME	f @} n i: m
 PHONEMES	f @} n i: m z
 PHONEMIC	f 6 n i: m I k
-PHONE’S	f @} n s
+PHONE'S	f @} n s
 PHONE'S	f @} n z
 PHONES	f @} n z
 PHONES-	f @} n z
@@ -94200,7 +94200,7 @@ PILOT	p Ae l @ t
 PILOT'S	p 6: I l @ t s
 PILOTS	p 6: I l @ t s
 PILOTS'	p 6: I l @ t s
-PILOT’S	p Ae l O t s
+PILOT'S	p Ae l O t s
 PILOTTE	p I l O t
 PIL	p I l
 PILSNER	p I l z n @
@@ -96344,7 +96344,7 @@ POZO	p @} z @}
 POZOS	p @} z @} s
 POZZI	p O z i:
 P-	p
-‘P’	p i:
+'P'	p i:
 P	p i:
 P-	p i:
 P.	p i:
@@ -100099,7 +100099,7 @@ RASNICK	r { s n I k
 RASORITE	r { s @ r Ae t
 RASO	r O s @}
 RASOR	r {I z @
-RASPBERRIES’	r 6: z b @ r i: s
+RASPBERRIES'	r 6: z b @ r i: s
 RASPBERRIES	r { z b r i: z
 RASPBERRY	r { z b r i:
 RASPED	r { s p t
@@ -102408,7 +102408,7 @@ RENT	r e n t
 RENT-	r e n t
 RENTSCHLER	r e n tS @ l @
 RENTSCH	r e n tS
-‘RENTS	r e n t s
+'RENTS	r e n t s
 RENTS	r e n t s
 RENTZ	r e n t s
 RENUNCIATE	r @ n 6 n s i: {I t
@@ -105020,7 +105020,7 @@ ROMULUS	r O m j @ l @ s
 RONALDA	r O n @ l d @
 RONALDO	r O n @ l d @}
 RONALDO-	r O n @ l d @}
-RONALDO’S	r O n { l d s
+RONALDO'S	r O n { l d s
 RONALD	r O n l d
 RONAN	r @} n @ n
 RONAN'S	r @} n @ n z
@@ -105200,7 +105200,7 @@ ROSEBUSH	r @} z b U S
 ROSECRANS	r @} z k r { n z
 ROSEKRANS	r @} z k r @ n z
 ROSELAND	r @} z l { n d
-ROSELAND’S	r @} z l { n d s
+ROSELAND'S	r @} z l { n d s
 ROSELANDS	r @} z l @ n d z
 ROSELAWN	r @} z l O n
 ROSELAWN'S	r @} z l O n z
@@ -105557,7 +105557,7 @@ ROUTIER	r }: t i: @
 ROUTINELY	r }: t i: n l i:
 ROUTINE	r }: t i: n
 ROUTINE-	r }: t i: n
-ROUTINE’S	r }: t i: n s
+ROUTINE'S	r }: t i: n s
 ROUTINES	r }: t i: n z
 ROUTING	r {O t I N
 ROUTING	r }: t I N
@@ -105751,7 +105751,7 @@ RUBID	r }: b I d
 RUBIE	r }: b i:
 RUBIES	r }: b i: z
 RUBIK	r }: b I k
-RUBIK’S	r }: b Ae k s
+RUBIK'S	r }: b Ae k s
 RUBIK'S	r }: b I k s
 RUBINA	r }: b i: n @
 RUBINO	r }: b i: n @}
@@ -106175,7 +106175,7 @@ RUSSIAN'S	r 6 S @ n z
 RUSSIANS	r 6 S @ n z
 RUSSIANS'	r 6 S @ n z
 RUSSIA	r 6 S @
-RUSSIA’S	r 6 S i: @ s
+RUSSIA'S	r 6 S i: @ s
 RUSSIA'S	r 6 S @ z
 RUSSIFICATION	r @ s @ f I k {I S n
 RUSSIFICATION	r }: s @ f I k {I S n
@@ -106748,7 +106748,7 @@ SALADS	s { l @ d z
 SALAFIA	s @ l {I f i: @
 SALAH	s @ l @
 SALAH-	s @ l @
-SALAH’S	s @ l @ s
+SALAH'S	s @ l @ s
 SALAK	s @ l { k
 SALAMANCA	s { l @ m { N k @
 SALAMANDER	s { l @ m { n d @
@@ -106761,7 +106761,7 @@ SALAMIS	s @ l 6: m i: z
 SALAMONE	s { l @ m @} n
 SALAMON	s { l @ m @ n
 SALAM	s O l 6: m
-SALAM’S	s @ l { m s
+SALAM'S	s @ l { m s
 SALANT	s { l @ n t
 SALARIED	s { l @ r i: d
 SALARIES	s { l @ r i: z
@@ -107404,7 +107404,7 @@ SARAGE	s { r I dZ
 SARAGE'S	s { r @ dZ @ z
 SARAH	s e r @
 SARAH-	s e r @
-SARAH’S	s e r @ s
+SARAH'S	s e r @ s
 SARAH'S	s e r @ z
 SARAJEVAN	s O r @ j }: {I v @ n
 SARAJEVAN'S	s O r @ j }: {I v n z
@@ -108708,7 +108708,7 @@ SCHOOLMATES	s k }: l m {I t s
 SCHOOLROOM	s k }: l r }: m
 SCHOOL	s k }: l
 SCHOOL-	s k }: l
-SCHOOL’S	s k }: l s
+SCHOOL'S	s k }: l s
 SCHOOL'S	s k }: l z
 SCHOOLS	s k }: l z
 SCHOOLS'	s k }: l z
@@ -109284,7 +109284,7 @@ SCREENSHOT	s k r i: n S O t
 SCREENSHOTS	s k r i: n S O t s
 SCREEN	s k r i: n
 SCREEN-	s k r i: n
-SCREEN’S	s k r i: n s
+SCREEN'S	s k r i: n s
 SCREEN'S	s k r i: n z
 SCREENS	s k r i: n z
 SCREENWRITER	s k r i: n r 6: I t @
@@ -109601,7 +109601,7 @@ SEATO	s i: t @}
 SEATRAIN	s i: t r {I n
 SEAT	s i: t
 SEAT'S	s i: t s
-SEAT’S	s i: t s
+SEAT'S	s i: t s
 SEATS	s i: t s
 SEATTLE	s i: { t l
 SEATTLE'S	s i: { t l z
@@ -109990,7 +109990,7 @@ SEILS	s Ae l z
 SEIM	s I m
 SEINE	s {I n
 SEINFELD	s Ae n f e l d
-SEINFELD’S	s Ae n f e l d s
+SEINFELD'S	s Ae n f e l d s
 SEINFELD'S	s Ae n f e l d z
 SEIN	s Ae n
 SEIPEL	s 6: I p @ l
@@ -110757,7 +110757,7 @@ SESSA	s e s @
 SESSION	s e S @ n
 SESSION	s e S n
 SESSION-	s e S n
-SESSION’S	s e S n s
+SESSION'S	s e S n s
 SESSION'S	s e S n z
 SESSIONS	s e S n z
 SESSIONS'	s e S n z
@@ -110823,7 +110823,7 @@ SEVASTOPOL	s e v @ s t O p l
 SEVCIK	s e v s I k
 SEVDA>	s e v d @
 SEVEN-ELEVEN	s e v n @ l e v n
-SEVEN-ELEVEN’S	s e v n @ l e v n s
+SEVEN-ELEVEN'S	s e v n @ l e v n s
 SEVENFOLD	s e v n f @} l d
 SEVEN-NIL	s e v n n I l
 SEVEN-SEVENTEEN	s e v n s e v n t i: n
@@ -111402,7 +111402,7 @@ SHEDRICK	S e d r I k
 SHED	S e d
 SHE'D	S i: d
 SHEDS	S e d z
-SHE’D	S t
+SHE'D	S t
 SHEEDER	S i: d @
 SHEEDY	S i: d i:
 SHEEHAN	S i: h @ n
@@ -111506,7 +111506,7 @@ SHELLSHOCKED	S e l S O k t
 SHELLSHOCK	S e l S O k
 SHE'LL	S i: l
 SHE'LL-	S i: l
-SHE’LL	S l
+SHE'LL	S l
 SHELL'S	S e l z
 SHELLS	S e l z
 SHELLY	S e l i:
@@ -111633,11 +111633,11 @@ SHERYL	S e r @ l
 SHESHUNOFF	S e S }: n O f
 SHE	S i:
 SHE-	S i:
-SHE’S	@ n oI I N
+SHE'S	@ n oI I N
 SHE'S	S i: z
 SHE'S-	S i: z
-SHE’S	S s
-SHE’S-	S s
+SHE'S	S s
+SHE'S-	S s
 SHES'S-	S e s
 SHETH	S e T
 SHETLAND	S e t l @ n d
@@ -112132,14 +112132,14 @@ SHOULDERS	S @} l d @ z
 SHOULDERS-	S @} l d @ z
 SHOULDN'T	S U d n t
 SHOULDN'T-	S U d n t
-SHOULDN’T	S U d n t
-SHOULDN’T-	S U d n t
-SHOULDN’T'VE	S U d n t v
+SHOULDN'T	S U d n t
+SHOULDN'T-	S U d n t
+SHOULDN'T'VE	S U d n t v
 SHOULD	S U d
 SHOULD-	S U d
 SHOULD'VE	S U d @ v
 SHOULD'VE-	S U d @ v
-SHOULD’VE	S U d v
+SHOULD'VE	S U d v
 SHOULI	S }: l i:
 SHOULTS	S @} l t s
 SHOULTZ	S @} l t s
@@ -112503,7 +112503,7 @@ SIDE	s Ae d
 SIDE-	s Ae d
 SIDESHOW	s 6: I d S @}
 SIDESHOWS	s 6: I d S @} z
-SIDE’S	s Ae d s
+SIDE'S	s Ae d s
 SIDE'S	s Ae d z
 SIDES	s Ae d z
 SIDES'	s Ae d z
@@ -113137,7 +113137,7 @@ SIRIGNANO	s I r i: n j 6: n @}
 SIRI	s Ae @ i:
 SIRI	s I@ r i:
 SIRIS	s 6: I r @ s
-SIRI’S	s I r I s
+SIRI'S	s I r I s
 SIRIS	s I r @ s
 SIRIUS	s @ r I @ s
 SIRKIN	s 3: k @ n
@@ -113193,7 +113193,7 @@ SISTER-IN-LAW	s I s t @ r I n l o:
 SISTERS-IN-LAW	s I s t @ z I n l o:
 SISTER	s I s t @
 SISTER-	s I s t @
-SISTER’S	s I s t r s
+SISTER'S	s I s t r s
 SISTER'S	s I s t @ z
 SISTERS	s I s t @ z
 SISTINE	s I s t i: n
@@ -113640,7 +113640,7 @@ SLANDER	s l { n d @
 SLANDERS	s l { n d @ z
 SLANE	s l {I n
 SLANEY	s l {I n i:
-SLANGIN’	s l { N I n
+SLANGIN'	s l { N I n
 SLANG	s l { N
 SLANINA	s l O n i: n @
 SLANKARD	s l { N k @ d
@@ -114170,7 +114170,7 @@ SMITHSONIAN'S	s m I T s @} n i: @ n z
 SMITHSON	s m I T s n
 SMITHSON'S	s m I T s n z
 SMITH'S	s m I T s
-SMITH’S	s m I T s
+SMITH'S	s m I T s
 SMITHS	s m I T s
 SMITHTOWN	s m I T t {O n
 SMITHWICK	s m I T w I k
@@ -114603,7 +114603,7 @@ SOCARRAS	s @} k 6: 6: z
 SOCCEROOS	s O k s @ r }: z
 SOCCER	s O k @
 SOCCER-	s O k @
-SOCCER’S	s O i: r s
+SOCCER'S	s O i: r s
 SOCCER'S	s O k s @ z
 SOCCI	s @} tS i:
 SOCHACKI	s 6 tS 6: k i:
@@ -114639,7 +114639,7 @@ SOCIETE	s @} s i: e t {I
 SOCIETIES	s @ s Ae @ t i: z
 SOCIETY	s @ s 6: I@ t i:
 SOCIETY	s @ s Ae @ t i:
-SOCIETY’S	s @ s Ae @ t i: s
+SOCIETY'S	s @ s Ae @ t i: s
 SOCIETY'S	s @ s Ae @ t i: z
 SOCIOECONOMIC	s @} s i: @ i: k @ n O m I k
 SOCIOLOGICAL	s @} s i: @ l O dZ I k l
@@ -114967,7 +114967,7 @@ SOMEHOW	s 6 m h 6: U
 SOMEHOW	s 6 m h {O
 SOMEONE	s 6 m w 6 n
 SOMEONE-	s 6 m w 6 n
-SOMEONE’S	s 6 m w 6 n s
+SOMEONE'S	s 6 m w 6 n s
 SOMEONE'S	s 6 m w 6 n z
 SOMEONE'S-	s 6 m w 6 n z
 SOMEPLACE	s 6 m p l {I s
@@ -115085,7 +115085,7 @@ SON-	s 6 n
 SONS-IN-LAW	s 6 n I n l o:
 SON'S	s 6 n z
 SONS	s 6 n z
-SON’S	s n s
+SON'S	s n s
 SONS'	s O n z
 SONTAG	s O n t { g
 SONUM	s O n @ m
@@ -115107,7 +115107,7 @@ SOONYI	s }: n j i:
 SOONYI'S	s }: n i: i: z
 SOO	s }:
 SOO-SOO	s }: s }:
-SOO’S	s s
+SOO'S	s s
 SOO'S	s }: z
 SOOS	s }: z
 SOOTED	s U t @ d
@@ -116600,7 +116600,7 @@ STADEL	s t { d @ l
 STADER	s t {I d @
 STADE	s t {I d
 STADIA	s t {I d i: @
-STADIUM’S	s t {I d i: @ m s
+STADIUM'S	s t {I d i: @ m s
 STADIUM'S	s t {I d i: @ m z
 STADIUMS	s t {I d i: @ m z
 STADIUM	s t {I d i: @ m
@@ -119365,7 +119365,7 @@ SUGAR	S U g @
 SUGARY	S U g @ r i:
 SUGDEN	s 6 g d n
 SUGERMAN	s }: g @ m @ n
-SUGETHAN’S	S U N T { n s
+SUGETHAN'S	S U N T { n s
 SUGETHAN	S U N T @ n
 SUGGESTED	s @ dZ e s t @ d
 SUGGESTIBLE	s @ dZ e s t @ b @ l
@@ -119594,7 +119594,7 @@ SUNDANCE	s 6 n d 6: n s
 SUNDARARAJAN	s }: n d 6: @ r O dZ @ n
 SUNDAR	s }: n d 6:
 SUNDAY	s 6 n d {I
-SUNDAY’S	s 6 n d i: s
+SUNDAY'S	s 6 n d i: s
 SUNDAY'S	s 6 n d {I z
 SUNDAYS	s 6 n d {I z
 SUNDBERG	s 6 n d b 3: g
@@ -120060,7 +120060,7 @@ SUSCEPTIBLE	s @ s e p t @ b @ l
 SUSETTE	s }: z e t
 SUSHIMI	s @ S @ m i:
 SUSHI	s }: S i:
-SUSHI’S	s }: S I s
+SUSHI'S	s }: S I s
 SUSIE'S	s }: z i: z
 SUSIE	s }: z i:
 SUSI	s }: s i:
@@ -121734,7 +121734,7 @@ TCHURUK	tS }: r I k
 TEABAG	t i: b { g
 TEACHABLE	t i: tS @ b @ l
 TEACHERSAIDE	t i: tS @ z {I d
-TEACHERS’	t i: tS @ s
+TEACHERS'	t i: tS @ s
 TEACHER'S	t i: tS @ z
 TEACHERS	t i: tS @ z
 TEACHERS'	t i: tS @ z
@@ -122759,10 +122759,10 @@ THAT'D	D { t @ d
 THAT	D @ t
 THAT	D { t
 THAT-	D { t
-THAT’D	T { t
+THAT'D	T { t
 THAT'LL	D { t l
 THAT'LL-	D { t l
-THAT’LL	T { t l
+THAT'LL	T { t l
 -THAT'S	D { t s
 THA'TS	D { t s
 THAT'S	D { t s
@@ -122770,10 +122770,10 @@ THAT'S-	D { t s
 THATS	D { t s
 THATS-	D { t s
 THAT'S-THAT'S	D { t s D { t s
--THAT’S	T { t s
+-THAT'S	T { t s
 THAT'S	T { t s
-THAT’S	T { t s
-THAT’S-	T { t s
+THAT'S	T { t s
+THAT'S-	T { t s
 THAT-THAT	D { t D { t
 THAT-THAT'S	D { t D { t s
 THAT-THATS	D { t D { t s
@@ -122927,7 +122927,7 @@ THER-	D @
 THEREABOUTS	D e: r @ b 6: U t s
 THEREAFTER	D e: r 6: f t @
 THEREBY	D e: b 6: I
-THERE’D	D @ d
+THERE'D	D @ d
 THERE'D	D e d
 THERE	D e
 THERE	D e:
@@ -122941,19 +122941,19 @@ THEREIN	D e: r I n
 THERE'LL	D e l
 THERE'LL	D e: l
 THERELL	D e: l
-THERE’LL	D r l
+THERE'LL	D r l
 THEREOF	D e: r @ v
 THEREON	D e: r o: n
 THERE'RE	D @
-THERE’RE	D @ r
+THERE'RE	D @ r
 THERESA'S	t @ r i: s @ z
 THERESA'S	t @ r {I s @ z
 THERESA	t @ r i: s @
 THERESA	t @ r {I s @
 THERE'S	D e z
 THERE'S-	D e z
-THERE’S	D r s
-THERE’S-	D r s
+THERE'S	D r s
+THERE'S-	D r s
 THERESE	T e r i: s
 THERE'S-THERE'D	D e z D e d
 THERE-THERE	D e D e
@@ -123008,23 +123008,23 @@ THEURER	T 3: @
 THEUS	D j }: z
 THEWLIS	T 6 l @ s
 THEW	T }:
-THEY’D	D i: d
+THEY'D	D i: d
 THEY'D	D {I d
 THEY	D {I
 THEY-	D {I
-THEY'D-THEY’D	D {I d D i: d
-THEY’LL	D i: l
+THEY'D-THEY'D	D {I d D i: d
+THEY'LL	D i: l
 THEY'LL	D {I l
 THEY'LL-	D {I l
 THEY'RE	D e
 THEY'RE-	D e
-THEY’RE	D i: r
-THEY’RE-	D i: r
-THEY’RE	n o: m l
+THEY'RE	D i: r
+THEY'RE-	D i: r
+THEY'RE	n o: m l
 THEY'RE	T i: e
 THEY	t {I k
-THEY’VE	D i: v
-THEY’VE-	D i: v
+THEY'VE	D i: v
+THEY'VE-	D i: v
 THEY'VE	D {I v
 THEY'VE-	D {I v
 THIAMIN	T Ae @ m @ n
@@ -123757,7 +123757,7 @@ TILLSON	t I l s n
 TILL	t I l
 TILL 	t I l
 TILL-	t I l
-‘TILL	t @ l
+'TILL	t @ l
 TILLY'S	t I l i: z
 TILLY	t I l i:
 TILMAN	t I l m @ n
@@ -123768,7 +123768,7 @@ TILTH	t I l T
 'TIL	t I l
 TIL	t I l
 TILTING	t I l t I N
-‘TIL	t @ l
+'TIL	t @ l
 TILTON	t I l t n
 TILTS	t I l t s
 TILT	t I l t
@@ -123802,7 +123802,7 @@ TIMERS	t Ae m @ z
 TIMER	t Ae m @
 TIMESHARE	t Ae m S e
 TIMES'S	t Ae m z @ z
-TIME’S	t Ae m s
+TIME'S	t Ae m s
 TIME'S	t Ae m z
 TIMES	t Ae m z
 TIMES'	t Ae m z
@@ -124326,7 +124326,7 @@ TOMMY	t O m i:
 TOMOGRAPHIC	t @} m @} g r { f I k
 TOMOGRAPHY	t @} m @} g r { f i:
 TOMOMRROW	t @} m O m @ r @}
-TOMORROW’S	t @ m O r @} w s
+TOMORROW'S	t @ m O r @} w s
 TOMORROW'S	t @ m O r @} z
 TOMORROWS	t @ m O r @} z
 TOMORROW	t @ m O r @}
@@ -125785,7 +125785,7 @@ TRISKA	t r I s k @
 TRISLER	t r I s @ l @
 TRISLER	t r I s l @
 TRISM	t r I z @ m
-TRISTAN’S	t r I s t { n s
+TRISTAN'S	t r I s t { n s
 TRISTAN	t r I s t @ n
 TRISTAR	t r Ae s t 6:
 TRI-STATE	t r Ae s t {I t
@@ -125993,7 +125993,7 @@ TRUCKLOAD	t r 6 k l @} d
 TRUCK'S	t r 6 k s
 TRUCKS	t r 6 k s
 TRUCKS'	t r 6 k s
-TRUCKS’	t r 6 k s
+TRUCKS'	t r 6 k s
 TRUCK	t r 6 k
 TRUCULENT	t r @ k j @ l @ n t
 TRUDA	t r }: d @
@@ -126055,7 +126055,7 @@ TRUMPETS	t r 6 m p @ t s
 TRUMPET	t r 6 m p @ t
 TRUMPOWER	t r 6 m p @} @
 TRUMP'S	t r 6 m p s
-TRUMP’S	t r 6 m p s
+TRUMP'S	t r 6 m p s
 TRUMPS	t r 6 m p s
 TRUMP	t r 6 m p
 TRUNCATED	t r 6 N k {I t @ d
@@ -126206,7 +126206,7 @@ TSURUMI	t s }: r }: m i:
 TSUTOMU	t s j }: t @ m }:
 TSU	t s j }:
 T-	t
-TTHAT’S	{ t s
+TTHAT'S	{ t s
 T	t i:
 T-	t i:
 T.	t i:
@@ -126926,7 +126926,7 @@ TYRRELL	t 6: I r e l
 TYRRHENIAN	t @ r i: n i: @ n
 TY-SACHS	t Ae s { k s
 TYSINGER	t Ae s @ n dZ @
-TYSON’S	t Ae s n s
+TYSON'S	t Ae s n s
 TYSON'S	t Ae s n z
 TYSONS	t Ae s n z
 TYSON	t Ae s n
@@ -127337,7 +127337,7 @@ UNCLE	6 N k l
 UNCLE-	6 N k l
 UNCLEAN	6 n k l i: n
 UNCLEAR	6 n k l I@
-UNCLE’S	6 n k l s
+UNCLE'S	6 n k l s
 UNCLE'S	6 N k l z
 UNCLES	6 N k l z
 UNCLUTTERED	6 n k l 6 t @ d
@@ -127937,7 +127937,7 @@ UNITEDBANK	j }: n Ae t @ d b { N k
 UNITED	j }: n Ae t @ d
 UNITED-	j }: n Ae t @ d
 UNITED'S	j }: n Ae t @ d z
-UNITED’S	j }: n t @ d s
+UNITED'S	j }: n t @ d s
 UNITE	j }: n 6: I t
 UNITEK	j }: n @ t e k
 UNITEL	j }: n @ t l
@@ -128926,7 +128926,7 @@ VALENTIA	v O l e n S @
 VALENTINA	v O l e n t i: n @
 VALENTINE'S	v { l @ n t Ae n z
 VALENTINES	v { l @ n t Ae n z
-VALENTINE’S	v { l @ n t @ n s
+VALENTINE'S	v { l @ n t @ n s
 VALENTINE	v { l @ n t Ae n
 VALENTINI	v { l @ n t i: n i:
 VALENTINO'S	v { l @ n t i: n @} z
@@ -131985,8 +131985,8 @@ WASMUTH	w o: z m }: T
 WASN'T	w O z @ n t
 WASN'T	w O z n t
 WASN'T-	w O z n t
-WASN’T	w s n t
-WASN’T-	w s n t
+WASN'T	w s n t
+WASN'T-	w s n t
 WASON	w O s @ n
 WASP'S	w O s p s
 WASPS	w O s p s
@@ -132099,7 +132099,7 @@ WATERSTEIN	w o: t @ s t i: n
 WATERSTONE'S	w o: t @ s t @} n z
 WATERSTONE	w o: t @ s t @} n
 WATERSTON	w o: t @ s t @ n
-WATER’S	w o: t r s
+WATER'S	w o: t r s
 WATER'S	w o: t @ z
 WATERS	w o: t @ z
 WATERTIGHT	w o: t @ t 6: I t
@@ -132378,8 +132378,8 @@ WEDOWEE'S	w e d 6: U w i: z
 WEDOWEE	w e d 6: U w i:
 WEDTECH'S	w e d t e k s
 WEDTECH	w e d t e k
-WE’D	w d
-WE’D-	w d
+WE'D	w d
+WE'D-	w d
 WED	w e d
 WE'D	w i: d
 WEEBER	w i: b @
@@ -132406,7 +132406,7 @@ WEEKLONG	w i: k l O N
 WEEKLY'S	w i: k l i: z
 WEEKLY	w i: k l i:
 WEEK'S	w i: k s
-WEEK’S	w i: k s
+WEEK'S	w i: k s
 WEEKS	w i: k s
 WEEKS'	w i: k s
 WEEK	w i: k
@@ -132710,7 +132710,7 @@ WELLES	w e l z
 WELLES'	w e l z
 WELLE	w e l
 WELLFLEET	w e l f l i: t
-WE’LL	g @}
+WE'LL	g @}
 WELLHEAD	w e l @ d
 WELLIES	w e l i: z
 WELLINGTON'S	w e l I N t @ n z
@@ -132741,8 +132741,8 @@ WE'LL-	w i: l
 WELL	w i: l
 WELL-	w i: l
 WE'LL	w I l
-WE’LL	w l
-WE’LL-	w l
+WE'LL	w l
+WE'LL-	w l
 WELNA	w i: l n @
 WELP	w e l p
 WELSCH	w e l S
@@ -132848,17 +132848,17 @@ WERELDHAVE	w e r @ l d h { v @ n j }:
 WEREN'T	w 3: n t
 WEREN'T-	w 3: n t
 WERENT	w 3: n t
-WEREN’T	w r e n t
-WEREN’T-	w r e n t
+WEREN'T	w r e n t
+WEREN'T-	w r e n t
 WERE	w @
 WE'RE	w 3:
 WE'RE-	w 3:
 WERE	w 3:
 WERE-	w 3:
-WE'’RE	w e
+WE''RE	w e
 WE'RE	w e:
-WE’RE	w e
-WE’RE-	w e
+WE'RE	w e
+WE'RE-	w e
 WE'RE	w I@
 WEREWOLF	w e w U l f
 WEREWOLVES	w e w U l v z
@@ -133096,8 +133096,8 @@ WETZ	w e t s
 WEVER	w i: v @
 WE'VE	w i: v
 WE'VE-	w i: v
-WE’VE	w v
-WE’VE-	w v
+WE'VE	w v
+WE'VE-	w v
 WE-WHEN	w i: w e n
 WE	w i:
 WE-	w i:
@@ -133161,27 +133161,27 @@ WHARTON	w o: t @ n
 WHAT	d I d
 WHAT'D	w O t @ d
 WHAT'D-	w O t @ d
-WHAT’D	w { t
+WHAT'D	w { t
 WHAT	D @} z
 WHATEVER'S	w O t e v @ z
 WHATEVER	w O t e v @
 WHATEVER-	w O t e v @
 WHATE	w {I t
-WHAT-HIS-NAME’S	w O t h I z n {I m s
+WHAT-HIS-NAME'S	w O t h I z n {I m s
 WHAT	I m
 WHATLEY	w O t l i:
 WHAT'LL	w O t l
 WHAT-NOT	w O t n O t
 WHATNOT	w O t n O t
 WHAT'RE	w O t @
-WHAT’RE	w { t r
+WHAT'RE	w { t r
 WHATSAPP	w O t s { p
 WHATSOEVER	w O t s @} e v @
 WHAT'S	w O t s
 WHAT'S-	w O t s
 WHATS	w O t s
-WHAT’S	w { t s
-WHAT’S-	w { t s
+WHAT'S	w { t s
+WHAT'S-	w { t s
 WHAT'VE	w O t v
 WHAT-WHAT-WHAT	w O t w O t w O t
 WHAT-WHAT	w O t w O t
@@ -133242,7 +133242,7 @@ WHEN'D	w e n d
 WHENEVER	w e n e v @
 WHEN	j }:
 WHEN'LL	w e n t @ l
-WHEN’S	w e n s
+WHEN'S	w e n s
 WHEN'S	w e n z
 WHEN'S-	w e n z
 WHEN	w e n
@@ -133257,12 +133257,12 @@ WHEREAS	w e r { z
 WHEREAS	w e: r { z
 WHEREBY	w e: b 6: I
 WHERE'D	w e d
-WHERE’D	w e d
+WHERE'D	w e d
 WHERE'D	w e dZ
 WHEREFORE	w e f o:
 WHEREIN	w e r @ n
 WHERE'RE	w e r @
-WHERE’S	w e s
+WHERE'S	w e s
 WHERE'S	w e z
 WHERE'S-	w e z
 WHEREUPON	w e: r @ p O n
@@ -133530,7 +133530,7 @@ WHOA	h @}
 WHOA	w @}
 WHOBREY	w O b r i:
 WHO'D	h }: d
-WHO’D	h d
+WHO'D	h d
 WHODUNIT	h }: d n I t
 WHODUNITS	h }: d n I t s
 WHOEVER	h }: e v @
@@ -133586,8 +133586,8 @@ WHORL	w 3: l
 WHORL	w o: l
 WHORTON	h o: t @ n
 WHOSE	h }: z
-WHO’S	h s
-WHO’S-	h s
+WHO'S	h s
+WHO'S-	h s
 WHO'S	h }: z
 WHOS	h }: z
 WHOSOEVER	h }: s @} e v @
@@ -133597,7 +133597,7 @@ WH-	v h
 WH-WELL	v h w i: l
 WH-WHAT	v h w O t
 WHY'D	w Ae d
-WHY’D	w i: d
+WHY'D	w i: d
 WHY	n O t
 WHY'RE	w 6: I@
 WHY'S	w Ae z
@@ -133794,7 +133794,7 @@ WIEST	w Ae @ s t
 WIES	w Ae z
 WIETING	w i: t I N
 WIFE'S	w Ae f s
-WIFE’S	w Ae f s
+WIFE'S	w Ae f s
 WIFE	w 6: I f
 WIFE	w Ae f
 WIFI'S	w Ae f Ae z
@@ -134812,7 +134812,7 @@ WOMBAT	w O m b { t
 WOMBLES	w O m b l z
 WOMBLE	w O m b @ l
 WOMB	w }: m
-WOMEN’S	w I m @ n s
+WOMEN'S	w I m @ n s
 WOMEN'S	w I m @ n z
 WOMENS'	w I m @ n z
 WOMEN	w I m @ n
@@ -134843,7 +134843,7 @@ WONKS	w O n k s
 WONK	w O n k
 WONKY	w O N k i:
 WONNACOTT	w 6 n O k O t
-WON’T	w 6 n t
+WON'T	w 6 n t
 WON'T	w @} n t
 WONT	w @} n t
 WON'T	w O n t
@@ -135105,7 +135105,7 @@ WORLDNEWS	w 3: l d n j }: z
 WORLDPASS	w 3: l d p 6: s
 WORLDSCOPE	w 3: l d s k @} p
 WORLDSPAN	w 3: l d s p @ n
-WORLD’S	w 3: l d s
+WORLD'S	w 3: l d s
 WORLD'S	w 3: l d z
 WORLDS	w 3: l d z
 WORLDVIEW	w 3: l d v j }:
@@ -135203,18 +135203,18 @@ WOTTON	w O t @ n
 WOUK	w 6: U k
 WOUK	w @} k
 WOULDA	w U d @
-WOULDN’T'VE	w U d n t v
+WOULDN'T'VE	w U d n t v
 WOULD'NT	w U d n t
 WOULDN'T	w U d @ n t
 WOULDN'T	w U d n t
 WOULDN'T-	w U d n t
-WOULDN’T	w U d n t
-WOULDN’T-	w U d n t
-WOULDN’VE	w U d n v
+WOULDN'T	w U d n t
+WOULDN'T-	w U d n t
+WOULDN'VE	w U d n v
 WOULD'T-	w U t
 WOULD'VE	w U d @ v
 WOULD'VE-	w U d @ v
-WOULD’VE	w U l d v
+WOULD'VE	w U l d v
 WOULD	w @ d
 WOULD	w {O l d
 WOULD	w U d
@@ -135794,7 +135794,7 @@ YAS	j { z
 YASMINE	j { z m Ae n
 YASMIN	j { z m Ae n
 YASMIN	j { z m I n
-YASMIN’S	j { z m @ n s
+YASMIN'S	j { z m @ n s
 YASSER	j O s @
 YASSER	j { s @
 YASSER'S	j O s @ z
@@ -135895,13 +135895,13 @@ YEARNINGS	j o: n I N z
 YEARN	j @ n
 YEARNS	j o: n z
 YEAROUT	j I@ r 6: U t
-YEARS’	j I@ s
+YEARS'	j I@ s
 YEAR'S	j I@ z
 YEARS	j I@ z
 YEARS'	j I@ z
 YEARS-	j I@ z
-YEAR’S	j r s
-YEAR’S-	j r s
+YEAR'S	j r s
+YEAR'S-	j r s
 YEARS	j @ z
 YEARSLEY	j o: s l i:
 YEARS-OLD	j I@ z o: l d
@@ -136209,8 +136209,8 @@ YOSS	j O s
 YOST	j @} s t
 YOTHER	j 6 D @
 YOTT	j O t
-YOU’D	j 6 d
-YOU’D-	j 6 d
+YOU'D	j 6 d
+YOU'D-	j 6 d
 YOU'D	j }: d
 YOUELL	j @ }: l
 YOUGHAL	j @} l
@@ -136223,8 +136223,8 @@ YOU?	j }:
 YOU>	j 6
 YOU	j }: z
 YOUKER	j }: k @
-YOU’LL	j 6 l
-YOU’LL-	j 6 l
+YOU'LL	j 6 l
+YOU'LL-	j 6 l
 YOU'LL	j }: l
 YOU'LL-	j }: l
 YOUMAN	h j }: m @ n
@@ -136268,8 +136268,8 @@ YOUNKINS	j 6 N k @ n z
 YOUNT	j 6: U n t
 YOUNTS	j }: n t s
 YOUREE	j @ r i:
-YOU’RE	j 6 r
-YOU’RE-	j 6 r
+YOU'RE	j 6 r
+YOU'RE-	j 6 r
 YOU'RE	j o:
 YOU'RE-	j o:
 YOUR'E	j o:
@@ -136310,8 +136310,8 @@ YOUTUBERS	j }: t j }: b @ z
 YOUTUBE'S	j }: t j }: b z
 YOUTUBING	j }: tS }: b I N
 YOUTZ	j {O t s
-YOU’VE	j 6 v
-YOU’VE-	j 6 v
+YOU'VE	j 6 v
+YOU'VE-	j 6 v
 YOU'VE	j }: v
 YOU'VE-	j }: v
 YOUVILLE	j }: v I l
@@ -137135,7 +137135,7 @@ ZODY	z @} d i:
 ZOELLER	z @} l @
 ZOELLICK	z @} l I k
 ZOELLNER	z @} l n @
-ZOE’S	z @} s
+ZOE'S	z @} s
 ZOETE	z @} t i:
 ZOEY	z @} i:
 ZOE	z @} i:

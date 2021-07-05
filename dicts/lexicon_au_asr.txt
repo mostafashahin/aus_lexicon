@@ -3135,7 +3135,7 @@ DOLEFUL	d eu l f uh l
 DOLL	d o l
 DOLLAR	d o l ax
 DOLLOP	d o l ax p
-DOLL’S	d o l z
+DOLL'S	d o l z
 DOMAIN	d ax m ei n
 DOME	d eu m
 DOMESTIC	d ax m e s t i k
@@ -4454,7 +4454,7 @@ GINGHAM	g i ng ax m
 GIPSY	dz i p s ii
 GIRL	g er l
 GIRLFRIEND	g er l f r e n d
-GIRLS’	g er l z
+GIRLS'	g er l z
 GIRTH	g er th
 GIST	dz i s t
 GIST	dz a s
@@ -11093,16 +11093,16 @@ ZOO	z u
 ZOOLOGY	z eu o l ax dz ii
 ZOOM	z u m
 ZUCCHINI	z ax k ii n ii
-‘CAUSE	k oo z
-‘COZ	k eu z
-‘D	d
-‘EM	m
-‘KAY	k ei
-‘N’	n
-‘P’	p ii
-‘RENTS	r e n t s
-‘TIL	t ax l
-‘TILL	t ax l
+'CAUSE	k oo z
+'COZ	k eu z
+'D	d
+'EM	m
+'KAY	k ei
+'N'	n
+'P'	p ii
+'RENTS	r e n t s
+'TIL	t ax l
+'TILL	t ax l
 05	eu f ye v
 3D	d ii
 A-	ax
@@ -11121,7 +11121,7 @@ ABDALLAH-	ae b d l ax
 ABDUCTED	ax b d a k t ax d
 ABDULLAH	ae b d uh l ax
 ABDULLAH-	ae b d uh l ax
-ABDULLAH’S	ae b d uh l ax s
+ABDULLAH'S	ae b d uh l ax s
 ABILITIES	ax b i l ax t ii z
 ABLE-	ei b l
 ABORIGINAL	ae b ax r i dz ax n l
@@ -11165,7 +11165,7 @@ ACHES	ei k s
 ACHIEVED-	ax ch ii v d
 ACHIEVEMENT-	ax ch ii v m ax n t
 ACHILLES	ax k i l ii z
-ACHILLES’	ax k i l s
+ACHILLES'	ax k i l s
 ACIDS	ae s ax d z
 ACL	ei s ii e l
 ACPE	ei s ii p ii ii
@@ -11263,7 +11263,7 @@ AGREEING	ax g r ii i ng
 AGUERO	ae g e r eu
 AGÜERO	ae g e r eu
 AGÜERO-	ae g e r eu
-AGÜERO’S	ae g ax r s
+AGÜERO'S	ae g ax r s
 AH	aa
 AH	ae
 AH-	aa
@@ -11273,7 +11273,7 @@ AHAMD'S	ax h ae m d z
 AHH	ax z
 AHH	aa
 AHMAD	aa m aa d
-AHMAD’S	aa m ae d s
+AHMAD'S	aa m ae d s
 AHMAD'S	aa m ae d z
 AHMED	aa m e d
 A-HUH	ax h ax
@@ -11282,8 +11282,8 @@ AIA	ei ye ei
 AID-	ei d
 AIDEN	ei d n
 AIMING	ei m i ng
-AIN’T	n t
-AIN’T-	n t
+AIN'T	n t
+AIN'T-	n t
 AIN'T	ei n t
 AIR-CONNED	e k o n d
 AIRFLARE	e f l e
@@ -11317,7 +11317,7 @@ AL-HUDA	ae l h j u ax
 ALI	aa l ii
 ALI	o l ii
 ALI-	aa l ii
-ALI’S	ei l i s
+ALI'S	ei l i s
 ALI'S	aa l ii z
 ALISSON	ae l i s n
 A-LISTERS	ax l i s t ax z
@@ -11363,7 +11363,7 @@ AMBITIOUS	ae m b i sh ax s
 AMEERA	ae m i r ax
 AMERICA	ax m e r ax k ax
 AMERICA-	ax m e r ax k ax
-AMERICA’S	ax m e r ax k ax s
+AMERICA'S	ax m e r ax k ax s
 AMERICAN	ax m e r ax k ax n
 AMERICANS	ax m e r ax k ax n z
 AMERICAN-STYLE	ax m e r ax k ax n s t ye l
@@ -11406,7 +11406,7 @@ ANKLES	ae ng k l z
 ANNE	ae n d
 ANNE	ae n
 ANNE-	ae n
-ANNE’S	ae n s
+ANNE'S	ae n s
 ANNOYED	ax n oi d
 ANNOYING	ax n oi i ng
 ANNOYING	b a t
@@ -11434,8 +11434,8 @@ ANY-ANY-ANY	e n ii e n ii e n ii
 ANYMORE	e n ii m oo
 ANYO-	e n ii eu
 ANYONE-	e n ii w a n
-ANYONE’S	e n ii w a s
-ANYONE’S-	e n ii w a s
+ANYONE'S	e n ii w a s
+ANYONE'S-	e n ii w a s
 ANYONE'S	e n ii w a n z
 ANYTHING-	e n i th i ng
 ANYTHING'S	e n i th ax n z
@@ -11481,7 +11481,7 @@ ARAB-AUSSIE	ae r ax b o z ii
 ARABIA	ax r ei b ii ax
 ARABIAN	ax r ei b ii ax n
 ARABIC-	ae r ax b i k
-ARABIC’S	ae r ae b i k s
+ARABIC'S	ae r ae b i k s
 ARABS	ae r ax b z
 ARCHITECTURE	aa k ax t e k ch ax
 ARE-	aa
@@ -11489,7 +11489,7 @@ AREA-	e r ii ax
 AREAS	e r ii ax z
 AREAS-	e r ii ax z
 AREA'S	e r ii ax z
-AREN’T	ax r e n t
+AREN'T	ax r e n t
 AREN'T	aa n t
 ARGILEH	aa dz er l
 ARGUES	aa g j u z
@@ -11528,7 +11528,7 @@ ASAP	ae s ae p
 A-S-A-P	ax e s ax p ii
 AS-AS	ae z ae z
 ASENSIO	ei s e n sh eu
-ASENSIO’S	ei s e n sh s
+ASENSIO'S	ei s e n sh s
 ASIA	ei zh ax
 ASIAN	ei zh n
 ASIANS	ei zh n z
@@ -11540,7 +11540,7 @@ ASKING	aa s k i ng
 ASKING-	aa s k i ng
 ASKS	aa s k s
 ASPECTS	ae s p e k t s
-ASSASSIN’S	ax s ae s i n s
+ASSASSIN'S	ax s ae s i n s
 ASSASSIN'S	ax s ae s n z
 ASSES	ae s ax z
 ASSESMENT	ax s i m ax n t
@@ -11566,7 +11566,7 @@ ATAR	ei t aa
 ATE-	ei t
 ATH-	ae th
 ATHEMIA	ae th e m ii ax
-A-THERE’S	ax dh r s
+A-THERE'S	ax dh r s
 A-THREE	ax th r ii
 ATLÉTICO	ei t l ii t i k eu
 ATRA	ae t ax
@@ -11592,7 +11592,7 @@ AUCKLAND	oo k l ax n d
 AUNT-	ae n t
 AUNTIE	ae n t ii
 AUNTIE-	ae n t ii
-AUNTIE’S	ae n t ii s
+AUNTIE'S	ae n t ii s
 AUNTIES	ae n t ii z
 AUNTY	ae n t ii
 AUS-AFY	o ax f ii
@@ -11600,7 +11600,7 @@ AUSSIE	o z ii
 AUSSIE-	o z ii
 AUSSIES	o z ii z
 AUSTRALIA-	o s t r ei l j ax
-AUSTRALIA’S	o s t r ei l ii ax s
+AUSTRALIA'S	o s t r ei l ii ax s
 AUSTRALIAN-	o s t r ei l j ax n
 AUSTRALIANS	o s t r ei l j ax n z
 AUSTRALIA'S	o s t r ei l j ax z
@@ -11649,8 +11649,8 @@ BABY-	b ei b ii
 BA-BYE	b aa b ye
 BABY'S	b ei b ii z
 BACH-	b aa k
-BACHELOR’S	b ae ch ax l oo r s
-BACHELOR’S-	b ae ch ax l oo r s
+BACHELOR'S	b ae ch ax l oo r s
+BACHELOR'S-	b ae ch ax l oo r s
 BACHELORS	b ae ch ax l ax z
 BACHELOR'S	b ae ch ax l ax z
 BACK-	b ae k
@@ -11781,7 +11781,7 @@ BEHIND-	b ax h ye n d
 BEIEVE	b ye v
 BEING-	b ii i ng
 BEIRUT	b ei r u t
-BEIRUT’S	b ei r u t s
+BEIRUT'S	b ei r u t s
 BEL-	b e l
 BELGIUM	b e l dz ax m
 BELIEFS	b ax l ii f s
@@ -11817,7 +11817,7 @@ BESIDES-	b ax s ye d z
 BEST-	b e s t
 BEST-SELLING	b e s t s e l i ng
 BETTER-	b e t ax
-BETTY’S	b e t ii s
+BETTY'S	b e t ii s
 BETWEEN-	b ax t w ii n
 BEVERLY	b e v ax l ii
 BEXLEY	b e k s l ii
@@ -11854,7 +11854,7 @@ BIRDS	aa
 BIRDS	b er d z
 BIRKENHEAD	b er k ax n h e d
 BIRRONG	b ye ax k i ng
-BIRTHDAY’S	b er th d ii s
+BIRTHDAY'S	b er th d ii s
 BIRTHDAYS	b er th d ei z
 BIRTHDAY'S	b er th d ei z
 BISHOPS	b i sh ax p s
@@ -11874,7 +11874,7 @@ BLAKE	b l ei k
 BLAKEHURST	b l ei k h er s t
 BLAMED	b l ei m d
 BLANCO-	b l ae ng k eu
-BLANCO’S	b l ae ng k s
+BLANCO'S	b l ae ng k s
 BLASTING	b l aa s t i ng
 BLAZERS	b l ei z ax z
 BLEEDS	b l ii d z
@@ -11911,7 +11911,7 @@ BOAT-	b eu t
 BOATS	b eu t s
 BODIES	b o d ii z
 BODY-	b o d ii
-BODY’S	b o d ii s
+BODY'S	b o d ii s
 BODYBUILDERS	b o d ii b i l d ax z
 BODYPUNCH	b o d ye p a n ch
 BODY'S	b o d ii z
@@ -11964,7 +11964,7 @@ BOXES	b o k s ax z
 BOXING	b o k s i ng
 BOXING-	b o k s i ng
 BOY-	b oi
-BOY’S	b ii s
+BOY'S	b ii s
 BOYCOTTING	b oi k o t i ng
 BOYS	b oi z
 BOYS-	b oi z
@@ -11988,14 +11988,14 @@ BRATZ	b r ae t s
 BRAVEHEART	b r ei v ii ax t
 BRAVO	b r aa v eu
 BREACHING	b r ii ch i ng
-BREAD’S	b r e d s
+BREAD'S	b r e d s
 BREADCRUMBS	b r e d k r a m z
 BREAK-	b r ei k
 BREAKDANCE	b r ei k d ae n s
 BREAKDANCING	b r ei k d ae n s i ng
 BREAKDANCING-	b r ei k d ae n s i ng
 BREAKER	b r ei k ax
-BREAKIN’	b r ei k i n
+BREAKIN'	b r ei k i n
 BREAKING	b r ei k i ng
 BREAKS	b r ei k s
 BREATHES	b r ii dh z
@@ -12024,15 +12024,15 @@ BROOKLYN	b r uh k l ax n
 BROTH-	b r o th
 BROTHELS	b r o th ax l z
 BROTHER-	b r a dh ax
-BROTHER’S	b r a dh r s
-BROTHER’S-	b r a dh r s
+BROTHER'S	b r a dh r s
+BROTHER'S-	b r a dh r s
 BROTHERHOOD	b r a dh ax h uh d
 BROTHERS	b r a dh ax z
 BROTHERS-	b r a dh ax z
 BROTHER'S	b r a dh ax z
 BROUGHTON	b r oo t n
 BROUGHTON-	b r oo t n
-BROWN’S	b r au n s
+BROWN'S	b r au n s
 BROWNIES	b r au n ii z
 BRU	b r u
 BRUH	b r t th
@@ -12061,7 +12061,7 @@ BULKING	b a l k i ng
 BULKY	b a l k ii
 BULLDOG	b uh l d o g
 BULLDOGS	b uh l d o g z
-BULLDOGS’	b uh l d o g s
+BULLDOGS'	b uh l d o g s
 BULLETPROOF	b uh l ax t p r u f
 BULLIED	b uh l ii d
 BUMPED	b a m p t
@@ -12162,8 +12162,8 @@ CAMPS	k ae m p s
 CAMPUS-	k ae m p ax s
 CAMPUSES	k ae m p ax s ax z
 CAN-	k ae n
-CAN’T	k ae n t
-CAN’T-	k ae n t
+CAN'T	k ae n t
+CAN'T-	k ae n t
 CANADA	k ae n ax d ax
 CANBERRA	k ae n b ax r ax
 CANCELLED	k ae n s l d
@@ -12266,14 +12266,14 @@ CH	s ii ei ch
 CH-	s h
 CHA	ch ax
 CHA-	ch ax
-CHA’S	ch ax s
+CHA'S	ch ax s
 CHAINSAWS	ch ei n s oo z
 CHAIRS	ch e z
 CHALLENGING	ch ae l ax n dz i ng
 CHAMBERLAIN	ch ei m b ax l ax n
 CHAMBERS	ch ei m b ax z
 CHAMP	ch ae m p
-CHAMPION’S	ch ae m p ii n s
+CHAMPION'S	ch ae m p ii n s
 CHAMPIONS	ch ae m p ii ax n z
 CHAMPIONSHIP	ch ae m p ii ax n sh i p
 CHANCE-	ch ae n s
@@ -12295,7 +12295,7 @@ CHARACTER-	k ae r i k t ax
 CHARACTERS	k ae r i k t ax z
 CHARACTERS-	k ae r i k t ax z
 CHARBEL	ch aa b l
-CHARBEL’S	ch aa b e l s
+CHARBEL'S	ch aa b e l s
 CHARBEL'S	ch aa b l z
 CHARGERS	ch aa dz ax z
 CHARMING	ch aa m i ng
@@ -12334,13 +12334,13 @@ CHICKS	ch i k s
 CHICK'S	ch i k s
 CHIHUAHUA-	ch ax w aa w aa
 CHILD-	ch ye l d
-CHILD’S	ch ye l d s
+CHILD'S	ch ye l d s
 CHILDCARE	ch ye l d k e
 CHILDHOOD	ch ye l d h uh d
 CHILDHOOD	k a z ii
 CHILDHOOD-	ch ye l d h uh d
 CHILDREN	ch i l d r ax n
-CHILDREN’S	ch i l d r e n s
+CHILDREN'S	ch i l d r e n s
 CHILDREN'S	ch i l d r ax n z
 CHILLAX	ch i l ae k s
 CHILLED	ch i l d
@@ -12348,7 +12348,7 @@ CHILLING	ch i l i ng
 CHILLY	ch i l ii
 CHINATOWN	ch ye n ax t au n
 CHINESE-	ch ye n ii z
-CHIP’S	ch i p s
+CHIP'S	ch i p s
 CHIPOTLE	ch i p ax t l
 CHIPS	ch i p s
 CHIRO	k ax r eu
@@ -12372,7 +12372,7 @@ CHOPS	ch o p s
 CHRI-	k r ii
 CHRIS	k r i s
 CHRIS-	k r i s
-CHRIS’	k r ye s
+CHRIS'	k r ye s
 CHRISH-	k r ax sh
 CHRIST	k r ye s t
 CHRIST-	k r ye s t
@@ -12382,14 +12382,14 @@ CHRISTIAN	k r i s t ii ax n
 CHRISTIANITY-	k r i s t ii ae n ax t ii
 CHRISTIANS	k r i s t ii ax n z
 CHRISTINE	k r i s t ii n
-CHRISTINE’S	k r i s t ii n s
+CHRISTINE'S	k r i s t ii n s
 CHROMA	k r eu m ax
 CHRONICLES	k r o n i k l z
 CHUCKING	ch a k i ng
 CHUCKS	ch a k s
 CHULLORA	ch a l ax r ax
 CHULLORA-	ch a l ax r ax
-CHULLORA’S	ch a l ax ax s
+CHULLORA'S	ch a l ax ax s
 CHUNKIER	ch a ng k ii ax
 CHURCH-	ch er ch
 CHURCHES	ch er ch ax z
@@ -12405,7 +12405,7 @@ CITE	s ye t
 CITIES	s i t ii z
 CITIZENSHIP	s i t ax z n sh i p
 CITY-	s i t ii
-CITY’S	s i t ii s
+CITY'S	s i t ii s
 CITY'S	s i t ii z
 CLAIM-	k l ei m
 CLAIMED	k l ei m d
@@ -12457,7 +12457,7 @@ CLOUDS	k l au d z
 CLUBBING	k l a b i ng
 CLUBS	k l a b z
 CO-	k eu
-COACH’S	k eu ch s
+COACH'S	k eu ch s
 COACHED	k eu ch t
 COACHING	k eu ch i ng
 COALS	k eu l z
@@ -12658,10 +12658,10 @@ COU-	k u
 COUCHES	k au ch ax z
 COUGHING	k o f i ng
 COULD-	k uh d
-COULD’VE	k uh l d v
-COULD’VE-	k uh l d v
-COULDN’T	k uh d n t
-COULDN’T-	k uh d n t
+COULD'VE	k uh l d v
+COULD'VE-	k uh l d v
+COULDN'T	k uh d n t
+COULDN'T-	k uh d n t
 COULDN'T	k uh d n t
 COULDN'T	k uh d ax n t
 COULDN'T-	k uh d n t
@@ -12678,7 +12678,7 @@ COUNTING	k au n t i ng
 COUNTLESS	k au n t l ax s
 COUNTRIES	k a n t r ii z
 COUNTRY-	k a n t r ii
-COUNTRY’S	k a n t r ii s
+COUNTRY'S	k a n t r ii s
 COUNTRY'S	k a n t r ii z
 COUNTRYSIDE	k a n t r ii s ye d
 COUNTS	k au n t s
@@ -12690,11 +12690,11 @@ COURSES	k oo s ax z
 COURSES-	k oo s ax z
 COURTS	k oo t s
 COUSIN-	k a z n
-COUSIN’S	k a z i n s
+COUSIN'S	k a z i n s
 COUSINS	k a z n z
 COUSINS-	k a z n z
 COUSIN'S	k a z n z
-COUSINS’	k a z n s
+COUSINS'	k a z n s
 COVERED	k a v ax d
 COVERING	k a v ax r i ng
 COVERS	k a v ax z
@@ -12719,7 +12719,7 @@ CRACKING	k r ae k i ng
 CRACKS	k r ae k s
 CRAMMED	k r ae m d
 CRAMPING	k r ae m p i ng
-CRANKIN’	k r ae ng k i n
+CRANKIN'	k r ae ng k i n
 CRANKING	k r ae ng k i ng
 CRAP	k r ae p
 CRAP-	k r ae p
@@ -12818,13 +12818,13 @@ CYBER	s ye b ax
 CYBORG	s ye b oo g
 D-	d ii
 D-	d
-D’YOU-	d ii u
+D'YOU-	d ii u
 DACKA	d ae k ax
 DAD-	d ae d
-DAD’S	d ae d s
-DAD’S-	d ae d s
+DAD'S	d ae d s
+DAD'S-	d ae d s
 DADDY	d ae d ii
-DADDY’S	d ae d d ii s
+DADDY'S	d ae d d ii s
 DAD'S	d ae d z
 DAIRYMILK	d e r ii m i l k
 DALAI	d ae l ye
@@ -12834,7 +12834,7 @@ DAMAGED	d ae m ax dz d
 DAMASCUS	d ax m ae s k ax s
 DAN	d ae n
 DAN-	d ae n
-DANA’S	d ae n ax s
+DANA'S	d ae n ax s
 DANCED	d ae n s t
 DANCED-	d ae n s t
 DANCES	d ae n s ax z
@@ -12857,11 +12857,11 @@ DATING	d ei t i ng
 DAUGHTER'S	d oo t ax z
 DAVE	d ei v
 DAVID	d ei v ax d
-DAVID’S	d ei v i d s
+DAVID'S	d ei v i d s
 DAVID'S	d ei v ax d z
-DAWSON’S	d oo s n s
+DAWSON'S	d oo s n s
 DAY-	d ei
-DAY’S	d ii s
+DAY'S	d ii s
 DAYCARE-	d ei k e
 DAYCARES	d ei k e z
 DAYS	d ei z
@@ -12986,15 +12986,15 @@ DIB	d i b
 DIBS	d i b z
 DICIPLINE	d i s ax p l ax n
 DID-	d i d
-DIDN’T	d i d n t
-DIDN’T-	d i d n t
+DIDN'T	d i d n t
+DIDN'T-	d i d n t
 DIDNT	d i d n t
 DIDN'T	d i d n t
 DIDN'T-	d i d n t
 DIED	d ye d
 DIED-	d ye d
 DIES	d ye z
-DIESEL’S	d ii s e l s
+DIESEL'S	d ii s e l s
 DIFF	d i f
 DIFF-	d i f
 DIFFERENCES	d i f r ax n s ax z
@@ -13084,7 +13084,7 @@ DO-	j e ax
 DO-	d u
 DOCS	d o k s
 DOCTOR-	d o k t ax
-DOCTOR’S	d o k t r s
+DOCTOR'S	d o k t r s
 DOCTORATE	d o k t ax r ax t
 DOCTOR'S	d o k t ax z
 DOCUMENTARY-	d o k j u m e n t r ii
@@ -13092,13 +13092,13 @@ DOCUMENTARY'S	d o k j u m e n t r ax z
 DOCUMENTS	d o k j u m ax n t s
 DODGED	d o dz d
 DOES-	d a z
-DOESN’T	d eu s n t
-DOESN’T-	d eu s n t
+DOESN'T	d eu s n t
+DOESN'T-	d eu s n t
 DOESN'T	d a z n t
 DOESN'T	d a z ax n
 DOESN'T-	d a z n t
 DOG-	d o g
-DOG’S	d o ng s
+DOG'S	d o ng s
 DOGG	d o g
 DOGGIE-PADDLE	d o g ii p ae d l
 DOGGING	d o g i ng
@@ -13108,7 +13108,7 @@ DOI-	d oi
 DOIN	d oi n
 DOIN'	d oi n
 DOIN-	d oi n
-DOIN’	d u oi n
+DOIN'	d u oi n
 DOING-	d u i ng
 DOJO	d eu zh eu
 DOJOS	d eu dz eu z
@@ -13122,9 +13122,9 @@ DOLPHIN-TYPE	d o l f ax n t ye p
 DOMINATING	d o m ax n ei t i ng
 DON	d o n
 DON-	d o n
-DON’T	d o n t
-DON’T	d u
-DON’T-	d o n t
+DON'T	d o n t
+DON'T	d u
+DON'T-	d o n t
 DONALD	d o n l d
 DONATES	d eu n ei t s
 DONE-	d a n
@@ -13168,7 +13168,7 @@ DRAGS	d r ae g z
 DRAINED	d r ei n d
 DRAINED-	d r ei n d
 DRAINS	d r ei n z
-DRAMA’S	d r ae m ax s
+DRAMA'S	d r ae m ax s
 DRAMAS	d r aa m ax z
 DRAMA'S	d r aa m ax z
 DRAMATICALLY	d r ax m ae t i k l ii
@@ -13191,7 +13191,7 @@ DRIFTED-	d r i f t ax d
 DRIFTING	d r i f t i ng
 DRILLED	d r i l d
 DRILLS	d r i l z
-DRINK’S	d r i ng k s
+DRINK'S	d r i ng k s
 DRINKING	d r i ng k i ng
 DRINKS	d r i ng k s
 DRIVE-	d r ye v
@@ -13226,7 +13226,7 @@ D'S	d s
 DSTG	d ii e s t ii dz ii
 D-TAKE	d t ei k
 DUBAI	d uh b ye
-DUBAI’S	d ax b ei i s
+DUBAI'S	d ax b ei i s
 DUCKS	d a k s
 DUDE	d u d
 DUDE'	d u d
@@ -13347,7 +13347,7 @@ EM	r m
 EM	e m
 EM-	e m
 EMAD	ax m ae d
-EMAD’S	ax m ae d s
+EMAD'S	ax m ae d s
 EMAIL	ii m ei l
 EMAILED	ii m ei l d
 E-MAILED	ii m ei l d
@@ -13453,7 +13453,7 @@ ESTABLISHED	ax s t ae b l ax sh t
 ETCETERA	e t s e t ax r ax
 ETCETERA	ei k s e t ax r ax
 EURO-	j u r eu
-EURO’S	j u r s
+EURO'S	j u r s
 EUROPE	j u r ax p
 EUROPEAN	j u r ax p ii ax n
 EUROPEAN-	j u r ax p ii ax n
@@ -13470,12 +13470,12 @@ EVERY-	e v r ii
 EVERYBODY'S	e v r ax b o d ii z
 EVERYON	e v r ii o n
 EVERYONE-	e v r ii w a n
-EVERYONE’S	e v r ii w a s
-EVERYONE’S-	e v r ii w a s
+EVERYONE'S	e v r ii w a s
+EVERYONE'S-	e v r ii w a s
 EVERYONE'S	e v r ii w a n z
 EVERYONE'S-	e v r ii w a n z
 EVERYTHING-	e v r i th i ng
-EVERYTHING’S	e v r i th i ng s
+EVERYTHING'S	e v r i th i ng s
 EVERYTHING'S	e v r i th i ng z
 EVERYTHING'S-	e v r i th i ng z
 EVERYTIME	e v r i t ye m
@@ -13493,7 +13493,7 @@ EXACLTY	ax g ae k a t ii
 EXACT-	ax g z ae k t
 EXACTLY-	ax g z ae k t l ii
 EXAM-	ax g z ae m
-EXAM’S	ax g z ae m s
+EXAM'S	ax g z ae m s
 EXAMPLE-	ax g z ae m p l
 EXAMPLES	ax g z ae m p l z
 EXAMS	ax g z ae m z
@@ -13578,7 +13578,7 @@ FACT-	f ae k t
 FACTORIES	f ae k t ax r ii z
 FACTORS	f ae k t ax z
 FACTOR'S	f ae k t ax z
-FACTORY’S	f ae k t ax r ii s
+FACTORY'S	f ae k t ax r ii s
 FACTOY	f ae k t oi
 FACTS	f ae k s
 FACTS	f ae k t s
@@ -13607,7 +13607,7 @@ FAM-BAM	f ae m b ae m
 FAMILIES	f ae m ax l ii z
 FAMILIY-	f ax m i l ii
 FAMILY-	f ae m ax l ii
-FAMILY’S	f ae m ax l ii s
+FAMILY'S	f ae m ax l ii s
 FAMILY-FAMILY	f ae m ax l ii f ae m ax l ii
 FAMILY-ORIENTED	f ae m ax l ii oo r ii e n t ax d
 FAMILY'S	f ae m ax l ii z
@@ -13640,7 +13640,7 @@ FATOUM	f ae t u u m
 FAULT-	f oo l t
 FAULTS	f oo l t s
 FAVOURITE-	f ei v ax r ax t
-FAVOURITE’S	f ei v ax r ax t s
+FAVOURITE'S	f ei v ax r ax t s
 FAVOURITES	f ei v ax r ax t s
 FAVOURITE'S	f ei v ax r ax t s
 FBI	e f b ii ye
@@ -13830,7 +13830,7 @@ FORTIES	f oo t ii z
 FORTNIGHTLY	f oo t n ye t l ii
 FORTNITE	f oo t n ye t
 FORTNITE-	f oo t n ye t
-FORTNITE’S	f oo t n ye t s
+FORTNITE'S	f oo t n ye t s
 FORTY-EIGHT	f oo t ii ei t
 FORTY-FIVE	f oo t ii f ye v
 FORTY-FIVE-YEAR-OLD	f oo t ii f ye v j ii ax eu l d
@@ -13878,8 +13878,8 @@ FREAKED	f r ii k t
 FREAKEN	f r ii k ax n
 FREAKIN	f r ii k i n
 FREAKIN'	f r ii k i n
-FREAKIN’	f r ii k i n
-FREAKIN’-	f r ii k i n
+FREAKIN'	f r ii k i n
+FREAKIN'-	f r ii k i n
 FREAKING	f r ii k i ng
 FREAKING-	f r ii k i ng
 FREAK'S	f r ii k s
@@ -13897,7 +13897,7 @@ FRICK	f r i k
 FRICKEN	f r i k ax n
 FRICKEN-	f r i k ax n
 FRIEND-	f r e n d
-FRIEND’S	f r e n d s
+FRIEND'S	f r e n d s
 FRIENDLIES	f r e n d l ii z
 FRIENDLIEST	f r e n d l ii ax s t
 FRIENDLY-	f r e n d l ii
@@ -13921,8 +13921,8 @@ FUCKED	f a k t
 FUCKEN	f a k ax n
 FUCKEN-	f a k ax n
 FUCKIN	f a k ax n
-FUCKIN’	f a k i n
-FUCKIN’-	f a k i n
+FUCKIN'	f a k i n
+FUCKIN'-	f a k i n
 FUCKING	f a k i ng
 FUCKING-	f a k i ng
 FULHAM	f uh l ax m
@@ -13952,7 +13952,7 @@ GAGGING	g ae g i ng
 GAINED	g ei n d
 GALACTUS	g ax l ae k t ax s
 GALLEN	g ae l ax n
-GALLEN’S	g ae l n s
+GALLEN'S	g ae l n s
 GALLOPED	g ae l ax p t
 GALLOPING	g ae l ax p i ng
 GAME-	g ei m
@@ -13995,7 +13995,7 @@ GENERALISATION	dz e n r ax l ye z ei sh n
 GENERALISED	dz e n r ax l ye z d
 GENERALLY	dz e n r ax l ii
 GENERATION-	dz e n ax r ei sh n
-GENERATION’S	dz e n ax r ei sh n s
+GENERATION'S	dz e n ax r ei sh n s
 GENERATIONS	dz e n ax r ei sh n z
 GENES	dz ii n z
 GENETIC	dz ax n e t i k
@@ -14028,7 +14028,7 @@ GIGGLING	g i g l i ng
 GIGS	g i g z
 GIRAFFE	dz ax r aa f
 GIRL-	g er l
-GIRL’S	g er l s
+GIRL'S	g er l s
 GIRLS	g er l z
 GIRLS-	g er l z
 GIRL'S	g er l z
@@ -14063,7 +14063,7 @@ GOALS	g eu l z
 GOALS-	g eu l z
 GOATS	g eu t s
 GOD-	g o d
-GOD’S	g o d s
+GOD'S	g o d s
 GODDAMN	g o d ae m
 GODMOTHERS	g o d m a dh ax z
 GOD-OF-THE-GAPS	g o d o v dh ax g ae p s
@@ -14073,7 +14073,7 @@ GOES-	g eu z
 GOGGLES	g o g l z
 GOI-	g oi
 GOIN	g oi n
-GOIN’	g eu oi n
+GOIN'	g eu oi n
 GOIN-ARE	g oi n aa
 GOING	g eu i ng
 GOING-	g eu i ng
@@ -14129,7 +14129,7 @@ GRANDCH-	g r ae n d ch
 GRANDCHILDREN	g r ae n d ch i l d r ax n
 GRANDMA	g r ae n m aa
 GRANDMA-	g r ae n m aa
-GRANDMA’S	g r ae n m ax s
+GRANDMA'S	g r ae n m ax s
 GRANDMAS	g r ae n m aa z
 GRANDMOTHER-	g r ae n d m a dh ax
 GRANDMOTHER'S	g r ae n d m a dh ax z
@@ -14158,7 +14158,7 @@ GREEKS	g r ii k s
 GREENA-	g r ii n ax
 GREENACRE	g r ii n ei k r ii
 GREENACRE-	g r ii n ei k r ii
-GREENACRE’S	g r ii n ei k r s
+GREENACRE'S	g r ii n ei k r s
 GREENACRE-LE-SANDS	g r ii n ei k r ii l ax s ae n d z
 GREENBERG	g r ii n b er g
 GREENING	g r ii n i ng
@@ -14214,7 +14214,7 @@ GURU	g u r u
 GUTS	g a t s
 GUY'	g ye
 GUY-	g ye
-GUY’S	g ii s
+GUY'S	g ii s
 GUYS	g ye z
 GUYS-	g ye z
 GUY'S	g ye z
@@ -14228,7 +14228,7 @@ HABIBS	h ei b ax b z
 HABITS	h ae b ax t s
 HACKERS	h ae k ax z
 HAD-	h ae d
-HADN’T	h ae d n t
+HADN'T	h ae d n t
 HAH	h aa
 HA-HAVE	h aa h ae v
 HAIRCARE	h e k e
@@ -14247,7 +14247,7 @@ HALF-TIME	h aa f t ye m
 HALFWA-	h aa f w ax
 HALLOWEEN	h ae l ax w ii n
 HALLOWEEN	h ae l eu ii n
-HALO’S	h ae l s
+HALO'S	h ae l s
 HALO'S	h ei l eu z
 HAMMERING	h ae m ax r i ng
 HAMPTON	h ae m p t ax n
@@ -14258,7 +14258,7 @@ HAND-IN-HAND	h ae n d i n h ae n d
 HANDLE-	h ae n d l
 HANDLED	h ae n d l d
 HANDLES	h ae n d l z
-HANDLING’S	h ae n d l i ng s
+HANDLING'S	h ae n d l i ng s
 HAND-ME-DOWN	h ae n d m ii d au n
 HAND-ME-DOWNS	h ae n d m ii d au n z
 HANDS	h ae n d z
@@ -14268,14 +14268,14 @@ HAND-WRITING	h ae n d r ye t i ng
 HANG-	h ae ng
 HANGED	h ae ng d
 HANGIN	h ae ng i n
-HANGIN’	h ae ng i n
+HANGIN'	h ae ng i n
 HANGING	h ae ng i ng
 HANGOUT	h ae ng au t
 HANGS	h ae ng z
 HANIN	h ei n ax n
 HANINE	h ae n ii n
 HANNAH	h ae n ax
-HANNAH’S	h ae n ax s
+HANNAH'S	h ae n ax s
 HANNAH'S	h ae n ax z
 HAP-	h ae p
 HAPPEN-	h ae p ax n
@@ -14303,8 +14303,8 @@ HARRY	h e r ii
 HARRY	h ae r ii
 HARVEY	h aa v ii
 HAS-	h ae z
-HASN’T	h ae s n t
-HASN’T-	h ae s n t
+HASN'T	h ae s n t
+HASN'T-	h ae s n t
 HASN'T	h ae z n t
 HASSAN	h ax s ae n
 HASSLING	h ae s l i ng
@@ -14316,8 +14316,8 @@ HAUNTS	h oo n t s
 HAV-	h ae v
 HAVE-	h ae v
 HAVEN-	h ei v n
-HAVEN’T	h ei v n t
-HAVEN’T-	h ei v n t
+HAVEN'T	h ei v n t
+HAVEN'T-	h ei v n t
 HAVENT	h ae v n t
 HAVEN'T	h ae v n t
 HAVEN'T-	h ae v n t
@@ -14333,11 +14333,11 @@ HD	ei ch d ii
 HDM-	ei ch d ii e m
 HDMI	ei ch d ii e m ye
 HE-	h ii
-HE’D	h d
-HE’LL	h l
-HE’LL-	h l
-HE’S	h s
-HE’S-	h s
+HE'D	h d
+HE'LL	h l
+HE'LL-	h l
+HE'S	h s
+HE'S-	h s
 HEAD-	h e d
 HEADACHE-	h e d ei k
 HEADACHES	h e d ei k s
@@ -14386,7 +14386,7 @@ HELICOPTERS	h e l ax k o p t ax z
 HELL-	h ii l
 HE'LL	h ii l
 HE'LL-	h ii l
-HELL’S	h e l s
+HELL'S	h e l s
 HELL>	h e l
 HELL'S	h e l z
 HELPED	h e l p t
@@ -14397,13 +14397,13 @@ HELPS	h e l p s
 HEMSWORTH	h e m s w ax th
 HENDERSON	h e n d ax s n
 HENDERSON-	h e n d ax s n
-HENDERSON’S	h e n d ax s n s
+HENDERSON'S	h e n d ax s n s
 HENRY	h e n r ii
 HER-	n aa
 HER-	h er
 HERE'	h ii ax
 HERE-	h ii ax
-HERE’S	h i r s
+HERE'S	h i r s
 HERE'S	h ie z
 HERMIONE	h aa m ii eu n
 HEROES	h i r eu z
@@ -14480,7 +14480,7 @@ HOLROYD	h eu l r oi d
 HOME-	h eu m
 HOMEBUSH	h eu m b uh sh
 HOMEFRONT	h eu m f r a n t
-HOMEFRONT’S	h eu m f r a n t s
+HOMEFRONT'S	h eu m f r a n t s
 HOMEFRONT'S	h eu m f r a n t s
 HOMELESS	h eu m l ax s
 HOMEMADE	h eu m m ei d
@@ -14531,16 +14531,16 @@ HOTTER	h o t ax
 HOTTEST	h o t ax s t
 HOUDA	h au d ax
 HOUR-	au ax
-HOUR’S	r s
+HOUR'S	r s
 HOURS	au ax z
 HOURS-	au ax z
-HOURS’	au ax s
+HOURS'	au ax s
 HOUSE-	h au s
 HOUSES	h au z ax z
 HOUSEWORK-	h au s w er k
 HOW-	h au
-HOW’D	h au w d
-HOW’S	h au w s
+HOW'D	h au w d
+HOW'S	h au w s
 HOWARD	h au ax d
 HOW'D	h au d
 HOWDA	h au d ax
@@ -14585,7 +14585,7 @@ HURTING	h er t i ng
 HURTS	h er t s
 HUS-	h a s
 HUSBAND-	h a z b ax n d
-HUSBAND’S	h a z b ax n d s
+HUSBAND'S	h a z b ax n d s
 HUSBANDS	h a z b ax n d z
 HUSBAND'S	h a z b ax n d z
 HUSBAND'S-	h a z b ax n d z
@@ -14606,19 +14606,19 @@ HYSTERICAL	h ax s t e r i k l
 HYUNDAI	h ye n d ye
 I-	ye
 I-	ii
-I’D	i d
-I’D-	i d
-I’LL	i l
-I’LL-	i l
-I’M	ax
-I’M	i m
-I’M	dz a s t
-I’M	t oo k i ng
-I’M	n o t
-I’M-	i m
-I’VE	i v
-I’VE-	i v
--I’VE	i v
+I'D	i d
+I'D-	i d
+I'LL	i l
+I'LL-	i l
+I'M	ax
+I'M	i m
+I'M	dz a s t
+I'M	t oo k i ng
+I'M	n o t
+I'M-	i m
+I'VE	i v
+I'VE-	i v
+-I'VE	i v
 IA	ye ei
 IA	ii ax
 IBRAHIM	ii b r ax h ii m
@@ -14866,8 +14866,8 @@ ISLAND'S	ye l ax n d z
 ISLANDY	ye l ax n d ii
 ISMS	i z m z
 -ISMS	i z m z
-ISN’T	i s n t
-ISN’T-	i s n t
+ISN'T	i s n t
+ISN'T-	i s n t
 ISNS	ye e s e n e s
 ISN'T	i z n t
 ISN'T	i z ax n t
@@ -14887,14 +14887,14 @@ ISSAC	i s ax k
 ISSUE-	i sh u
 ISSUES	i sh u z
 ISTANBUL	i s t ae n b uh l
-ISTANBUL’S	ax s t ae n b j l s
+ISTANBUL'S	ax s t ae n b j l s
 IT-	i t
-IT’D	ax t
-IT’LL	ax t l
-IT’S	ax t s
-IT’S	dz a s t
-IT’S-	ax t s
-IT’S-OVER-NOW	ax t s eu v ax n au
+IT'D	ax t
+IT'LL	ax t l
+IT'S	ax t s
+IT'S	dz a s t
+IT'S-	ax t s
+IT'S-OVER-NOW	ax t s eu v ax n au
 ITALIAN-AMERICAN	ax t ae l j ax n ax m e r ax k ax n
 ITALIANS	ax t ae l j ax n z
 ITALIAN'S	ax t ae l j ax n z
@@ -14943,14 +14943,14 @@ JAP	dz ae p
 JAP-	dz ae p
 JAPAN	dz ax p ae n
 JAPAN-	dz ax p ae n
-JAPAN’S	dz ax p ae n s
+JAPAN'S	dz ax p ae n s
 JARED	dz e d
 JARVIS	dz aa v ax s
 JASMINE	dz ae z m ax n
 JASON	dz ei s n
 JAVA	dz aa v ax
 JAZEL	dz ei z l
-JEAN’S	dz e n s
+JEAN'S	dz e n s
 JEEZ	dz ii z
 JEFF	dz e f
 JEN-	dz e n
@@ -14982,7 +14982,7 @@ JOCELYN	dz o s ax l ax n
 JOCK-	dz o k
 JOEMELA-	dz eu m l ax
 JOHN	dz o n
-JOHN’S	dz o n s
+JOHN'S	dz o n s
 JOHNNY	dz o n ii
 JOHNS	dz o n z
 JOHNSON	dz o n s n
@@ -14997,7 +14997,7 @@ JON	dz o n
 JONES	dz eu n z
 JORDAN	dz oo d n
 JORDAN-	dz oo d n
-JORDAN’S	dz oo d ae n s
+JORDAN'S	dz oo d ae n s
 JORDANIAN	dz oo d ei n ii ax n
 JORDANIAN-PALESTINIAN	dz oo d ei n ii ax n p ae l ax s t i n ii ax n
 JORDANIANS	dz oo d ei n ii ax n z
@@ -15006,7 +15006,7 @@ JORGINHO'S	dz oo dz i n h eu z
 JOSEPH	dz eu z ax f
 JOSH	dz o sh
 JOSHUA	dz o sh j u ax
-JOSHUA’S	dz o sh j u ax s
+JOSHUA'S	dz o sh j u ax s
 JOURNALISM	dz er n l i z m
 JOURNEY-	dz er n ii
 JOYRIDES	dz oi r ye d z
@@ -15042,7 +15042,7 @@ JUVENTUS	dz u v e n t ax s
 JUVENTUS	j u v e n t ax s
 K-	k
 K-	k e
-K’S	k s
+K'S	k s
 KA-	k aa
 KALI-	k aa l ii
 KALID	k ax l ax d
@@ -15086,7 +15086,7 @@ KFC	k e e f s ii
 KHABIB	k aa b ax b
 KHABIB	k aa b ii b
 KHABIB	k aa b ax s
-KHABIB’S	k ei b i b s
+KHABIB'S	k ei b i b s
 KHABIB'S-	k aa b ax b z
 KHODORKOVSKY	k eu d oo k o v s k ii
 KI-	k ii
@@ -15098,7 +15098,7 @@ KICKING	k i k i ng
 KICKS	k i k s
 KICKS-ONLY	k i k s eu n l ii
 KID-	k i d
-KID’S	k i d s
+KID'S	k i d s
 KIDD	k i d
 KIDDING	k i d i ng
 KID-KID	k i d k i d
@@ -15253,7 +15253,7 @@ LAWS	l oo z
 LAWSON	l oo s n
 LAWYERS	l oo j ax z
 LAYING	l ei i ng
-LAYMAN’S	l ei m ax n s
+LAYMAN'S	l ei m ax n s
 LAZAR	l ei z ax
 LAZAR	l ae z ax
 LAZZARO	l ae z aa r eu
@@ -15293,7 +15293,7 @@ LEBANESE-	l e b ax n ii z
 LEBANESE-MUSLIM-	l e b ax n ii z m uh z l ax m
 LEBANON	l e b ax n ax n
 LEBANON-	l e b ax n ax n
-LEBANON’S	l e b ax n o n s
+LEBANON'S	l e b ax n o n s
 LEBANON'S	l e b ax n ax n z
 LEBO	l ii b eu
 LEBO-	l ii b eu
@@ -15302,7 +15302,7 @@ LEBRON	l ii b r o n
 LECTURE-	l e k ch ax
 LECTURER	l e k ch ax r ax
 LECTURES	l e k ch ax z
-LEDGER’S	l e dz r s
+LEDGER'S	l e dz r s
 LEECHES	l ii ch ax z
 LEEWAY	l ii w ei
 LEFT-	l e f t
@@ -15326,8 +15326,8 @@ LESBIANS	l e z b ii ax n z
 LESSER	l e s ax
 LESSONS	l e s n z
 LET-	l e t
-LET’S	l ax t s
-LET’S-	l ax t s
+LET'S	l ax t s
+LET'S-	l ax t s
 LETO	l e t eu
 LETS	l e t s
 LET'S	l e t s
@@ -15351,7 +15351,7 @@ LIED	l ye d
 LIEK-	l ye k
 LIES	l ye z
 LIFE-	l ye f
-LIFE’S	l ye f s
+LIFE'S	l ye f s
 LIFEGUARD	l ye f g aa d
 LIFEGUARD-	l ye f g aa d
 LIFEGUARDING	l ye f g aa d i ng
@@ -15519,8 +15519,8 @@ LUCKY-	l a k ii
 LUIGI	l u ii dz ii
 LUIGI'S	l u i dz ax s
 LUKE	l u k
-LUKE’S	l u k s
-LUKIE’S	l u k ii s
+LUKE'S	l u k s
+LUKIE'S	l u k ii s
 LUMPUR	l uh m p oo
 LUMPY	l a m p ii
 LUNA	l u n ax
@@ -15540,7 +15540,7 @@ MACARTHUR	m ax k aa th ax
 MACBOOK	m ae k b uh k
 MACBUILD	m ax k b i l d
 MACCA-	m ae k ax
-MACCA’S	m ax k ax s
+MACCA'S	m ax k ax s
 MACCAS	m ae k ax z
 MACCA'S	m ae k ax z
 MACHINES	m ax sh ii n z
@@ -15573,7 +15573,7 @@ MAJORING	m ei dz ax r i ng
 MAJORS	m ei dz ax z
 MAK-	m ei k
 MAKE-	m ei k
-MAKE’S	m ei k s
+MAKE'S	m ei k s
 MAKEOVER	m ei k eu v ax
 MAKES	m ei k s
 MAKES-	m ei k s
@@ -15596,7 +15596,7 @@ MALTESERS-	m oo l t e s ax z
 MAMA	m ax m aa
 MA-MADE	m aa m ei d
 MAN-	m ae n
-MAN’S	m ax n s
+MAN'S	m ax n s
 MANAGEABLE	m ae n ax dz ax b l
 MANAGEMENT-	m ae n ax dz m ax n t
 MANAGERS	m ae n ax dz ax z
@@ -15628,7 +15628,7 @@ MARIAM-	m ae r ii ax m
 MARIANO	m ae r ii aa n eu
 MARIANO'S	m ae r ii aa n eu z
 MARIE	m ax r ii
-MARINA’S	m ae r ax n ax s
+MARINA'S	m ae r ax n ax s
 MARIO	m ae r ii eu
 MARK-	m aa k
 MARKED	m aa k t
@@ -15655,7 +15655,7 @@ MARTIAL	m aa sh l
 MARTIAL	m aa sh ax l
 MARTIN	m aa t n
 MARVEL-	m aa v l
-MARVEL’S	m aa v l s
+MARVEL'S	m aa v l s
 MAR-VELL	m aa v e l
 MARVELS	m aa v l z
 MARVEL'S	m aa v l z
@@ -15664,14 +15664,14 @@ MARWAN	m aa w o n
 MARY	m ae r ii
 MARY	m e r ii
 MARY-	m e r ii
-MARY’S	m e r ii s
+MARY'S	m e r ii s
 MARY'S	m e r ii z
 MASKED	m aa s k t
 MASSES	m ae s ax z
 MASSIVE-	m ae s ax v
 MASTER-	m aa s t ax
-MASTER’S	m aa s t r s
-MASTER’S-	m aa s t r s
+MASTER'S	m aa s t r s
+MASTER'S-	m aa s t r s
 MASTERED	m aa s t ax d
 MASTERS	m aa s t ax z
 MASTER'S	m aa s t ax z
@@ -15680,7 +15680,7 @@ MATCH-	m ae ch
 MATCHED	m ae ch t
 MATCHING	m ae ch i ng
 MATE-	m ei t
-MATE’S	m ax t s
+MATE'S	m ax t s
 MATERIALS	m ax t i r ii ax l z
 MATES	m ei t s
 MATE'S	m ei t s
@@ -15703,13 +15703,13 @@ MBAPPÉ	m ae p e t
 MC-	m s
 MCCAIN	m ax k ei n
 MCCANN	m ax k ae n
-MCCANN’S	m ax k ae n s
-MCDONALD’S	m ax k d o n l d s
+MCCANN'S	m ax k ae n s
+MCDONALD'S	m ax k d o n l d s
 MCDONALDS	m ax k d o n l d z
 MCDONALD'S	m ax k d o n l d z
 MCFLURRIES	m ax f l a r ii z
 MCGREGOR	m ax g r e g ax
-MCGREGOR’S	m ax g r e g ax r s
+MCGREGOR'S	m ax g r e g ax r s
 MCNUGGETS	m ax n a g ax t s
 ME-	m ii
 MEALS	m ii l z
@@ -15737,7 +15737,7 @@ MEET-	m ii t
 MEETINGS	m ii t i ng z
 MEH	m ii
 MEL	m e l
-MEL’S	m l s
+MEL'S	m l s
 MELBOURNE	m e l b ax n
 MELI-	m e l ii
 MELISSA	m ax l i s ax
@@ -15782,19 +15782,19 @@ MET	m e t
 MET-	m e t
 METHYLATED	m e th ax l ei t ax d
 METRES	m ii t ax z
-METRES’	m ii t ax e s
+METRES'	m ii t ax e s
 MEXICAN	m e k s i k ax n
-MEXICAN’S	m e k s i k ae n s
+MEXICAN'S	m e k s i k ae n s
 MEXICO	m e k s i k eu
 MHM	m h m
 MHMM	m h m m
 MI	e m ye
 MI	m ii
 MI-	m ii
-MICH’S	m i k s
+MICH'S	m i k s
 MICHAEL	m ye k l
 MICHAELS	m ye k l z
-MICHEL’S	m ax sh e l s
+MICHEL'S	m ax sh e l s
 MICHIGAN	m i sh i g ax n
 MICRO-MANAGER	m ye k r eu m ae n ax dz ax
 MICROSOFT	m ye k r ax s o f t
@@ -15811,7 +15811,7 @@ MIDWEEK	m ax d w ii k
 MIDWIFERY	m i d w i f ax r ii
 MID-YEAR	m i d j ii ax
 MIGHT-	m ye t
-MIGHT’VE	m ye t v
+MIGHT'VE	m ye t v
 MIGRANTS	m ye g r ax n t s
 MIGRATED	m ye g r ei t ax d
 MIKE	m ye k
@@ -15831,14 +15831,14 @@ MILLIONS	m i l j ax n z
 MILPER-	m i l p ax
 MILPERRA	m i l p ax r ax
 MIMS	m ii m z
-MINA’S	m i n ax s
+MINA'S	m i n ax s
 MIND-	m ye n d
 MINDFULNESS	m ye n d f uh l n ax s
 MINDS	m ye n d z
 MINDSET	m ye n d s e t
 MINDSETS	m ye n d s e t s
 MINE-	m ye n
-MINE’S	m i n s
+MINE'S	m i n s
 MINE'S	m ye n z
 MINE'S-	m ye n z
 MINI	m i n ii
@@ -15847,9 +15847,9 @@ MINT'S	m i n t s
 MINUTE-	m i n ax t
 MINUTES	m i n ax t s
 MINUTES-	m i n ax t s
-MINUTES’	m i n ax t s
+MINUTES'	m i n ax t s
 MIRACLES	m i r ax k l z
-MIRANDA’S	m ax r ae n d ax s
+MIRANDA'S	m ax r ae n d ax s
 MIRRORS	m i r ax z
 MISADDRESSED	m i z ae d r e s t
 MISCOMMUNICATION	m i s k ax m j u n ax k ei sh n
@@ -15925,7 +15925,7 @@ MONTAGE	m o n t aa zh
 MONTH-	m a n th
 MONTHS	m a n th s
 MONTHS-	m a n th s
-MONTHS’	m a n th s
+MONTHS'	m a n th s
 MOODS	m u d z
 MORAL-	m o r ax l
 MORALITY	m ax r ae l ax t ii
@@ -15948,7 +15948,7 @@ MOSTLY-	m eu s t l ii
 MOSUL	m eu s a l
 MOTEL-	m eu t e l
 MOTHER-	m a dh ax
-MOTHER’S	m a dh r s
+MOTHER'S	m a dh r s
 MOTHERFUCKER	m a dh ax f a k ax
 MOTHERFUCKIN'-	m a dh ax f a k ax n
 MOTHERHOOD	m a dh ax h uh d
@@ -15972,7 +15972,7 @@ MOVEMENTS	m u v m ax n t s
 MOVES	m u v z
 MOVI-	m u v ye
 MOVIE-	m u v ii
-MOVIE’S	m u v ii s
+MOVIE'S	m u v ii s
 MOVIES	m u v ii z
 MOVIES-	m u v ii z
 MOVIE'S	m u v ii z
@@ -15989,7 +15989,7 @@ MULTI	m a l t ii
 MULTICULT-	m a l t ii k a l t
 MULTI-MILLIONAIRES	m a l t ii m i l j ax n e z
 MUM-	m a m
-MUM’S	m a m s
+MUM'S	m a m s
 MUMMA'S	m a m ax z
 MUMMIFICATION	m a m ax f i k ei sh n
 MUMMIFIED	m a m ax f ye d
@@ -16024,7 +16024,7 @@ MYSE-	m ye z
 MYSELF-	m ye s e l f
 N-	n
 N-	e n
-N’	n
+N'	n
 NA	n aa
 NA-	n aa
 NAAN	n o n
@@ -16040,7 +16040,7 @@ NADAL	n aa d l
 NADAL'S	n aa d l z
 NADER	n ei d ax
 NADIA	n aa d ii ax
-NADIA’S	n ei d ii ax s
+NADIA'S	n ei d ii ax s
 NADINE	n aa d ii n
 NADS	n ae d z
 NAGGING	n ae g i ng
@@ -16057,13 +16057,13 @@ NALA	n ae l ax
 NALA'S	n ae l ax z
 NAMBUCCA	n ae m b ax k ax
 NAME-	n ei m
-NAME’S	n ei m s
+NAME'S	n ei m s
 NAMED	n ei m d
 NAMES	n ei m z
 NAME'S	n ei m z
 NAME'S-	n ei m z
 NANA	n ae n ax
-NANDO’S	n ae n d s
+NANDO'S	n ae n d s
 NANNY	n ae n ii
 NAPA	n ae p ax
 NAPPIES	n ae p ii z
@@ -16147,7 +16147,7 @@ NEWS-	n j u z
 NEWTOWN	n j u t au n
 NEXT-	n e k s t
 NF	e n e f
-NF’S	n f s
+NF'S	n f s
 NFL	e n e f e l
 NGAW	g oo
 NH	n h
@@ -16162,7 +16162,7 @@ NICKNAMES	n i k n ei m z
 NIECES	n ii s ax z
 NIGHT-	n ye t
 NIGHTLIFE	n ye t l ye f
-NIGHTLIFE’S	n ye t l ye f s
+NIGHTLIFE'S	n ye t l ye f s
 NIGHTS	n ye t s
 NIKE	n ye k
 NINE-	n ye n
@@ -16233,7 +16233,7 @@ NOTED	n eu t ax d
 NOTES	n eu t s
 NOTHI-	n a th ii
 NOTHING-	n a th i ng
-NOTHING’S	n a th i ng s
+NOTHING'S	n a th i ng s
 NOTICED	n eu t ax s t
 NOTIFIES	n eu t ax f ye z
 NOTING	n eu t i ng
@@ -16243,7 +16243,7 @@ NOUR	n au r
 NOVAK	n eu v ae k
 NOVELS	n o v l z
 NOW-	n au
-NOW’S	n eu w s
+NOW'S	n eu w s
 NOWADAYS	n au ax d ei z
 NOWHERE	n eu w e
 NRL	e n r e l
@@ -16259,8 +16259,8 @@ NUTCASE	n a t k ei s
 NUTRIENTS	n j u t r ii ax n t s
 NUTS	n a t s
 O-	a uh
-O’CLOCK	k l o k
-O’CLOCK-	k l o k
+O'CLOCK	k l o k
+O'CLOCK-	k l o k
 OATLANDS	eu t l ax n d z
 OB	a uh b ii
 OBAMA	eu b ae m ax
@@ -16303,7 +16303,7 @@ OKAYS	eu k ei z
 OKRA	eu k r ax
 OL	a uh e l
 OLD-	eu l d
-OLD’S	eu l d s
+OLD'S	eu l d s
 OLDEN-DAY	eu l d n d ei
 OLDER	eu l d ax
 OLDER-	eu l d ax
@@ -16327,8 +16327,8 @@ OMEGA	eu m i g ax
 ON-	o n
 ONCE-	w a n s
 ONE-	w a n
-ONE’S	w a s
-ONE’S-	w a s
+ONE'S	w a s
+ONE'S-	w a s
 ONE-AND-A-HALF	w a n ae n d ax h aa f
 ONE-DAY	w a n d ei
 ONE-EIGHTY-	w a n ei t ii
@@ -16395,7 +16395,7 @@ OPERATIONS	o p ax r ei sh n z
 OPI-	eu p ii
 OPINIONS	ax p i n j ax n z
 OP-OPEN	o p eu p ax n
-OPORTO’S	eu p oo t eu z
+OPORTO'S	eu p oo t eu z
 OPPORT-	o p oo t
 OPPORTUNITIES	o p ax t j u n ax t ii z
 OPPOSED	ax p eu z d
@@ -16418,7 +16418,7 @@ ORDER-	oo d ax
 ORDERED	oo d ax d
 ORDERS	oo d ax z
 OREO	oo r ii eu
-ORGANISATION’S	oo g ax n ye z ei sh n s
+ORGANISATION'S	oo g ax n ye z ei sh n s
 ORGANISATIONS	oo g ax n ye z ei sh n z
 ORGANISED	oo g ax n ye z d
 ORIENT-	oo r ii ax n t
@@ -16431,7 +16431,7 @@ ORPORTO'S	oo p oo t eu z
 ORTHODOX-	oo th ax d o k s
 ORTHODOXY	oo th ax d o k s ii
 OTHER-	a dh ax
-OTHER’S	a dh r s
+OTHER'S	a dh r s
 OTHERS	a dh ax z
 OTHER'S	a dh ax z
 OTHERWISE-	a dh ax w ye z
@@ -16498,7 +16498,7 @@ PACKS	p ae k s
 PACMAN	p ae k m ax n
 PAC-MAN	p ae k m ae n
 PADDINGTON	p ae d i ng t ax n
-PADDY’S	p ae d ii s
+PADDY'S	p ae d ii s
 PADSTOW	p ae d s t eu
 PAEDOPHILE	p ii d ax f ye l
 PAGES	p ei dz ax z
@@ -16534,7 +16534,7 @@ PARENT-	p e r ax n t
 PARENTING	p e r ax n t i ng
 PARENTS	p e r ax n t s
 PARENTS-	p e r ax n t s
-PARENTS’	p ax r ax n t s
+PARENTS'	p ax r ax n t s
 PARIS	p ae r ax s
 PARKER	p aa k ax
 PARKING	p aa k i ng
@@ -16545,7 +16545,7 @@ PARR-	p aa
 PARRA	p ae r ax
 PARRAMATTA	p ae r ax m ax t ax
 PARRAMATTA-	p ae r ax m ax t ax
-PARRAMATTA’S	p ae r ax m ae t ax s
+PARRAMATTA'S	p ae r ax m ae t ax s
 PARRAMATTA'S	p ae r ax m ax t ax z
 PARRAMATTA'S-	p ae r ax m ax t ax z
 PART-	p aa t
@@ -16555,7 +16555,7 @@ PARTICIPATING	p aa t i s ax p ei t i ng
 PARTICULAR-	p ax t i k j u l ax
 PARTIES	p aa t ii z
 PARTNER-	p aa t n ax
-PARTNER’S	p aa t n r s
+PARTNER'S	p aa t n r s
 PARTNERED	p aa t n ax d
 PARTS	p aa t s
 PARTYING	p aa t ii i ng
@@ -16580,7 +16580,7 @@ PATTINSON	p ae t ax n s n
 PATTI'S	p ae t s
 PATTY	p ae t ii
 PAUL	p oo l
-PAUL’S	p oo l s
+PAUL'S	p oo l s
 PAUSED	p oo z d
 PAY-	p ei
 PAYCHECK	p ei ch e k
@@ -16608,7 +16608,7 @@ PENRITH	p e n r ax th
 PEOLE	p ii l
 PEOP-	p ii p
 PEOPLE-	p ii p l
-PEOPLE’S	p ii p l s
+PEOPLE'S	p ii p l s
 PEOPLE-PERSON	p ii p l p er s n
 PEOPLES	p ii p l z
 PEOPLE'S	p ii p l z
@@ -16640,7 +16640,7 @@ PEROUSE	p i r u z
 PERS-	p er z
 PERSECUTED	p er s ax k j u t ax d
 PERSON-	p er s n
-PERSON’S	p er s n s
+PERSON'S	p er s n s
 PERSONA	p ax s eu n ax
 PERSONAL-	p er s n ax l
 PERSONALITIES	ii ch
@@ -16650,7 +16650,7 @@ PERSON'S	p er s n z
 PERSPECTIVE	p ax s p e k t ax v
 PERTH	p er th
 PETE	p ii t
-PETER’S	p ii t r s
+PETER'S	p ii t r s
 PET-FREE	p e t f r ii
 PETROL-	p e t r ax l
 PETROL'S	p ax t r o l z
@@ -16669,7 +16669,7 @@ PHOBIA-	f eu b ii ax
 PHOBIAS	f eu b ii ax z
 PHOENIX	f ii n i k s
 PHONE-	f eu n
-PHONE’S	f eu n s
+PHONE'S	f eu n s
 PHONES	f eu n z
 PHONES-	f eu n z
 PHONE'S	f eu n z
@@ -16697,7 +16697,7 @@ PIGEONS	p i dz ax n z
 PIGMENTATIONS	p i g m ax n t ei sh n z
 PIGS	p i g z
 PILLOWS	p i l eu z
-PILOT’S	p ye l o t s
+PILOT'S	p ye l o t s
 PIMPLE-POPPING	p i m p l p o p i ng
 PINNED	p i n d
 PINOCCHIO	p ax n eu k ii eu
@@ -17111,7 +17111,7 @@ RARELY	r e l ii
 RASAHAY'S	r ae s ax h ei z
 RASHFORD	r ae sh f ax d
 RASHSAY'S	r ae sh ei z
-RASPBERRIES’	r aa z b ax r ii s
+RASPBERRIES'	r aa z b ax r ii s
 RATED	r ei t ax d
 RATES	r ei t s
 RATH-	r aa th
@@ -17431,7 +17431,7 @@ RON	r o n
 RONA-	r eu n ax
 RONALDO	r o n ax l d eu
 RONALDO-	r o n ax l d eu
-RONALDO’S	r o n ae l d s
+RONALDO'S	r o n ae l d s
 RONIA	r eu n ii ax
 RONIA'S	r eu n ii ax z
 ROOFS	r u f s
@@ -17443,7 +17443,7 @@ ROOST-	r u s t
 ROOSTERS	r u s t ax z
 ROOTING	r u t i ng
 ROPES	r eu p s
-ROSELAND’S	r eu z l ae n d s
+ROSELAND'S	r eu z l ae n d s
 ROSELANDS	r eu z l ax n d z
 ROSES	r eu z ax z
 ROSLANDS	r o z l ae n d z
@@ -17451,13 +17451,13 @@ ROTATING	r eu t ei t i ng
 ROUCHA	r au ch ax
 ROUGHLY	r a f l ii
 ROUTINE-	r u t ii n
-ROUTINE’S	r u t ii n s
+ROUTINE'S	r u t ii n s
 ROVING	r eu v i ng
 ROY	r oi
 ROYALE	r oi ax l
 R-RIGHT	r r ye t
 RSPCA	r e s p ii s ii ei
-RUBIK’S	r u b ye k s
+RUBIK'S	r u b ye k s
 RUBIK'S	r u b i k s
 RUDER	r u d ax
 RUINED	r u ax n d
@@ -17481,7 +17481,7 @@ RUN-UP-	r a n a p
 RUSHED	r a sh t
 RUSHING	r a sh i ng
 RUSSIA	r a sh ax
-RUSSIA’S	r a sh ii ax s
+RUSSIA'S	r a sh ii ax s
 RUSSIAN	r a sh ax n
 RYDE	r ye d
 S-	s
@@ -17515,8 +17515,8 @@ SAINT-	s ei n t
 SAINTS	s ei n t s
 SALAH	s ax l ax
 SALAH-	s ax l ax
-SALAH’S	s ax l ax s
-SALAM’S	s ax l ae m s
+SALAH'S	s ax l ax s
+SALAM'S	s ax l ae m s
 SALARY'S	s ae l ax r ax z
 SALEH	s ei l
 SALES	s ei l z
@@ -17552,7 +17552,7 @@ SARABI	s ae r aa b ii
 SARABI'S	s ae r aa b ax s
 SARAH	s e r ax
 SARAH-	s e r ax
-SARAH’S	s e r ax s
+SARAH'S	s e r ax s
 SARAH'S	s e r ax z
 SARC-	s aa k
 SARCASTIC	s aa k ae s t i k
@@ -17593,7 +17593,7 @@ SCHMACKA	sh m ae k ax
 SCHNITZEL	sh n i t s l
 SCHOLARSHIPS	s k o l ax sh i p s
 SCHOOL-	s k u l
-SCHOOL’S	s k u l s
+SCHOOL'S	s k u l s
 SCHOOL'D	s k u l d
 SCHOOLIES	s k u l ii z
 SCHOOLING	s k u l i ng
@@ -17618,7 +17618,7 @@ SCRATCHED	s k r ae ch t
 SCREAMED	s k r ii m d
 SCREAMING	s k r ii m i ng
 SCREEN-	s k r ii n
-SCREEN’S	s k r ii n s
+SCREEN'S	s k r ii n s
 SCREENING	s k r ii n i ng
 SCREEN'S	s k r ii n z
 SCREWED	s k r u d
@@ -17637,7 +17637,7 @@ SEASICK	s ii s i k
 SEASON-	s ii z n
 SEASONS	s ii z n z
 SEASON'S	s ii z n z
-SEAT’S	s ii t s
+SEAT'S	s ii t s
 SEATS	s ii t s
 SEC-	s e k
 SECLUDED	s i k l u d ax d
@@ -17667,7 +17667,7 @@ SEES	s ii z
 SEE-THROUGH	s ii th r u
 SEIGHT	e s ei t
 SEINFELD	s ye n f e l d
-SEINFELD’S	s ye n f e l d s
+SEINFELD'S	s ye n f e l d s
 SEK-	s e k
 SEL-	s e l
 SELECTED	s ax l e k t ax d
@@ -17730,7 +17730,7 @@ SERVO-	s er v eu
 SESAME	s e s ax m ii
 SESH	s e sh
 SESSION-	s e sh n
-SESSION’S	s e sh n s
+SESSION'S	s e sh n s
 SESSIONS	s e sh n z
 SET-	s e t
 SETH	s e th
@@ -17740,7 +17740,7 @@ SETUP	s e t a p
 SEVDA>	s e v d ax
 SEVEN-	s e v n
 SEVEN-ELEVEN	s e v n ax l e v n
-SEVEN-ELEVEN’S	s e v n ax l e v n s
+SEVEN-ELEVEN'S	s e v n ax l e v n s
 SEVEN-NIL	s e v n n i l
 SEVEN-SEVENTEEN	s e v n s e v n t ii n
 SEVEN-SIX	s e v n s i k s
@@ -17780,11 +17780,11 @@ SHAZAM	sh ae z ae m
 SHCARED-	sh k e d
 SHE	sh ii
 SHE-	sh ii
-SHE’D	sh t
-SHE’LL	sh l
-SHE’S	sh s
-SHE’S	ax n oi i ng
-SHE’S-	sh s
+SHE'D	sh t
+SHE'LL	sh l
+SHE'S	sh s
+SHE'S	ax n oi i ng
+SHE'S-	sh s
 SHE'D	sh ii d
 SHEETS	sh ii t s
 SHELDON	sh e l d n
@@ -17839,13 +17839,13 @@ SHOTS	sh o t s
 SHOTTING	sh o t i ng
 SHOUD'VE	sh au d v
 SHOULD-	sh uh d
-SHOULD’VE	sh uh d v
+SHOULD'VE	sh uh d v
 SHOULDA	sh uh d ax
 SHOULDERS	sh eu l d ax z
 SHOULDERS-	sh eu l d ax z
-SHOULDN’T	sh uh d n t
-SHOULDN’T-	sh uh d n t
-SHOULDN’T'VE	sh uh d n t v
+SHOULDN'T	sh uh d n t
+SHOULDN'T-	sh uh d n t
+SHOULDN'T'VE	sh uh d n t v
 SHOULDN'T	sh uh d n t
 SHOULDN'T-	sh uh d n t
 SHOULD'VE	sh uh d ax v
@@ -17866,7 +17866,7 @@ SIBLINGS	s i b l i ng z
 SIBLINGS-	s i b l i ng z
 SICK-	s i k
 SIDE-	s ye d
-SIDE’S	s ye d s
+SIDE'S	s ye d s
 SIGHTS	s ye t s
 SIGHT-SEEING	s ye t s ii i ng
 SIGNED	s ye n d
@@ -17898,12 +17898,12 @@ SINS	s i n z
 SIRENS	s ye r ax n z
 SIRI	s ie r ii
 SIRI	s ye ax ii
-SIRI’S	s i r i s
+SIRI'S	s i r i s
 SIRS	s er z
 SIS	s ii z
 SIS	s ax s
 SISTER-	s i s t ax
-SISTER’S	s i s t r s
+SISTER'S	s i s t r s
 SISTERS	s i s t ax z
 SISTER'S	s i s t ax z
 SITES	s ye t s
@@ -17950,7 +17950,7 @@ SL-	s l
 SLACKER	s l ae k ax
 SLACKING	s l ae k i ng
 SLAMS	s l ae m z
-SLANGIN’	s l ae ng i n
+SLANGIN'	s l ae ng i n
 SLAPPED	s l ae p t
 SLATER	s l ei t ax
 SLAVES	s l ei v z
@@ -17993,7 +17993,7 @@ SMILED	s m ye l d
 SMILEY	s m ye l ii
 SMILING	s m ye l i ng
 SMITH	s m i th
-SMITH’S	s m i th s
+SMITH'S	s m i th s
 SMITHFIELD	s m i th f ii l d
 SMOKE-	s m eu k
 SMOKED	s m eu k t
@@ -18029,14 +18029,14 @@ SOBERING	s eu b ax r i ng
 SOC-	s eu k
 SO-CALLED	s eu k oo l d
 SOCCER-	s o k ax
-SOCCER’S	s o ii r s
+SOCCER'S	s o ii r s
 SOCCEROOS	s o k s ax r u z
 SOCCER'S	s o k s ax z
 SOCIABLE	s eu sh ax b l
 SOCIALLY	s eu sh l ii
 SOCIALLY-	s eu sh l ii
 SOCIETAL	s ax s ye ax t l
-SOCIETY’S	s ax s ye ax t ii s
+SOCIETY'S	s ax s ye ax t ii s
 SOCIOPATHS	s eu s ii ax p ae th s
 SOCKETS	s o k ax t s
 SOCKS	s o k s
@@ -18053,7 +18053,7 @@ SOME-	s a m
 SOMEBODY-	s a m b ax d ii
 SOMEDAY	s a m d ei
 SOMEONE-	s a m w a n
-SOMEONE’S	s a m w a n s
+SOMEONE'S	s a m w a n s
 SOMEONE'S	s a m w a n z
 SOMEONE'S-	s a m w a n z
 SOMETH-	s a m th
@@ -18065,14 +18065,14 @@ SOMETIME-	s a m t ye m
 SOMETIMES-	s a m t ye m z
 SOMEWHAT	s a m w o t
 SON-	s a n
-SON’S	s n s
+SON'S	s n s
 SONGS	s o ng z
 SONIC	s o n i k
 SONNY	s a n ii
 SONY	s eu n ii
 SOO	s u
 SOO-SOO	s u s u
-SOO’S	s s
+SOO'S	s s
 SOOK	s uh k
 SOOKED	s uh k t
 SOON-	s u n
@@ -18194,7 +18194,7 @@ STABALIZING	s t ax b l ye z i ng
 STABBED	s t ae b d
 STACKED	s t ae k t
 STACKING	s t ae k i ng
-STADIUM’S	s t ei d ii ax m s
+STADIUM'S	s t ei d ii ax m s
 STADIUMS	s t ei d ii ax m z
 STADIUM'S	s t ei d ii ax m z
 STAFF-	s t aa f
@@ -18359,7 +18359,7 @@ SUED	s u d
 SUFFOCATED	s a f ax k ei t ax d
 SUFFOCATION	s a f ax k ei sh n
 SUGETHAN	sh uh ng th ax n
-SUGETHAN’S	sh uh ng th ae n s
+SUGETHAN'S	sh uh ng th ae n s
 SUHAIL	s a w ye l
 SUITCASES	s u t k ei s ax z
 SUITS	s u t s
@@ -18370,7 +18370,7 @@ SUN-	s a n
 SUNCORP	s a n k oo p
 SUNDAE	s a n d ei
 SUNDAES	s a n d ei z
-SUNDAY’S	s a n d ii s
+SUNDAY'S	s a n d ii s
 SUNDAYS	s a n d ei z
 SUNNI	s uh n ii
 SUNNIS	s uh n ii z
@@ -18420,7 +18420,7 @@ SURRY	s ax r ii
 SURVIVED	s ax v ye v d
 SUS-	s a s
 SUSHI	s u sh ii
-SUSHI’S	s u sh i s
+SUSHI'S	s u sh i s
 SUSHIMI	s ax sh ax m ii
 SUSPENDED	s ax s p e n d ax d
 SUSPENSEFUL	s ax s p e n s f uh l
@@ -18529,7 +18529,7 @@ TEACHER-	t ii ch ax
 TEACHERS	t ii ch ax z
 TEACHERS-	t ii ch ax z
 TEACHER'S	t ii ch ax z
-TEACHERS’	t ii ch ax s
+TEACHERS'	t ii ch ax s
 TEACHES	t ii ch ax z
 TEACHING	t ii ch i ng
 TEACHING-	t ii ch i ng
@@ -18609,11 +18609,11 @@ THANOS	th ax n oo s
 THANOS	th ae n eu z
 THANOS-	th ae n eu z
 THAT-	dh ae t
-THAT’D	th ae t
-THAT’LL	th ae t l
-THAT’S	th ae t s
-THAT’S-	th ae t s
--THAT’S	th ae t s
+THAT'D	th ae t
+THAT'LL	th ae t l
+THAT'S	th ae t s
+THAT'S-	th ae t s
+-THAT'S	th ae t s
 THATCOZ	th ae k eu z
 THAT'D	dh ae t ax d
 THAT'LL	dh ae t l
@@ -18643,11 +18643,11 @@ THER-	dh ax
 THERAPIST	th e r ax p ax s t
 THERE'	dh e
 THERE-	dh e
-THERE’D	dh ax d
-THERE’LL	dh r l
-THERE’RE	dh ax r
-THERE’S	dh r s
-THERE’S-	dh r s
+THERE'D	dh ax d
+THERE'LL	dh r l
+THERE'RE	dh ax r
+THERE'S	dh r s
+THERE'S-	dh r s
 THERE'D	dh e d
 THEREFORE-	dh e f oo
 THERE'LL	dh e l
@@ -18663,15 +18663,15 @@ THESE-THIS	dh ii z dh i s
 THE-THE	dh ax dh ax
 THE-THEY'RE	dh ax dh e
 THEY-	dh ei
-THEY’D	dh ii d
-THEY’LL	dh ii l
-THEY’RE	dh ii r
-THEY’RE	n oo m l
-THEY’RE-	dh ii r
-THEY’VE	dh ii v
-THEY’VE-	dh ii v
+THEY'D	dh ii d
+THEY'LL	dh ii l
+THEY'RE	dh ii r
+THEY'RE	n oo m l
+THEY'RE-	dh ii r
+THEY'VE	dh ii v
+THEY'VE-	dh ii v
 THEY'D	dh ei d
-THEY'D-THEY’D	dh ei d dh ii d
+THEY'D-THEY'D	dh ei d dh ii d
 THEY'LL	dh ei l
 THEY'LL-	dh ei l
 THEY'RE	dh e
@@ -18785,7 +18785,7 @@ TILL-	t i l
 TILL 	t i l
 TIM	t i m
 TIME-	t ye m
-TIME’S	t ye m s
+TIME'S	t ye m s
 TIME-CONSUMING	t ye m k ax n s j u m i ng
 TIMED	t ye m d
 TIMELINES	t ye m l ye n z
@@ -18833,7 +18833,7 @@ TOMBS	t u m z
 TOMMY	t o m ii
 TOMO-	t ax m eu
 TOMOMRROW	t eu m o m ax r eu
-TOMORROW’S	t ax m o r eu w s
+TOMORROW'S	t ax m o r eu w s
 TOMORROW'S	t ax m o r eu z
 TONGUES	t a ng z
 TONY	t eu n ii
@@ -18954,7 +18954,7 @@ TRIPPING	t r i p i ng
 TRIPS	t r i p s
 TRIS-	t r i s
 TRISTAN	t r i s t ax n
-TRISTAN’S	t r i s t ae n s
+TRISTAN'S	t r i s t ae n s
 TROPHIES	t r eu f ii z
 TROPHY	t r eu f ii
 TROPIC	t r o p i k
@@ -18962,12 +18962,12 @@ TROUBLED	t r a b l d
 TROUBLEMAKER	t r a b l m ei k ax
 TROY	t r oi
 TRUCKS	t r a k s
-TRUCKS’	t r a k s
+TRUCKS'	t r a k s
 TRUE	t r u
 TRUE-	t r u
 TRULY	t r u l ii
 TRUMP	t r a m p
-TRUMP’S	t r a m p s
+TRUMP'S	t r a m p s
 TRUMP'S	t r a m p s
 TRUST-	t r a s t
 TRUSTED	t r a s t ax d
@@ -18983,7 +18983,7 @@ TRYNA-	t r i n ax
 TRY'NER	t r ye n ax
 TRYOUTS	t r ye au t s
 TS-	t s
-TTHAT’S	ae t s
+TTHAT'S	ae t s
 TTRY	t r ii
 TUB	t a b
 TUCKED	t a k t
@@ -19136,7 +19136,7 @@ TYPES	t ye p s
 TYPE'S	t ye p s
 TYPICAL-	t i p i k l
 TYPING	t ye p i ng
-TYSON’S	t ye s n s
+TYSON'S	t ye s n s
 U-	j u
 UBER	j u b ax
 UCLA	j u s ii e l ei
@@ -19174,7 +19174,7 @@ UNBELIEVABLE	a n b ax l ii v ax b l
 UNBELIEVABLY	a n b ax l ii v ax b l ii
 UNCHARTED	a n ch aa t ax d
 UNCLE-	a ng k l
-UNCLE’S	a n k l s
+UNCLE'S	a n k l s
 UNCLES	a ng k l z
 UNCLE'S	a ng k l z
 UNCOMFORTABLE	a n k a m f ax t ax b l
@@ -19224,7 +19224,7 @@ UNI'S-STARTED	j u n ax s t aa t ax d
 UNIT-	j u n ax t
 UNITED	j u n ye t ax d
 UNITED-	j u n ye t ax d
-UNITED’S	j u n t ax d s
+UNITED'S	j u n t ax d s
 UNITS	j u n ax t s
 UNITS-	j u n ax t s
 UNITY	j u n ax t ii
@@ -19291,7 +19291,7 @@ V-	v ii
 V-	v
 VA-	v aa
 VALE	v ei l
-VALENTINE’S	v ae l ax n t ax n s
+VALENTINE'S	v ae l ax n t ax n s
 VALENTINE'S	v ae l ax n t ye n z
 VALID-	v ae l ax d
 VALIDATE	v ae l ax d ei t
@@ -19433,8 +19433,8 @@ WASHED	w o sh t
 WASHES	w o sh ax z
 WASHING	w o sh i ng
 WAS-HORRIBLE	w o z h o r ax b l
-WASN’T	w s n t
-WASN’T-	w s n t
+WASN'T	w s n t
+WASN'T-	w s n t
 WASN'T	w o z n t
 WASN'T	w o z ax n t
 WASN'T-	w o z n t
@@ -19453,7 +19453,7 @@ WATCHING	w o ch i ng
 WATCHING-	w o ch i ng
 WATCH'S	w o ch ax z
 WATER-	w oo t ax
-WATER’S	w oo t r s
+WATER'S	w oo t r s
 WATERFALL	w oo t ax f oo l
 WATERMELON	w oo t ax m e l ax n
 WATERS	w oo t ax z
@@ -19465,16 +19465,16 @@ WAY-	w ei
 WAYNEY	w ei n ii
 WAYS	w ei z
 WE-	w ii
-WE’D	w d
-WE’D-	w d
-WE’LL	w l
-WE’LL	g eu
-WE’LL-	w l
-WE’RE	w e
-WE’RE-	w e
-WE'’RE	w e
-WE’VE	w v
-WE’VE-	w v
+WE'D	w d
+WE'D-	w d
+WE'LL	w l
+WE'LL	g eu
+WE'LL-	w l
+WE'RE	w e
+WE'RE-	w e
+WE''RE	w e
+WE'VE	w v
+WE'VE-	w v
 WEAKEST	w ii k ax s t
 WEALTH-	w e l th
 WEAPONS	w e p ax n z
@@ -19492,7 +19492,7 @@ WEDDING'S	w e d i ng z
 WEDNESDAY-	w e n z d ei
 WEE	w ii
 WEEK-	w ii k
-WEEK’S	w ii k s
+WEEK'S	w ii k s
 WEEKENDS	w ii k e n d z
 WEEKS	w ii k s
 WEET-BIX	w ii t b i k s
@@ -19523,8 +19523,8 @@ WE'RE	w ee
 WE'RE	w er
 WE'RE	w ie
 WE'RE-	w er
-WEREN’T	w r e n t
-WEREN’T-	w r e n t
+WEREN'T	w r e n t
+WEREN'T-	w r e n t
 WEREN'T	w er n t
 WEREN'T-	w er n t
 WEST-	w e s t
@@ -19544,14 +19544,14 @@ WHA-	w ax
 WHALE	w ei l
 WHARFS	w oo f s
 WHAT-	w o t
-WHAT’D	w ae t
-WHAT’RE	w ae t r
-WHAT’S	w ae t s
-WHAT’S-	w ae t s
+WHAT'D	w ae t
+WHAT'RE	w ae t r
+WHAT'S	w ae t s
+WHAT'S-	w ae t s
 WHAT'D	w o t ax d
 WHAT'D-	w o t ax d
 WHATEVER-	w o t e v ax
-WHAT-HIS-NAME’S	w o t h i z n ei m s
+WHAT-HIS-NAME'S	w o t h i z n ei m s
 WHATNOT	w o t n o t
 WHAT-NOT	w o t n o t
 WHAT'RE	w o t ax
@@ -19568,14 +19568,14 @@ WHE-	w aa
 WHEELS	w ii l z
 WHEELY	w ii l ii
 WHEN-	w e n
-WHEN’S	w e n s
+WHEN'S	w e n s
 WHEN'D	w e n d
 WHEN'S	w e n z
 WHEN'S-	w e n z
 WHERABOUTS	w e ei b au t s
 WHERE-	w e
-WHERE’D	w e d
-WHERE’S	w e s
+WHERE'D	w e d
+WHERE'S	w e s
 WHEREABOUT-	w e r ax b au t
 WHEREABOUT'S	w e r ax b au t s
 WHERE'D	w e d
@@ -19597,9 +19597,9 @@ WHITEWATER	w ye t w oo t ax
 WHITING	w ye t i ng
 WHITLAM	w ye t l ae m
 WHO-	h u
-WHO’D	h d
-WHO’S	h s
-WHO’S-	h s
+WHO'D	h d
+WHO'S	h s
+WHO'S-	h s
 WHOA	h eu
 WHOA	w eu
 WHO'D	h u d
@@ -19615,13 +19615,13 @@ WHO'VE	h u v
 WH-WELL	v h w ii l
 WH-WHAT	v h w o t
 WHY-	w ye
-WHY’D	w ii d
+WHY'D	w ii d
 WHY'D	w ye d
 WHYS	w ye z
 WHY'S	w ye z
 WI-	w ye
 WIDER	w ye d ax
-WIFE’S	w ye f s
+WIFE'S	w ye f s
 WIFE'S	w ye f s
 WI-FI	w ye f ye
 WII	w ye ye
@@ -19663,9 +19663,9 @@ WOLLI	w uh l ii
 WOLLONGONG	w uh l ax ng g o ng
 WOLLONGONG'S	w uh l ax ng o ng z
 WOMEN	w i m ax n
-WOMEN’S	w i m ax n s
+WOMEN'S	w i m ax n s
 WON-	w a n
-WON’T	w a n t
+WON'T	w a n t
 WONDER-	w a n d ax
 WONDERING	w a n d ax r i ng
 WONKY	w o ng k ii
@@ -19697,7 +19697,7 @@ WORKS-	w er k s
 WORKSHOPS	w er k sh o p s
 WORKSITE	w er k s ye t
 WORLD-	w er l d
-WORLD’S	w er l d s
+WORLD'S	w er l d s
 WORLD'S	w er l d z
 WORMS	w er m z
 WORRIED	w a r ii d
@@ -19709,12 +19709,12 @@ WORRYING	w a r ii i ng
 WORST-	w er s t
 WOU-	w u
 WOULD-	w uh d
-WOULD’VE	w uh l d v
+WOULD'VE	w uh l d v
 WOULDA	w uh d ax
-WOULDN’T	w uh d n t
-WOULDN’T-	w uh d n t
-WOULDN’T'VE	w uh d n t v
-WOULDN’VE	w uh d n v
+WOULDN'T	w uh d n t
+WOULDN'T-	w uh d n t
+WOULDN'T'VE	w uh d n t v
+WOULDN'VE	w uh d n v
 WOULDN'T	w uh d ax n t
 WOULDN'T	w uh d n t
 WOULDN'T-	w uh d n t
@@ -19773,7 +19773,7 @@ YAS	j ae z
 YA'S-	j ae z
 YASMIN	j ae z m ye n
 YASMIN	j ae z m i n
-YASMIN’S	j ae z m ax n s
+YASMIN'S	j ae z m ax n s
 YASMINE	j ae z m ye n
 YAY	j ei
 YAY	j u ei
@@ -19787,8 +19787,8 @@ YEAH-	j e ax
 YEAH-YEAH	j e ax j e ax
 YEAP	j ie p
 YEAR-	j ii ax
-YEAR’S	j r s
-YEAR’S-	j r s
+YEAR'S	j r s
+YEAR'S-	j r s
 YEAR-AND-A-HALF	j ii ax ae n d ax h aa f
 YEARLY	j ii ax l ii
 YEARS	j ie z
@@ -19796,7 +19796,7 @@ YEARS	j ax z
 YEARS'	j ie z
 YEARS-	j ie z
 YEAR'S	j ie z
-YEARS’	j ie s
+YEARS'	j ie s
 YEEHEE	j u ii h ii
 YEHA	j eu
 YELLING	j e l i ng
@@ -19820,14 +19820,14 @@ YOGURT	j o g ax t
 YORK	j oo k
 YOU'	j u
 YOU-	j u
-YOU’D	j a d
-YOU’D-	j a d
-YOU’LL	j a l
-YOU’LL-	j a l
-YOU’RE	j a r
-YOU’RE-	j a r
-YOU’VE	j a v
-YOU’VE-	j a v
+YOU'D	j a d
+YOU'D-	j a d
+YOU'LL	j a l
+YOU'LL-	j a l
+YOU'RE	j a r
+YOU'RE-	j a r
+YOU'VE	j a v
+YOU'VE-	j a v
 YOU>	j a
 YOU'D	j u d
 YOU-IT-ITS	j u i t i t s
@@ -19888,7 +19888,7 @@ ZEYAD	z ye ae d
 ZGHARTA	z sh aa t ax
 ZIDANE	z i d ei n
 ZOE	z eu ii
-ZOE’S	z eu s
+ZOE'S	z eu s
 ZOHAN	z sh ae n
 ZOMBIES	z o m b ii z
 ZONED	z eu n d
