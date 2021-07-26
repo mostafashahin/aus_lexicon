@@ -15,7 +15,7 @@ cat cmudict.dict \
 cmu_dict=cmudict.formatted_upp.dict
 arpa2aus_dict=data/arpa2aus.dict
 g2arpa_model=data/model_g2arpa_8.fst
-arpa2aus_model=data/model_arpa2aus_8.fst
+arpa2aus_model=data/model_arpa2aus.fst
 
 phone_list=data/asr_phoneme.list
 phone_map=data/asr2sampa.map
