@@ -1,7 +1,7 @@
-A	@
 A	{I
-AM	{ m
+A	@
 AM	{I e m
+AM	{ m
 ABANDON	@ b { n d @ n
 ABBREVIATION	@ b r i: v i: {I S @ n
 ABC	{I b i: s i:
@@ -13,8 +13,8 @@ ABLE	{I b @ l
 ABNORMAL	{ b n o: m @ l
 ABNORMALITY	{ b n o: m { l @ t i:
 ABOLISH	@ b O l I S
-ABOMINABLE	@ b O m n @ b @ l
 ABOMINABLE	@ b O m @ n @ b @ l
+ABOMINABLE	@ b O m n @ b @ l
 ABORIGINE	{ b @ r I dZ @ n i:
 ABORT	@ b o: t
 ABORTION	@ b o: S @ n
@@ -30,8 +30,8 @@ ABSOLUTE	{ b s @ l }: t
 ABSORB	@ b z o: b
 ABSORB	@ b s o: b
 ABSTRACT	{ b s t r { k t
-ABSURD	@ b z 3: d
 ABSURD	@ b s 3: d
+ABSURD	@ b z 3: d
 ABUSE	@ b j }: z
 ACADEMY	@ k { d @ m i:
 ACCELERATE	@ k s e l @ r {I t
@@ -76,8 +76,8 @@ ACTIVITY	{ k t I v @ t i:
 ACTOR	{ k t @
 ACTU	{I s i: t i: j }:
 ACTUAL	{ k tS }: @ l
-ACTUALLY	{ k tS @ l i:
 ACTUALLY	{ k tS }: @ l i:
+ACTUALLY	{ k tS @ l i:
 ACUPUNCTURE	{ k j @ p 6 N k tS @
 ACUTE	@ k j }: t
 ACUTELY	@ k j }: t l i:
@@ -94,8 +94,8 @@ ADEQUATE	{ d @ k w @ t
 ADHESIVE	@ d h i: z I v
 ADHESIVE	@ d h i: s I v
 ADJACENT	@ dZ {I s @ n t
-ADJECTIVE	{ dZ @ k t I v
 ADJECTIVE	{ dZ e k t I v
+ADJECTIVE	{ dZ @ k t I v
 ADJOURN	@ dZ 3: n
 ADJUDICATE	@ dZ }: d @ k {I t
 ADJUST	@ dZ 6 s t
@@ -234,16 +234,16 @@ ALSO	o: l s @}
 ALTAR	O l t @
 ALTER	O l t @
 ALTERCATION	O l t @ k {I S @ n
-ALTERNATE	O l t 3: n @ t
 ALTERNATE	O l t @ n {I t
+ALTERNATE	O l t 3: n @ t
 ALTERNATIVE	O l t 3: n @ t I v
 ALTHOUGH	o: l D @}
 ALTITUDE	{ l t @ t j }: d
 ALTOGETHER	o: l t @ g e D @
-ALUMINIUM	{ l @ m I n j @ m
-ALUMINIUM	{ l j @ m I n j @ m
-ALUMINIUM	{ l @ m I n i: @ m
 ALUMINIUM	{ l j @ m I n i: @ m
+ALUMINIUM	{ l @ m I n i: @ m
+ALUMINIUM	{ l j @ m I n j @ m
+ALUMINIUM	{ l @ m I n j @ m
 ALWAYS	o: l w {I z
 AMA	{I e m {I
 AMALGAMATE	@ m { l g @ m {I t
@@ -274,8 +274,8 @@ AMPUTATE	{ m p j @ t {I t
 AMPUTEE	{ m p j @ t i:
 AMUSE	@ m j }: z
 AMUSEMENT	@ m j }: z m @ n t
-AN	@ n
 AN	{ n
+AN	@ n
 ANAEMIA	@ n i: m i: @
 ANAESTHETIC	{ n @ s T e t I k
 ANAL	{I n @ l
@@ -288,9 +288,9 @@ ANCESTOR	{ n s e s t @
 ANCHOR	{ N k @
 ANCHORAGE	{ N k @ r I dZ
 ANCIENT	{I n S @ n t
-AND	@ n
 AND	{ n d
 AND	{ n
+AND	@ n
 ANECDOTE	{ n @ k d @} t
 ANGEL	{I n dZ @ l
 ANGER	{ N g @
@@ -310,8 +310,8 @@ ANNOY	@ n oI
 ANNUAL	{ n j }: @ l
 ANONYMOUS	@ n O n @ m @ s
 ANOTHER	@ n 6 D @
-ANSWER	{ n s @
 ANSWER	{ n s @ r
+ANSWER	{ n s @
 ANT	{ n t
 ANTAGONISE	{ n t { g @ n Ae z
 ANTAGONISTIC	{ n t { g @ n I s t I k
@@ -334,8 +334,8 @@ ANTITHESIS	{ n t I T @ s @ s
 ANTLER	{ n t l @
 ANTONYM	{ n t @ n I m
 ANUS	{I n @ s
-ANXIOUS	{ N k S @ s
 ANXIOUS	{ N S @ s
+ANXIOUS	{ N k S @ s
 ANY	e n i:
 ANYBODY	e n i: b O d i:
 ANYHOW	e n i: h {O
@@ -447,8 +447,8 @@ ARTICLE	6: t I k @ l
 ARTIFICIAL	6: t @ f I S @ l
 ARTIST	6: t @ s t
 ARVO	6: v @}
-AS	@ z
 AS	{ z
+AS	@ z
 ASBESTOS	@ s b e s t @ s
 ASCEND	@ s e n d
 ASCENT	@ s e n t
@@ -478,8 +478,8 @@ ASSIGN	@ s Ae n
 ASSIGNMENT	@ s Ae n m @ n t
 ASSIMILATE	@ s I m @ l {I t
 ASSIST	@ s I s t
-ASSOCIATE	@ s @} s i: {I t
 ASSOCIATE	@ s @} S i: {I t
+ASSOCIATE	@ s @} s i: {I t
 ASSOCIATION	@ s @} s i: {I S @ n
 ASSORTMENT	@ s o: t m @ n t
 ASSUME	@ s j }: m
@@ -495,8 +495,8 @@ ASTRONAUT	{ s t r @ n o: t
 ASTRONOMY	@ s t r O n @ m i:
 ASTUTE	@ s t j }: t
 ASYLUM	@ s Ae l @ m
-AT	@ t
 AT	{ t
+AT	@ t
 ATE	{I t
 ATHEIST	{I T i: @ s t
 ATHLETE	{ T l i: t
@@ -536,11 +536,11 @@ AUNT	6: n t
 AURA	o: r @
 AUSPICIOUS	o: s p I S @ s
 AUSTERE	O s t I@
+AUSTRALIA	O s t r {I l j @
+AUSTRALIA	@ s t r { I l i: @
 AUSTRALIA	@ s t r {I l j @
 AUSTRALIA	O s t r {I l i: @
 AUSTRALIA	@ s t r {I l i: @
-AUSTRALIA	@ s t r { I l i: @
-AUSTRALIA	O s t r {I l j @
 AUSTRALIAN	@ s t r {I l j @ n
 AUSTRALIANDEMOCRATS	@ s t r {I l j @ n d e m @ k r { t s
 AUSTRALIANLABORPARTY	@ s t r {I l j @ n l {I b @ p 6: t i:
@@ -731,8 +731,8 @@ BEE	b i:
 BEEF	b i: f
 BEEN	b i: n
 BEER	b I@
-BEFORE	b i: f o: r
 BEFORE	b @ f o:
+BEFORE	b i: f o: r
 BEFRIEND	b @ f r e n d
 BEG	b e g
 BEGAN	b @ g { n
@@ -799,8 +799,8 @@ BIBLE	b Ae b @ l
 BIBLIOGRAPHY	b I b l i: O g r @ f i:
 BICENTENARY	b Ae s e n t i: n @ r i:
 BICENTENARY	b Ae s e n t e n @ r i:
-BICENTENNIAL	b Ae s e n t e n i: @ l
 BICENTENNIAL	b Ae s @ n t e n i: @ l
+BICENTENNIAL	b Ae s e n t e n i: @ l
 BICEPS	b Ae s e p s
 BICKER	b I k @
 BICYCLE	b Ae s I k @ l
@@ -1349,8 +1349,8 @@ CARCINOGEN	k 6: s I n @ dZ @ n
 CARD	k 6: d
 CARDBOARD	k 6: d b o: d
 CARDIAC	k 6: d i: { k
-CARDIGAN	k 6: d i: g @ n
 CARDIGAN	k 6: d I g @ n
+CARDIGAN	k 6: d i: g @ n
 CARDINALNUMBER	k 6: d @ n @ l n 6 m b @
 CARE	k e: r
 CARE	k e:
@@ -1387,10 +1387,10 @@ CASTE	k 6: s t
 CASTLE	k 6: s @ l
 CASTOR	k 6: s t @
 CASTRATE	k { s t r {I t
-CASUAL	k { Z }: @ l
 CASUAL	k { Z j }: @ l
-CASUALTY	k { Z j }: @ l t i:
+CASUAL	k { Z }: @ l
 CASUALTY	k { Z }: @ l t i:
+CASUALTY	k { Z j }: @ l t i:
 CASUARINA	k { Z j @ r i: n @
 CAT	k { t
 CATALOGUE	k { t @ l O g
@@ -1399,8 +1399,8 @@ CATARACT	k { t @ r { k t
 CATARRH	k @ t 6:
 CATASTROPHE	k @ t { s t r @ f i:
 CATCH	k { tS
-CATEGORY	k { t @ g @ r i:
 CATEGORY	k { t @ g r i:
+CATEGORY	k { t @ g @ r i:
 CATER	k {I t @
 CATHEDRAL	k @ T i: d r @ l
 CATTLE	k { t @ l
@@ -1434,8 +1434,8 @@ CENSOR	s e n s @
 CENSURE	s e n S @
 CENSUS	s e n s @ s
 CENT	s e n t
-CENTENARY	s e n t e n @ r i:
 CENTENARY	s e n t i: n @ r i:
+CENTENARY	s e n t e n @ r i:
 CENTIGRADE	s e n t @ g r {I d
 CENTIMETRE	s e n t @ m i: t @
 CENTRAL	s e n t r @ l
@@ -1475,8 +1475,8 @@ CHAPPED	tS { p t
 CHAPTER	tS { p t @
 CHARACTER	k { r @ k t @
 CHARACTERISTIC	k { r @ k t @ r I s t I k
-CHARADE	S @ r {I d
 CHARADE	S @ r 6: d
+CHARADE	S @ r {I d
 CHARCOAL	tS 6: k @} l
 CHARGE	tS 6: dZ
 CHARISMA	k @ r I z m @
@@ -1698,8 +1698,8 @@ COIN	k oI n
 COINCIDE	k @} @ n s Ae d
 COINCIDENCE	k @} I n s @ d @ n s
 COKE	k @} k
-COLANDER	k O l @ n d @
 COLANDER	k 6 l @ n d @
+COLANDER	k O l @ n d @
 COLD	k @} l d
 COLD-BLOODED	k @} l d b l 6 d @ d
 COLESLAW	k @} l s l o:
@@ -1822,18 +1822,18 @@ CONCERT	k O n s @ t
 CONCESSION	k @ n s e S @ n
 CONCILIATION	k @ n s I l i: {I S @ n
 CONCISE	k @ n s Ae s
-CONCLUDE	k @ n k l }: d
 CONCLUDE	k @ N k l }: d
+CONCLUDE	k @ n k l }: d
 CONCRETE	k O N k r i: t
 CONCUR	k @ N k 3:
 CONCUR	k @ n k 3:
-CONCURRENT	k @ n k 6 r @ n t
 CONCURRENT	k @ N k 6 r @ n t
-CONCUSSION	k @ N k 6 S @ n
+CONCURRENT	k @ n k 6 r @ n t
 CONCUSSION	k @ n k 6 S @ n
+CONCUSSION	k @ N k 6 S @ n
 CONDEMN	k @ n d e m
-CONDENSATION	k O n d e n s {I S @ n
 CONDENSATION	k O n d @ n s {I S @ n
+CONDENSATION	k O n d e n s {I S @ n
 CONDENSE	k @ n d e n s
 CONDESCEND	k O n d @ s e n d
 CONDITION	k @ n d I S @ n
@@ -1853,8 +1853,8 @@ CONFIDENTIAL	k O n f @ d e n S @ l
 CONFINE	k @ n f Ae n
 CONFIRM	k @ n f 3: m
 CONFISCATE	k O n f @ s k {I t
-CONFLICT	k @ n f l I k t
 CONFLICT	k O n f l I k t
+CONFLICT	k @ n f l I k t
 CONFORM	k @ n f o: m
 CONFRONT	k @ n f r 6 n t
 CONFUSE	k @ n f j }: z
@@ -1864,17 +1864,17 @@ CONGREGATE	k O N g r @ g {I t
 CONGREGATION	k O N g r @ g {I S @ n
 CONGRESS	k O N g r e s
 CONJUNCTION	k @ n dZ 6 N k S @ n
-CONJUNCTIVITIS	k @ n dZ 6 N k t I v Ae t @ s
 CONJUNCTIVITIS	k @ n dZ 6 N k t @ v Ae t @ s
-CONJURE	k O n dZ @
+CONJUNCTIVITIS	k @ n dZ 6 N k t I v Ae t @ s
 CONJURE	k 6 n dZ @
+CONJURE	k O n dZ @
 CONNECT	k @ n e k t
 CONQUER	k O N k @
 CONSCIENCE	k O n S @ n s
 CONSCIENTIOUS	k O n S i: e n S @ s
 CONSCIOUS	k O n S @ s
-CONSCRIPT	k O n s k r I p t
 CONSCRIPT	k @ n s k r I p t
+CONSCRIPT	k O n s k r I p t
 CONSECUTIVE	k @ n s e k j @ t I v
 CONSENT	k @ n s e n t
 CONSEQUENCE	k O n s @ k w @ n s
@@ -1883,8 +1883,8 @@ CONSERVATIVE	k @ n s 3: v @ t I v
 CONSERVE	k @ n s 3: v
 CONSERVE	k O n s 3: v
 CONSIDER	k @ n s I d @
-CONSIDERABLE	k @ n s I d @ r @ b @ l
 CONSIDERABLE	k @ n s I d r @ b @ l
+CONSIDERABLE	k @ n s I d @ r @ b @ l
 CONSIDERATE	k @ n s I d @ r @ t
 CONSIDERATION	k @ n s I d @ r {I S @ n
 CONSIST	k @ n s I s t
@@ -1928,8 +1928,8 @@ CONTINENT	k O n t @ n @ n t
 CONTINUAL	k @ n t I n j }: @ l
 CONTINUE	k @ n t I n j }:
 CONTINUOUS	k @ n t I n j }: @ s
-CONTOUR	k O n t U@
 CONTOUR	k O n t }: @
+CONTOUR	k O n t U@
 CONTRABAND	k O n t r @ b { n d
 CONTRACEPTION	k O n t r @ s e p S @ n
 CONTRACEPTIVE	k O n t r @ s e p t I v
@@ -1986,8 +1986,8 @@ CORNY	k o: n i:
 CORONARY	k O r @ n r i:
 CORONATION	k O r @ n {I S @ n
 CORONER	k O r @ n @
-CORPORAL	k o: p r @ l
 CORPORAL	k o: p @ r @ l
+CORPORAL	k o: p r @ l
 CORPORATION	k o: p @ r {I S @ n
 CORPS	k o:
 CORPSE	k o: p s
@@ -2016,15 +2016,15 @@ COUNCIL	k {O n s @ l
 COUNSEL	k {O n s @ l
 COUNT	k {O n t
 COUNTER	k {O n t @
-COUNTERFEIT	k {O n t @ f I t
 COUNTERFEIT	k {O n t @ f @ t
+COUNTERFEIT	k {O n t @ f I t
 COUNTRY	k 6 n t r i:
 COUP	k }:
 COUPLE	k 6 p @ l
 COUPON	k }: p O n
 COURAGE	k 6 r I dZ
-COURIER	k U@ r i: @
 COURIER	k U r i: @
+COURIER	k U@ r i: @
 COURSE	k o: s
 COURT	k o: t
 COURTEOUS	k 3: t i: @ s
@@ -2205,8 +2205,8 @@ DAMNEDEST	d { m d @ s t
 DAMP	d { m p
 DAMPEN	d { m p @ n
 DAMPER	d { m p @
-DANCE	d { n s
 DANCE	d 6: n s
+DANCE	d { n s
 DANDRUFF	d { n d r 6 f
 DANGER	d {I n dZ @
 DANGLE	d { N g @ l
@@ -2254,8 +2254,8 @@ DEAF	d e f
 DEAL	d i: l
 DEALER	d i: l @
 DEALINGS	d i: l I N z
-DEAR	d I@ r
 DEAR	d I@
+DEAR	d I@ r
 DEATH	d e T
 DEBATABLE	d @ b {I t @ b @ l
 DEBATE	d @ b {I t
@@ -2269,8 +2269,8 @@ DECADENT	d e k @ d @ n t
 DECAFFEINATED	d i: k { f @ n {I t @ d
 DECAPITATE	d i: k { p @ t {I t
 DECATHLON	d @ k { T l O n
-DECAY	d @ k {I
 DECAY	d i: k {I
+DECAY	d @ k {I
 DECEASED	d @ s i: s t
 DECEITFUL	d @ s i: t f U l
 DECEIVE	d @ s i: v
@@ -2428,8 +2428,8 @@ DEPRIVE	d @ p r Ae v
 DEPRIVED	d @ p r Ae v d
 DEPT	d @ p 6: t m @ n t
 DEPTH	d e p T
-DEPUTATION	d e p j }: t {I S @ n
 DEPUTATION	d e p j @ t {I S @ n
+DEPUTATION	d e p j }: t {I S @ n
 DEPUTY	d e p j @ t i:
 DERANGED	d @ r {I n dZ d
 DERELICT	d e r @ l I k t
@@ -2619,8 +2619,8 @@ DISCHARGE	d I s tS 6: dZ
 DISCIPLE	d @ s Ae p @ l
 DISCIPLINARIAN	d I s @ p l @ n e: r i: @ n
 DISCIPLINE	d I s @ p l @ n
-DISCLOSE	d I s k l @} z
 DISCLOSE	d @ s k l @} z
+DISCLOSE	d I s k l @} z
 DISCO	d I s k @}
 DISCOLOUR	d I s k 6 l @
 DISCOMFORT	d I s k 6 m f @ t
@@ -2636,14 +2636,14 @@ DISCOURTEOUS	d I s k 3: t i: @ s
 DISCOVER	d I s k 6 v @
 DISCOVER	d @ s k 6 v @
 DISCREDIT	d I s k r e d @ t
-DISCREET	d I s k r i: t
 DISCREET	d @ s k r i: t
+DISCREET	d I s k r i: t
 DISCREPANCY	d @ s k r e p @ n s i:
 DISCREPANCY	d I s k r e p @ n s i:
-DISCRETE	d I s k r i: t
 DISCRETE	d @ s k r i: t
-DISCRETION	d I s k r e S @ n
+DISCRETE	d I s k r i: t
 DISCRETION	d @ s k r e S @ n
+DISCRETION	d I s k r e S @ n
 DISCRIMINATE	d I s k r I m @ n {I t
 DISCRIMINATE	d @ s k r I m @ n {I t
 DISCUSS	d @ s k 6 s
@@ -2713,10 +2713,10 @@ DISREPUTE	d I s r @ p j }: t
 DISRESPECT	d I s r @ s p e k t
 DISRUPT	d I s r 6 p t
 DISSATISFIED	d I s { t I s f Ae d
-DISSECT	d Ae s e k t
 DISSECT	d @ s e k t
-DISSENSION	d I s e n S @ n
+DISSECT	d Ae s e k t
 DISSENSION	d @ s e n S @ n
+DISSENSION	d I s e n S @ n
 DISSENT	d @ s e n t
 DISSENT	d I s e n t
 DISSERTATION	d I s @ t {I S @ n
@@ -2822,8 +2822,8 @@ DOPEY	d @} p i:
 DORK	d o: k
 DORM	d o: m
 DORMANT	d o: m @ n t
-DORMITORY	d o: m @ t r i:
 DORMITORY	d o: m @ t o: r i:
+DORMITORY	d o: m @ t r i:
 DOSE	d @} s
 DOSSIER	d O s i: @
 DOT	d O t
@@ -2961,8 +2961,8 @@ DUPLEX	d j }: p l e k s
 DUPLICATE	d j }: p l @ k {I t
 DURABLE	d j }: r @ b @ l
 DURATION	d j }: r {I S @ n
-DURING	d j }: r I N
 DURING	dZ }: r I N
+DURING	d j }: r I N
 DUSK	d 6 s k
 DUST	d 6 s t
 DUSTPAN	d 6 s t p { n
@@ -3038,8 +3038,8 @@ EIGHTEEN	{I t i: n
 EIGHTEENTH	{I t i: n T
 EIGHTH	{I t T
 EIGHTY	{I t i:
-EITHER	Ae D @
 EITHER	i: D @
+EITHER	Ae D @
 EJECT	@ dZ e k t
 ELABORATE	@ l { b @ r @ t
 ELAPSE	@ l { p s
@@ -3286,8 +3286,8 @@ EXPLOIT	@ k s p l oI t
 EXPLORE	@ k s p l o:
 EXPLOSION	@ k s p l @} Z @ n
 EXPLOSIVE	e k s p l @} s I v
-EXPORT	e k s p o: t
 EXPORT	@ k s p o: t
+EXPORT	e k s p o: t
 EXPOSE	@ k s p @} z
 EXPOSURE	@ k s p @} Z @
 EXPRESS	@ k s p r e s
@@ -3412,8 +3412,8 @@ FAVOURABLE	f {I v @ r @ b @ l
 FAVOURITE	f {I v @ r @ t
 FAX	f { k s
 FAZE	f {I z
-FEAR	f I@
 FEAR	f I@ r
+FEAR	f I@
 FEARFUL	f I@ f @ l
 FEASIBLE	f i: z @ b @ l
 FEAST	f i: s t
@@ -3605,8 +3605,8 @@ FLOCK	f l O k
 FLOG	f l O g
 FLOOD	f l 6 d
 FLOODLIGHT	f l 6 d l Ae t
-FLOOR	f l o:
 FLOOR	f l o: r
+FLOOR	f l o:
 FLOORBOARD	f l o: b o: d
 FLOP	f l O p
 FLOPPY	f l O p i:
@@ -3670,9 +3670,9 @@ FOOTPATH	f U t p 6: T
 FOOTPRINT	f U t p r I n t
 FOOTSTEP	f U t s t e p
 FOOTWEAR	f U t w e:
+FOR	f @
 FOR	f @ r
 FOR	f o:
-FOR	f @
 FORAGE	f O r I dZ
 FORBEARANCE	f o: b e: r @ n s
 FORBID	f @ b I d
@@ -3898,8 +3898,8 @@ GAP	g { p
 GAPE	g {I p
 GARAGE	g { r 6: Z
 GARBAGE	g 6: b I dZ
-GARDEN	g 6: d @ n
 GARDEN	g 6: d n
+GARDEN	g 6: d @ n
 GARDENER	g 6: d n @
 GARGLE	g 6: g @ l
 GARISH	g e: r I S
@@ -4030,8 +4030,8 @@ GOLD	g @} l d
 GOLDEN	g @} l d @ n
 GOLDENSYRUP	g @} l d @ n s I r @ p
 GOLDMINE	g @} l d m Ae n
-GOLF	g @} l f
 GOLF	g O l f
+GOLF	g @} l f
 GONE	g O n
 GONORRHOEA	g O n @ r i: @
 GOOD	g U d
@@ -4242,8 +4242,8 @@ HANDCUFFS	h { n d k 6 f s
 HANDFUL	h { n d f U l
 HANDICAP	h { n d i: k { p
 HANDICRAFT	h { n d i: k r 6: f t
-HANDKERCHIEF	h { N k @ tS @ f
 HANDKERCHIEF	h { N k @ tS i: f
+HANDKERCHIEF	h { N k @ tS @ f
 HANDLE	h { n d @ l
 HANDMADE	h { n m {I d
 HANDOUT	h { n d {O t
@@ -4262,8 +4262,8 @@ HANKIE	h { N k i:
 HAPHAZARD	h { p h { z @ d
 HAPPEN	h { p @ n
 HAPPY	h { p i:
-HARASS	h { r @ s
 HARASS	h @ r { s
+HARASS	h { r @ s
 HARBOUR	h 6: b @
 HARD	h 6: d
 HARDLY	h 6: d l i:
@@ -4291,9 +4291,9 @@ HAUGHTY	h o: t i:
 HAUL	h o: l
 HAUNT	h o: n t
 HAVE	@ v
-HAVE	h { f
 HAVE	h @ v
 HAVE	h { v
+HAVE	h { f
 HAVEN	h {I v @ n
 HAVOC	h { v @ k
 HAWK	h o: k
@@ -4303,8 +4303,8 @@ HAYWIRE	h {I w Ae @
 HAZARD	h { z @ d
 HAZE	h {I z
 HAZEL	h {I z @ l
-HE	h i:
 HE	i:
+HE	h i:
 HEAD	h e d
 HEADSTART	h e d s t 6: t
 HEAD-ON	h e d O n
@@ -4354,8 +4354,8 @@ HEIGHTS	h Ae t s
 HEIR	e:
 HEIRLOOM	e: l }: m
 HELD	h e l d
-HELICOPTER	h e l i: k O p t @
 HELICOPTER	h e l i: k O p t @ r
+HELICOPTER	h e l i: k O p t @
 HELICOPTER	h e l @ k O p t @
 HELIPORT	h e l i: p o: t
 HELL	h e l
@@ -4373,9 +4373,9 @@ HEN	h e n
 HENCE	h e n s
 HENCEFORTH	h e n s f o: T
 HEPATITIS	h e p @ t Ae t @ s
-HER	h @
-HER	h 3:
 HER	h @ r
+HER	h 3:
+HER	h @
 HERALD	h e r @ l d
 HERB	h 3: b
 HERD	h 3: d
@@ -4430,8 +4430,8 @@ HINT	h I n t
 HIP	h I p
 HIRE	h Ae @
 HIRE-PURCHASE	h Ae @ p 3: tS @ s
-HIS	h I z
 HIS	I z
+HIS	h I z
 HISS	h I s
 HISTORIC	h I s t O r I k
 HISTORICAL	h I s t O r I k @ l
@@ -4472,8 +4472,8 @@ HOMEWORK	h @} m w 3: k
 HOMICIDE	h O m @ s Ae d
 HOMOEOPATHY	h @} m i: O p @ T i:
 HOMOGENEOUS	h @} m @ dZ i: n i: @ s
-HOMOSEXUAL	h @} m @} s e k S }: @ l
 HOMOSEXUAL	h @} m @ s e k S }: @ l
+HOMOSEXUAL	h @} m @} s e k S }: @ l
 HONEST	O n @ s t
 HONEY	h 6 n i:
 HONEYCOMB	h 6 n i: k @} m
@@ -4487,8 +4487,8 @@ HOODWINK	h U d w I N k
 HOOF	h U f
 HOOF	h }: f
 HOOK	h U k
-HOOLIGAN	h }: l i: g @ n
 HOOLIGAN	h }: l @ g @ n
+HOOLIGAN	h }: l i: g @ n
 HOON	h }: n
 HOOP	h }: p
 HOP	h O p
@@ -4516,8 +4516,8 @@ HOSPITAL	h O s p @ t @ l
 HOSPITALITY	h O s p @ t { l @ t i:
 HOST	h @} s t
 HOSTAGE	h O s t I dZ
-HOSTEL	h O s t @ l
 HOSTEL	h O s t e l
+HOSTEL	h O s t @ l
 HOSTILE	h O s t Ae l
 HOT	h O t
 HOTCHIPS	h O t tS I p s
@@ -4672,8 +4672,8 @@ IMPERIAL	I m p I@ r i: @ l
 IMPERSONAL	I m p 3: s @ n @ l
 IMPERSONATE	I m p 3: s @ n {I t
 IMPERTINENT	I m p 3: t @ n @ n t
-IMPETUOUS	I m p e t j }: @ s
 IMPETUOUS	I m p e tS }: @ s
+IMPETUOUS	I m p e t j }: @ s
 IMPLEMENT	I m p l @ m @ n t
 IMPLICATE	I m p l @ k {I t
 IMPLICATION	I m p l @ k {I S @ n
@@ -4807,8 +4807,8 @@ INNER	I n @
 INNINGS	I n I N z
 INNOCENT	I n @ s @ n t
 INNUMERABLE	I n j }: m @ r @ b @ l
-INOCULATE	I n O k j }: l {I t
 INOCULATE	I n O k j @ l {I t
+INOCULATE	I n O k j }: l {I t
 INQUEST	I N k w e s t
 INQUIRE	I N k w Ae @
 INQUISITIVE	I N k w I z @ t I v
@@ -4882,8 +4882,8 @@ INTERVIEW	I n t @ v j }:
 INTESTINE	I n t e s t @ n
 INTIMATE	I n t @ m @ t
 INTIMIDATE	I n t I m @ d {I t
-INTO	I n t }:
 INTO	I n t @
+INTO	I n t }:
 INTONATION	I n t @ n {I S @ n
 INTOXICATED	I n t O k s @ k {I t @ d
 INTRANSITIVE	I n t r { n z @ t I v
@@ -4919,14 +4919,14 @@ IRREGULAR	I r e g j @ l @
 IRRELEVANT	I r e l @ v @ n t
 IRRIGATE	I r @ g {I t
 IRRITATE	I r @ t {I t
-IS	@ z
 IS	I z
+IS	@ z
 ISLAM	I z l { m
 ISLAND	Ae l @ n d
 ISOLATE	Ae s @ l {I t
 ISSUE	I S }:
-IT	@ t
 IT	I t
+IT	@ t
 ITALIAN	I t { l j @ n
 ITALICS	I t { l I k s
 ITCH	I tS
@@ -5098,8 +5098,8 @@ KILOBYTE	k I l @ b Ae t
 KILOGRAM	k I l @ g r { m
 KILOHERTZ	k I l @ h 3: t s
 KILOJOULE	k I l @ dZ }: l
-KILOMETRE	k I l @ m i: t @
 KILOMETRE	k @ l O m @ t @
+KILOMETRE	k I l @ m i: t @
 KILOWATT	k I l @ w O t
 KILT	k I l t
 KIMONO	k I m @ n @}
@@ -5128,8 +5128,8 @@ KITTEN	k I t @ n
 KIWI	k i: w i:
 KJ	k I l @ dZ }: l
 KLEPTOMANIA	k l e p t @ m {I n i: @
-KM	k I l @ m i: t @
 KM	k @ l O m @ t @
+KM	k I l @ m i: t @
 KNACK	n { k
 KNACKERED	n { k @ d
 KNAPSACK	n { p s { k
@@ -5191,8 +5191,8 @@ LANDMARK	l { n d m 6: k
 LANDSCAPE	l { n d s k {I p
 LANDSLIDE	l { n d s l Ae d
 LANE	l {I n
-LANGUAGE	l { N w I dZ
 LANGUAGE	l { N g w I dZ
+LANGUAGE	l { N w I dZ
 LANK	l { N k
 LANKY	l { N k i:
 LANTERN	l { n t @ n
@@ -5209,8 +5209,8 @@ LAST	l 6: s t
 LATCH	l { tS
 LATE	l {I t
 LATELY	l {I t l i:
-LATER	l {I t @ r
 LATER	l {I t @
+LATER	l {I t @ r
 LATEST	l {I t @ s t
 LATHER	l { D @
 LATIN	l { t @ n
@@ -5270,8 +5270,8 @@ LEISURE	l e Z @
 LEMON	l e m @ n
 LEMONADE	l e m @ n {I d
 LEND	l e n d
-LENGTH	l e N T
 LENGTH	l e N k T
+LENGTH	l e N T
 LENGTHEN	l e N k T @ n
 LENGTHEN	l e N T @ n
 LENIENT	l i: n i: @ n t
@@ -5291,8 +5291,8 @@ LEVER	l i: v @
 LEVY	l e v i:
 LIABILITY	l Ae @ b I l @ t i:
 LIABLE	l Ae @ b @ l
-LIAISON	l i: {I z O n
 LIAISON	l i: {I z @ n
+LIAISON	l i: {I z O n
 LIAR	l Ae @
 LIBEL	l Ae b @ l
 LIBERAL	l I b r @ l
@@ -5512,8 +5512,8 @@ MANAGE	m { n I dZ
 MANAGEMENT	m { n I dZ m @ n t
 MANAGER	m { n @ dZ @
 MANCHESTER	m { n tS e s t @
-MANDARIN	m { n d @ r I n
 MANDARIN	m { n d @ r @ n
+MANDARIN	m { n d @ r I n
 MANDATE	m { n d {I t
 MANDATORY	m { n d @ t r i:
 MANE	m {I n
@@ -5537,10 +5537,10 @@ MANSLAUGHTER	m { n s l o: t @
 MANTA	m { n t @
 MANTLEPIECE	m { n t @ l p i: s
 MANUAL	m { n j }: @ l
+MANUFACTURE	m { n @ f { k tS @
 MANUFACTURE	m { n j }: f { k S @
 MANUFACTURE	m { n j @ f { k S @
 MANUFACTURE	m { n j @ f { k tS @
-MANUFACTURE	m { n @ f { k tS @
 MANURE	m @ n j U@
 MANUSCRIPT	m { n j @ s k r I p t
 MANY	m e n i:
@@ -5575,8 +5575,8 @@ MARSHMALLOW	m 6: S m { l @}
 MARSUPIAL	m 6: s j }: p i: @ l
 MARTYR	m 6: t @
 MARVEL	m 6: v @ l
-MASCARA	m { s k 6: r @
 MASCARA	m @ s k 6: r @
+MASCARA	m { s k 6: r @
 MASCOT	m { s k O t
 MASCULINE	m { s k j @ l @ n
 MASH	m { S
@@ -5608,8 +5608,8 @@ MATRIMONY	m { t r @ m @ n i:
 MATT	m { t
 MATTER	m { t @
 MATTRESS	m { t r @ s
-MATURE	m @ tS U@
 MATURE	m @ tS }: @
+MATURE	m @ tS U@
 MAUL	m o: l
 MAUVE	m @} v
 MAVERICK	m { v @ r I k
@@ -5948,8 +5948,8 @@ MUMMY	m 6 m i:
 MUMPS	m 6 m p s
 MUNCH	m 6 n tS
 MUNDANE	m 6 n d {I n
-MUNICIPALITY	m j }: n I s @ p { l @ t i:
 MUNICIPALITY	m j }: n @ s @ p { l @ t i:
+MUNICIPALITY	m j }: n I s @ p { l @ t i:
 MURAL	m j }: r @ l
 MURDER	m 3: d @
 MURKY	m 3: k i:
@@ -6024,8 +6024,8 @@ NEAT	n i: t
 NECESSARY	n e s @ s e r i:
 NECK	n e k
 NECKLACE	n e k l @ s
-NEE	n {I
 NEE	n i:
+NEE	n {I
 NEED	n i: d
 NEEDLE	n i: d @ l
 NEGATIVE	n e g @ t I v
@@ -6049,16 +6049,16 @@ NETWORK	n e t w 3: k
 NEUROTIC	n j }: r O t I k
 NEUTER	n j }: t @
 NEUTRAL	n j }: t r @ l
-NEVER	n e v @
 NEVER	n e v @ r
+NEVER	n e v @
 NEVERTHELESS	n e v @ D @ l e s
 NEW	n j }:
 NEWINGTON	n j }: I N t @ n
 NEWS	n j }: z
 NEWSAGENT	n j }: z {I dZ @ n t
 NEWSPAPER	n j }: z p {I p @
-NEXT	n e k s t
 NEXT	n e k s
+NEXT	n e k s t
 NEXTOFKIN	n e k s t @ v k I n
 NIB	n I b
 NIBBLE	n I b @ l
@@ -6126,12 +6126,12 @@ NOTORIOUS	n @ t o: r i: @ s
 NOUGHT	n o: t
 NOUN	n {O n
 NOURISH	n 6 r I S
-NOV	n @ v e m b @
 NOV	n @} v e m b @
+NOV	n @ v e m b @
 NOVEL	n O v @ l
 NOVELTY	n O v @ l t i:
-NOVEMBER	n @ v e m b @
 NOVEMBER	n @} v e m b @
+NOVEMBER	n @ v e m b @
 NOW	n {O
 NOXIOUS	n O k S @ s
 NOZZLE	n O z @ l
@@ -6144,16 +6144,16 @@ NUDGE	n 6 dZ
 NUGGET	n 6 g @ t
 NUISANCE	n j }: s @ n s
 NUMB	n 6 m
-NUMBER	n 6 m b @
 NUMBER	n 6 m @
+NUMBER	n 6 m b @
 NUMBERPLATE	n 6 m b @ p l {I t
 NUMERAL	n j }: m @ r @ l
 NUMERATOR	n j }: m @ r {I t @
 NUMEROUS	n j }: m @ r @ s
 NUN	n 6 n
 NURSE	n 3: s
-NURSERY	n 3: s r i:
 NURSERY	n 3: s @ r i:
+NURSERY	n 3: s r i:
 NUT	n 6 t
 NUTRITION	n j }: t r I S @ n
 NUTRITIONIST	n j }: t r I S @ n i: s t
@@ -6195,8 +6195,8 @@ OCTOBER	O k t @} b @
 ODD	O d
 ODIOUS	@} d i: @ s
 ODOUR	@} d @
-OF	O v
 OF	@ v
+OF	O v
 OFF	O f
 OFF-COLOUR	O f k 6 l @
 OFF-PEAK	O f p i: k
@@ -6218,8 +6218,8 @@ OKAY	@} k {I
 OLD	@} l d
 OLDAGE	@} l d {I dZ
 OLD-FASHIONED	@} l d f { S @ n d
-OLIVE	O l @ v
 OLIVE	O l I v
+OLIVE	O l @ v
 OLYMPICGAMES	@ l I m p I k g {I m z
 OMBUDSMAN	O m b @ d z m @ n
 OMELETTE	O m l @ t
@@ -6289,8 +6289,8 @@ OUR	{O @
 OUR	{O
 OURS	{O @ z
 OURS	{O Z
-OURSELVES	{O s e l v z
 OURSELVES	{O @ s e l v z
+OURSELVES	{O s e l v z
 OUT	{O t
 OUTBACK	{O t b { k
 OUTBREAK	{O t b r {I k
@@ -6351,16 +6351,16 @@ OVERWHELM	@} v @ w e l m d
 OVERWORK	@} v @ w 3: k
 OVULATE	O v j @ l {I t
 OWE	@}
-OWL	{O l
 OWL	{ O l
+OWL	{O l
 OWN	@} n
 OXYGEN	O k s @ dZ @ n
 OYSTER	oI s t @
 P	p i:
 P&C	p i: @ n s i:
 P-PLATE	p i: p l {I t
-PA	p i: {I
 PA	p 3: r { n @ m
+PA	p i: {I
 PM	p i: e m
 PTO	p i: t i: @}
 PACE	p {I s
@@ -6981,8 +6981,8 @@ PROTEIN	p r @} t i: n
 PROTEST	p r @ t e s t
 PROTESTANT	p r O t @ s t @ n t
 PROTOCOL	p r @} t @ k O l
-PROTOTYPE	p r @} t @ t Ae p
 PROTOTYPE	p r @} t @} t Ae p
+PROTOTYPE	p r @} t @ t Ae p
 PROTRACTED	p r @ t r { k t @ d
 PROUD	p r {O d
 PROVE	p r }: v
@@ -7727,8 +7727,8 @@ SEASONAL	s i: z @ n @ l
 SEAT	s i: t
 SEC	s e k
 SECATEURS	s e k @ t @ z
-SECOND	s e k @ n
 SECOND	s e k @ n d
+SECOND	s e k @ n
 SECOND-CLASS	s e k @ n d k l 6: s
 SECOND-HAND	s e k @ n d h { n d
 SECOND-RATE	s e k @ n d r {I t
@@ -8072,8 +8072,8 @@ SLINK	s l I N k
 SLINKY	s l I N k i:
 SLIP	s l I p
 SLIPPERS	s l I p @ z
-SLIPPERY	s l I p r i:
 SLIPPERY	s l I p @ r i:
+SLIPPERY	s l I p r i:
 SLIPPERYDIP	s l I p r i: d I p
 SLIT	s l I t
 SLOB	s l O b
@@ -8134,8 +8134,8 @@ SNAPSHOT	s n { p S O t
 SNARL	s n 6: l
 SNATCH	s n { tS
 SNEAK	s n i: k
-SNEER	s n I@
 SNEER	s n I@ r
+SNEER	s n I@
 SNEEZE	s n i: z
 SNIFF	s n I f
 SNIFFLE	s n I f @ l
@@ -8194,8 +8194,8 @@ SOLUBLE	s O l j @ b @ l
 SOLUTION	s @ l }: S @ n
 SOLVE	s O l v
 SOMBRE	s O m b @
-SOME	s @ m
 SOME	s 6 m
+SOME	s @ m
 SOMEBODY	s 6 m b O d i:
 SOMEHOW	s 6 m h {O
 SOMEONE	s 6 m w 6 n
@@ -8358,8 +8358,8 @@ SQUABBLE	s k w O b @ l
 SQUAD	s k w O d
 SQUALID	s k w O l @ d
 SQUANDER	s k w O n d @
-SQUARE	s k w e:
 SQUARE	s k w e: r
+SQUARE	s k w e:
 SQUASH	s k w O S
 SQUEAK	s k w i: k
 SQUEAL	s k w i: l
@@ -8494,8 +8494,8 @@ STREAK	s t r i: k
 STREAM	s t r i: m
 STREAMER	s t r i: m @
 STREET	s t r i: t
-STRENGTH	s t r e N T
 STRENGTH	s t r e N k T
+STRENGTH	s t r e N T
 STRENUOUS	s t r e n j }: @ s
 STRESS	s t r e s
 STRETCH	s t r e tS
@@ -8710,8 +8710,8 @@ SYMPATHY	s I m p @ T i:
 SYMPHONY	s I m f @ n i:
 SYMPTOM	s I m p t @ m
 SYNAGOGUE	s I n @ g O g
-SYNDICATE	s I n d I k @ t
 SYNDICATE	s I n d @ k @ t
+SYNDICATE	s I n d I k @ t
 SYNONYM	s I n @ n I m
 SYNOPSIS	s @ n O p s @ s
 SYNTHETIC	s I n T e t I k
@@ -8899,12 +8899,12 @@ THAI	t Ae
 THAN	D { n
 THAN	D @ n
 THANK	T { N k
-THAT	D @ t
 THAT	D { t
+THAT	D @ t
 THATCH	T { tS
 THAW	T o:
-THE	D @
 THE	D i:
+THE	D @
 THEATRE	T I@ t @
 THEATRICAL	T i: { t r I k @ l
 THEFT	T e f t
@@ -9058,8 +9058,8 @@ TOLERABLE	t O l r @ b @ l
 TOLERABLE	t O l @ r @ b @ l
 TOLERANT	t O l @ r @ n t
 TOLERATE	t O l @ r {I t
-TOLL	t O l
 TOLL	t @} l
+TOLL	t O l
 TOMATO	t @ m 6: t @}
 TOMB	t }: m
 TOMBSTONE	t }: m s t @} n
@@ -9104,10 +9104,10 @@ TOUCHY	t 6 tS i:
 TOUGH	t 6 f
 TOUR	t }: @
 TOUR	t U@
-TOURISM	t U@ r I s @ m
 TOURISM	t }: @ r I s @ m
-TOURIST	t }: @ r @ s t
+TOURISM	t U@ r I s @ m
 TOURIST	t U@ r @ s t
+TOURIST	t }: @ r @ s t
 TOURNAMENT	t o: n @ m @ n t
 TOW	t @}
 TOWARDS	t @ w o: d z
@@ -9171,8 +9171,8 @@ TRENDY	t r e n d i:
 TRESPASS	t r e s p @ s
 TRIAL	t r Ae @ l
 TRIANGLE	t r Ae { N g @ l
-TRIBUNAL	t r @ b j }: n @ l
 TRIBUNAL	t r Ae b j }: n @ l
+TRIBUNAL	t r @ b j }: n @ l
 TRICK	t r I k
 TRICKLE	t r I k @ l
 TRIED	t r Ae d
@@ -9210,10 +9210,10 @@ TUITION	tS }: I S @ n
 TUITION	t j }: I S @ n
 TUMBLE	t 6 m b @ l
 TUMOUR	t j }: m @
-TUNA	t j }: n @
 TUNA	tS }: n @
-TUNE	tS }: n
+TUNA	t j }: n @
 TUNE	t j }: n
+TUNE	tS }: n
 TUNNEL	t 6 n @ l
 TURKISH	t 3: k I S
 TURN	t 3: n
@@ -9352,8 +9352,8 @@ UTTER	6 t @
 V	v i:
 VACANCY	v {I k @ n s i:
 VACANT	v {I k @ n t
-VACATION	v {I k {I S @ n
 VACATION	v @ k {I S @ n
+VACATION	v {I k {I S @ n
 VACCINE	v { k s i: n
 VACUUM	v { k j }: m
 VAGINA	v @ dZ Ae n @
@@ -9575,8 +9575,8 @@ WELLBEING	w e l b i: I N
 WENT	w e n t
 WEPT	w e p t
 WERE	w @
-WERE	w @ r
 WERE	w 3:
+WERE	w @ r
 WERENT	w 3: n t
 WEST	w e s t
 WESTERN	w e s t @ n
@@ -9645,8 +9645,8 @@ WILDFLOWER	w Ae l d f l {O @
 WILDERNESS	w I l d @ n @ s
 WILDLIFE	w Ae l d l Ae f
 WILFUL	w I l f @ l
-WILL	w @ l
 WILL	w I l
+WILL	w @ l
 WILLING	w I l I N
 WILLPOWER	w I l p {O @
 WILT	w I l t
@@ -9654,8 +9654,8 @@ WILY	w Ae l i:
 WIMP	w I m p
 WIN	w I n
 WINCE	w I n s
-WIND	w I n d
 WIND	w Ae n d
+WIND	w I n d
 WINDOW	w I n d @}
 WINDOWSHOPPING	w I n d @} S O p I N
 WINDOWS	w I n d @} z
@@ -9682,8 +9682,8 @@ WITH	w I T
 WITH	w I D
 WITHDRAW	w I T d r o:
 WITHDRAW	w I D d r o:
-WITHHOLD	w I D h @} l d
 WITHHOLD	w I T h @} l d
+WITHHOLD	w I D h @} l d
 WITHIN	w I D I n
 WITHOUT	w I D {O t
 WITNESS	w I t n @ s
@@ -9729,8 +9729,8 @@ WORTHWHILE	w 3: T w Ae l
 WORTHY	w 3: D i:
 WOULD	w U d
 WOULD	w @ d
-WOUND	w }: n d
 WOUND	w {O n d
+WOUND	w }: n d
 WOVEN	w @} v @ n
 WOW	w {O
 WOWSER	w {O z @
@@ -9763,8 +9763,8 @@ YARN	j 6: n
 YAWN	j o: n
 YD	j 6: d
 YEAH	j e:
-YEAR	j I@
 YEAR	j I@ r
+YEAR	j I@
 YEAST	j i: s t
 YELL	j e l
 YELLOW	j e l @}
@@ -9783,8 +9783,8 @@ YOU	j }:
 YOUNG	j 6 N
 YOUNGSTER	j 6 N s t @
 YOUR	j @
-YOUR	j @ r
 YOUR	j o:
+YOUR	j @ r
 YOURS	j o: z
 YOURSELF	j o: s e l f
 YOUTH	j }: T
@@ -9805,13 +9805,91 @@ ZOO	z }:
 ZOOLOGY	z @} O l @ dZ i:
 ZOOM	z }: m
 ZUCCHINI	z @ k i: n i:
+BALL	b o: l
+BALLOON	b @ l }: n
+BANANA	b @ n 6: n @
+BEANS	b i: n z
+BOYS	b oI z
+BUTTERFLY	b 6 t @ f l Ae
+CARDS	k 6: d z
+CATERPILLAR	k { t @ p I l @
+CATS	k { t s
+CICADA	k 6 z n z
+DOGS	d O g z
+EGGS	e g z
+ELEPHANT	dZ @ r 6: f
+GIRLS	g 3: l z
+CLOCK	k l O k
+PICTURES	p I k tS @ z
+TEACHERS	t i: tS @ z
+WATERMELON	w o: t @ m e l @ n
+ALTUPATORY	@ l t }: p { t o: r i:
+BALLOP	b { l O p
+BANNIFER	b @ n I f @
+BANNIFER	b { n I f 3:
+BANNOW	b { n @}
+BARRAZON	b { r @ z O n
+BLONTERSTAPING	b l O n t @ s t {I p I N
+BRASTERER	b r 6: s t 3: @
+CARROTS	k { r O t s
+COMMEECITATE	k O m i: s i: t {I t
+COMMERINE	k O m @ r i: n
+CONFRANTUALLY	k O n f r { n t j }: { l i:
+CONTRAMPONIST	k O n t r @ m p O n I s t
+COUSINS	k 6 z I n z
+CUPS	k 6 p s
+DEFERMICATION	d e f 3: m I k {I tS O n
+DETRATAPILLIC	d e t r 6: t @ p I l I k
+DOPELATE	d @} p I l {I t
+EMPLIFORVENT	e m p l i: f o: v e n t
+FENNERISER	f e n 3: Ae z @
+FLOWERPOT	f l {O @ p O t
+FRESCOVENT	f r e s k @} v @ n t
+GIRAFFE	dZ I r 6: f
+GLISTERING	g l I s t 3: I N
+GLISTOW	g l I s t @}
+GORILLA	g O r I l @
+GRASSHOPPER	g r 6: s h O p @
+HAMPENT	h { m p e n t
+HAMPENT	h @ m p e n t
+HIPPOPOTAMUS	h I p @} p O t @ m 6 s
+HIPPOPOTAMUS	h I p @} p O t @ m @ s
+LODDERNAPISH	l O d @ n { p I S
+MAGICIAN	m { dZ I S @ n
+MARTIAN	m 6: r S { n
+MARTIAN	m 6: S @ n
+PENNEL	p e n e l
+PENNEL	p e n @ l
+PENNERIFUL	p e n 3: I f @ l
+PEPPERS	p e p @ s
+PERPLISTERONK	p 3: p l I s t 3: O n k
+PRINDLE	p r I n d l
+PRISTORACTIONAL	p r I s t o: r { k S O n @ l
+RHINOCEROS	r Ae n O s 3: O s
+RUBID	r }: b I d
+SEPRETENNIAL	s e p r @ t e n i: @ l
+SKITICULT	s k I t i: k @ l t
+SPIDERWEB	s p Ae d @ w e b
+STOPOGRATTIC	s t O p @} g r { t I k
+TAFFLEST	t { f l e s t
+THICKERY	T I k @ i:
+TRUMPETINE	t r 6 m p e t i: n
+UNDERBRANTUAND	6 n d @ b r @ n t j }: { n d
+VEGEMITE	v e dZ @ m Ae t
+VEGEMITE	v e dZ i: m Ae t
+VERSATRATIONIST	v 3: s @ t r {I S O n I s t
+WOOGALAMIC	w U g @ l { m I k
+WOOGALAMIC	w }: g @ l { m I k
+XYLOPHONE	z Ae l @} f @} n
+XYLOPHONE	z Ae l @ f @} n
+YOYO	j @} j @}
 ABSORBED	@ b z o: b d
 AIRFIELD	e: f i: l d
 ALAN	{ l @ n
 ALBERTA	{ l b 3: t @
 ALFALFA	{ l f { l f @
-ALIMONY	{ l @ m @} n i:
 ALIMONY	{ l @ m @ n i:
+ALIMONY	{ l @ m @} n i:
 AL	{ l
 ALLIGATOR	{ l @ g {I t @
 ALPS	{ l p s
@@ -9841,14 +9919,12 @@ BETS	b e t s
 BIRDS	b 3: d z
 BOOTS	b }: t s
 BOYD	b oI d
-BOYS	b oI z
 BULLDOG	b U l d O g
 BUTLER	b 6 t l @
 BUYING	b Ae I N
 CALMLY	k 6: m l i:
 CAMEL	k { m @ l
 CAN'T	k 6: n t
-CATERPILLAR	k { t @ p I l @
 CAUSED	k o: z d
 CHANGING	tS {I n dZ I N
 CHARLES	tS 6: l z
@@ -9875,8 +9951,8 @@ DABBLE	d { b @ l
 DOLLS	d O l z
 DON'T	d @} n t
 DOTS	d O t s
-DRAWING	d r o: I N
 DRAWING	d r o: r I N
+DRAWING	d r o: I N
 DWARF'S	d w o: f s
 EARS	I@ z
 ELLE	e l
@@ -9899,7 +9975,6 @@ GAFFE	g { f
 GAVEL	g { v @ l
 GAZELLE	g @ z e l
 GETS	g e t s
-GIRLS	g 3: l z
 GIVEN	g I v @ n
 GLEBE	g l i: b
 GLIMPSED	g l I m p s t
@@ -9966,8 +10041,8 @@ I'LL	Ae l
 I'M	Ae m
 INCREASED	I N k r i: s t
 INSIDE?	I n s Ae d
-ISN'T	I z @ n t
 ISN'T	I z @ n
+ISN'T	I z @ n t
 ITCHES	I tS @ z
 IT'S	@ t s
 IT'S	I t s
@@ -10103,8 +10178,8 @@ TRIFLE	t r Ae f @ l
 TROUT	t r {O t
 TROY	t r oI
 TRUE	t r }:
-TUNER	t j }: n @
 TUNER	tS }: n @
+TUNER	t j }: n @
 TURNED	t 3: n d
 TWINS	t w I n z
 UNAMUSED	6 n @ m j }: z d
@@ -10112,8 +10187,6 @@ UNCONTROLLABLE	6 n k @ n t r @} l @ b @ l
 UNDAUNTED	6 n d o: n t @ d
 UNFORTUNATELY	6 n f o: tS @ n @ t l i:
 UNSAFE	6 n s {I f
-VEGEMITE	v e dZ i: m Ae t
-VEGEMITE	v e dZ @ m Ae t
 VIOLENTLY	v Ae l @ n t l i:
 VOODOO	v }: d }:
 VOWED	v {O d

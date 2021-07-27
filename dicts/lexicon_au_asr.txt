@@ -30,8 +30,8 @@ ABSOLUTE	ae b s ax l u t
 ABSORB	ax b s oo b
 ABSORB	ax b z oo b
 ABSTRACT	ae b s t r ae k t
-ABSURD	ax b z er d
 ABSURD	ax b s er d
+ABSURD	ax b z er d
 ABUSE	ax b j u z
 ACADEMY	ax k ae d ax m ii
 ACCELERATE	ax k s e l ax r ei t
@@ -76,8 +76,8 @@ ACTIVITY	ae k t i v ax t ii
 ACTOR	ae k t ax
 ACTU	ei s ii t ii j u
 ACTUAL	ae k ch u ax l
-ACTUALLY	ae k ch u ax l ii
 ACTUALLY	ae k ch ax l ii
+ACTUALLY	ae k ch u ax l ii
 ACUPUNCTURE	ae k j ax p a ng k ch ax
 ACUTE	ax k j u t
 ACUTELY	ax k j u t l ii
@@ -94,8 +94,8 @@ ADEQUATE	ae d ax k w ax t
 ADHESIVE	ax d h ii z i v
 ADHESIVE	ax d h ii s i v
 ADJACENT	ax dz ei s ax n t
-ADJECTIVE	ae dz e k t i v
 ADJECTIVE	ae dz ax k t i v
+ADJECTIVE	ae dz e k t i v
 ADJOURN	ax dz er n
 ADJUDICATE	ax dz u d ax k ei t
 ADJUST	ax dz a s t
@@ -240,9 +240,9 @@ ALTERNATIVE	o l t er n ax t i v
 ALTHOUGH	oo l dh eu
 ALTITUDE	ae l t ax t j u d
 ALTOGETHER	oo l t ax g e dh ax
-ALUMINIUM	ae l ax m i n ii ax m
-ALUMINIUM	ae l j ax m i n ii ax m
 ALUMINIUM	ae l j ax m i n j ax m
+ALUMINIUM	ae l j ax m i n ii ax m
+ALUMINIUM	ae l ax m i n ii ax m
 ALUMINIUM	ae l ax m i n j ax m
 ALWAYS	oo l w ei z
 AMA	ei e m ei
@@ -274,8 +274,8 @@ AMPUTATE	ae m p j ax t ei t
 AMPUTEE	ae m p j ax t ii
 AMUSE	ax m j u z
 AMUSEMENT	ax m j u z m ax n t
-AN	ax n
 AN	ae n
+AN	ax n
 ANAEMIA	ax n ii m ii ax
 ANAESTHETIC	ae n ax s th e t i k
 ANAL	ei n ax l
@@ -288,9 +288,9 @@ ANCESTOR	ae n s e s t ax
 ANCHOR	ae ng k ax
 ANCHORAGE	ae ng k ax r i dz
 ANCIENT	ei n sh ax n t
+AND	ae n
 AND	ae n d
 AND	ax n
-AND	ae n
 ANECDOTE	ae n ax k d eu t
 ANGEL	ei n dz ax l
 ANGER	ae ng g ax
@@ -334,8 +334,8 @@ ANTITHESIS	ae n t i th ax s ax s
 ANTLER	ae n t l ax
 ANTONYM	ae n t ax n i m
 ANUS	ei n ax s
-ANXIOUS	ae ng k sh ax s
 ANXIOUS	ae ng sh ax s
+ANXIOUS	ae ng k sh ax s
 ANY	e n ii
 ANYBODY	e n ii b o d ii
 ANYHOW	e n ii h au
@@ -403,8 +403,8 @@ ARCHAIC	aa k ei i k
 ARCHITECT	aa k ax t e k t
 ARCTICCIRCLE	aa k t i k s er k ax l
 ARDUOUS	aa dz u ax s
-ARE	aa
 ARE	ax r
+ARE	aa
 AREA	ee r ii ax
 ARENA	ax r ii n ax
 ARGUABLE	aa g j u ax b ax l
@@ -478,8 +478,8 @@ ASSIGN	ax s ye n
 ASSIGNMENT	ax s ye n m ax n t
 ASSIMILATE	ax s i m ax l ei t
 ASSIST	ax s i s t
-ASSOCIATE	ax s eu sh ii ei t
 ASSOCIATE	ax s eu s ii ei t
+ASSOCIATE	ax s eu sh ii ei t
 ASSOCIATION	ax s eu s ii ei sh ax n
 ASSORTMENT	ax s oo t m ax n t
 ASSUME	ax s j u m
@@ -495,8 +495,8 @@ ASTRONAUT	ae s t r ax n oo t
 ASTRONOMY	ax s t r o n ax m ii
 ASTUTE	ax s t j u t
 ASYLUM	ax s ye l ax m
-AT	ax t
 AT	ae t
+AT	ax t
 ATE	ei t
 ATHEIST	ei th ii ax s t
 ATHLETE	ae th l ii t
@@ -517,8 +517,8 @@ ATTIRE	ax t ye ax
 ATTITUDE	ae t ax t j u d
 ATTRACT	ax t r ae k t
 ATTRACTIVE	ax t r ae k t i v
-ATTRIBUTE	ae t r ax b j u t
 ATTRIBUTE	ax t r i b j u t
+ATTRIBUTE	ae t r ax b j u t
 ATYPICAL	ei t i p i k ax l
 AUBERGINE	eu b ax zh ii n
 AUBURN	oo b ax n
@@ -536,11 +536,11 @@ AUNT	aa n t
 AURA	oo r ax
 AUSPICIOUS	oo s p i sh ax s
 AUSTERE	o s t ie
-AUSTRALIA	ax s t r ei l j ax
-AUSTRALIA	ax s t r ae i l ii ax
+AUSTRALIA	o s t r ei l ii ax
 AUSTRALIA	ax s t r ei l ii ax
 AUSTRALIA	o s t r ei l j ax
-AUSTRALIA	o s t r ei l ii ax
+AUSTRALIA	ax s t r ei l j ax
+AUSTRALIA	ax s t r ae i l ii ax
 AUSTRALIAN	ax s t r ei l j ax n
 AUSTRALIANDEMOCRATS	ax s t r ei l j ax n d e m ax k r ae t s
 AUSTRALIANLABORPARTY	ax s t r ei l j ax n l ei b ax p aa t ii
@@ -649,8 +649,8 @@ BARB	b aa b
 BARBARIAN	b aa b ee r ii ax n
 BARBECUE	b aa b ax k j u
 BARBER	b aa b ax
-BARBITURATE	b aa b i ch ax r ax t
 BARBITURATE	b aa b i ch uh r ax t
+BARBITURATE	b aa b i ch ax r ax t
 BARE	b ee
 BARELY	b ee l ii
 BARGAIN	b aa g ax n
@@ -659,8 +659,8 @@ BARITONE	b ae r ax t eu n
 BARK	b aa k
 BARN	b aa n
 BAROMETER	b ax r o m ax t ax
-BARRACK	b ae r i k
 BARRACK	b ae r ax k
+BARRACK	b ae r i k
 BARRACKS	b ae r ax k s
 BARRAGE	b ae r aa zh
 BARREL	b ae r ax l
@@ -797,10 +797,10 @@ BIAS	b ye ax s
 BIB	b i b
 BIBLE	b ye b ax l
 BIBLIOGRAPHY	b i b l ii o g r ax f ii
-BICENTENARY	b ye s e n t ii n ax r ii
 BICENTENARY	b ye s e n t e n ax r ii
-BICENTENNIAL	b ye s ax n t e n ii ax l
+BICENTENARY	b ye s e n t ii n ax r ii
 BICENTENNIAL	b ye s e n t e n ii ax l
+BICENTENNIAL	b ye s ax n t e n ii ax l
 BICEPS	b ye s e p s
 BICKER	b i k ax
 BICYCLE	b ye s i k ax l
@@ -1015,14 +1015,14 @@ BOUNCY	b au n s ii
 BOUND	b au n d
 BOUNDARY	b au n d r ii
 BOUNTY	b au n t ii
-BOUQUET	b u k ei
 BOUQUET	b eu k ei
+BOUQUET	b u k ei
 BOURGEOIS	b ue zh w aa
 BOUT	b au t
 BOUTIQUE	b u t ii k
 BOW	b eu
-BOWEL	b au l
 BOWEL	b au ax l
+BOWEL	b au l
 BOWERBIRD	b au ax b er d
 BOWL	b eu l
 BOWLING	b eu l i ng
@@ -1054,8 +1054,8 @@ BRANCH	b r ae n ch
 BRAND	b r ae n d
 BRASH	b r ae sh
 BRASS	b r aa s
-BRASSIERE	b r ax z ie
 BRASSIERE	b r ae z ii ax
+BRASSIERE	b r ax z ie
 BRAT	b r ae t
 BRAVADO	b r ax v aa d eu
 BRAVE	b r ei v
@@ -1236,8 +1236,8 @@ BUSTARD	b a s t ax d
 BUSTLE	b a s ax l
 BUSY	b i z ii
 BUSYBODY	b i z ii b o d ii
-BUT	b ax t
 BUT	b a t
+BUT	b ax t
 BUTANE	b j u t ei n
 BUTCH	b uh ch
 BUTCHER	b uh ch ax
@@ -1295,8 +1295,8 @@ CAMOUFLAGE	k ae m ax f l aa zh
 CAMP	k ae m p
 CAMPAIGN	k ae m p ei n
 CAMPUS	k ae m p ax s
-CAN	k ax n
 CAN	k ae n
+CAN	k ax n
 CANAL	k ax n ae l
 CANCEL	k ae n s ax l
 CANCER	k ae n s ax
@@ -1325,8 +1325,8 @@ CAPE	k ei p
 CAPITAL	k ae p ax t ax l
 CAPITALISE	k ae p ax t ax l ye z
 CAPITALISM	k ae p ax t ax l i z ax m
-CAPSICUM	k ae p s ii k ax m
 CAPSICUM	k ae p s ax k ax m
+CAPSICUM	k ae p s ii k ax m
 CAPSIZE	k ae p s ye z
 CAPSULE	k ae p sh u l
 CAPTAIN	k ae p t ax n
@@ -1352,8 +1352,8 @@ CARDIAC	k aa d ii ae k
 CARDIGAN	k aa d ii g ax n
 CARDIGAN	k aa d i g ax n
 CARDINALNUMBER	k aa d ax n ax l n a m b ax
-CARE	k ee
 CARE	k ee r
+CARE	k ee
 CAREER	k ax r ie
 CAREFUL	k ee f ax l
 CARELESS	k ee l ax s
@@ -1448,8 +1448,8 @@ CEREMONY	s e r ax m eu n ii
 CEREMONY	s e r ax m ax n ii
 CERTAIN	s er t ax n
 CERTAINLY	s er t ax n l ii
-CERTIFICATE	s ax t i f ax k ax t
 CERTIFICATE	s ax t i f i k ax t
+CERTIFICATE	s ax t i f ax k ax t
 CERTIFY	s er t ax f ye
 CERVIX	s er v i k s
 CES	s ii ii e s
@@ -1822,15 +1822,15 @@ CONCERT	k o n s ax t
 CONCESSION	k ax n s e sh ax n
 CONCILIATION	k ax n s i l ii ei sh ax n
 CONCISE	k ax n s ye s
-CONCLUDE	k ax ng k l u d
 CONCLUDE	k ax n k l u d
+CONCLUDE	k ax ng k l u d
 CONCRETE	k o ng k r ii t
 CONCUR	k ax ng k er
 CONCUR	k ax n k er
 CONCURRENT	k ax ng k a r ax n t
 CONCURRENT	k ax n k a r ax n t
-CONCUSSION	k ax ng k a sh ax n
 CONCUSSION	k ax n k a sh ax n
+CONCUSSION	k ax ng k a sh ax n
 CONDEMN	k ax n d e m
 CONDENSATION	k o n d e n s ei sh ax n
 CONDENSATION	k o n d ax n s ei sh ax n
@@ -1880,8 +1880,8 @@ CONSENT	k ax n s e n t
 CONSEQUENCE	k o n s ax k w ax n s
 CONSERVATION	k o n s ax v ei sh ax n
 CONSERVATIVE	k ax n s er v ax t i v
-CONSERVE	k o n s er v
 CONSERVE	k ax n s er v
+CONSERVE	k o n s er v
 CONSIDER	k ax n s i d ax
 CONSIDERABLE	k ax n s i d r ax b ax l
 CONSIDERABLE	k ax n s i d ax r ax b ax l
@@ -1919,8 +1919,8 @@ CONTEMPLATE	k o n t ax m p l ei t
 CONTEMPORARY	k ax n t e m p ax r ii
 CONTEMPT	k ax n t e m p t
 CONTEND	k ax n t e n d
-CONTENT	k o n t e n t
 CONTENT	k ax n t e n t
+CONTENT	k o n t e n t
 CONTEST	k ax n t e s t
 CONTEST	k o n t e s t
 CONTEXT	k o n t e k s t
@@ -1979,8 +1979,8 @@ CORE	k oo
 CORK	k oo k
 CORKSCREW	k oo k s k r u
 CORN	k oo n
-CORNER	k oo n ax
 CORNER	k oo n ax r
+CORNER	k oo n ax
 CORNFLAKES	k oo n f l ei k s
 CORNY	k oo n ii
 CORONARY	k o r ax n r ii
@@ -2023,8 +2023,8 @@ COUP	k u
 COUPLE	k a p ax l
 COUPON	k u p o n
 COURAGE	k a r i dz
-COURIER	k uh r ii ax
 COURIER	k ue r ii ax
+COURIER	k uh r ii ax
 COURSE	k oo s
 COURT	k oo t
 COURTEOUS	k er t ii ax s
@@ -2139,8 +2139,8 @@ CUL-DE-SAC	k a l d ax s ae k
 CULINARY	k a l ax n r ii
 CULMINATE	k a l m ax n ei t
 CULPRIT	k a l p r ax t
-CULT	k a l t
 CULT	k o l t
+CULT	k a l t
 CULTIVATE	k a l t ax v ei t
 CULTURE	k a l ch ax
 CUMBERSOME	k a m b ax s ax m
@@ -2172,8 +2172,8 @@ CUSHY	k uh sh ii
 CUSTARD	k a s t ax d
 CUSTODY	k a s t ax d ii
 CUSTOM	k a s t ax m
-CUSTOMARY	k a s t ax m r ii
 CUSTOMARY	k a s t ax m ax r ii
+CUSTOMARY	k a s t ax m r ii
 CUSTOMER	k a s t ax m ax
 CUT	k a t
 CUTE	k j u t
@@ -2205,8 +2205,8 @@ DAMNEDEST	d ae m d ax s t
 DAMP	d ae m p
 DAMPEN	d ae m p ax n
 DAMPER	d ae m p ax
-DANCE	d aa n s
 DANCE	d ae n s
+DANCE	d aa n s
 DANDRUFF	d ae n d r a f
 DANGER	d ei n dz ax
 DANGLE	d ae ng g ax l
@@ -2254,8 +2254,8 @@ DEAF	d e f
 DEAL	d ii l
 DEALER	d ii l ax
 DEALINGS	d ii l i ng z
-DEAR	d ie r
 DEAR	d ie
+DEAR	d ie r
 DEATH	d e th
 DEBATABLE	d ax b ei t ax b ax l
 DEBATE	d ax b ei t
@@ -2269,8 +2269,8 @@ DECADENT	d e k ax d ax n t
 DECAFFEINATED	d ii k ae f ax n ei t ax d
 DECAPITATE	d ii k ae p ax t ei t
 DECATHLON	d ax k ae th l o n
-DECAY	d ax k ei
 DECAY	d ii k ei
+DECAY	d ax k ei
 DECEASED	d ax s ii s t
 DECEITFUL	d ax s ii t f uh l
 DECEIVE	d ax s ii v
@@ -2298,8 +2298,8 @@ DECORATE	d e k ax r ei t
 DECORATION	d e k ax r ei sh ax n
 DECORUM	d ax k oo r ax m
 DECOY	d ii k oi
-DECREASE	d ax k r ii s
 DECREASE	d ii k r ii s
+DECREASE	d ax k r ii s
 DECREE	d ax k r ii
 DECREPIT	d ax k r e p ax t
 DECRY	d ax k r ye
@@ -2338,8 +2338,8 @@ DEFRAUD	d ax f r oo d
 DEFROST	d ii f r o s t
 DEFT	d e f t
 DEFUNCT	d ax f a ng k t
-DEFUSE	d ii f j u z
 DEFUSE	d ax f j u z
+DEFUSE	d ii f j u z
 DEFY	d ax f ye
 DEGENERATE	d ax dz e n ax r ax t
 DEGRADATION	d e g r ax d ei sh ax n
@@ -2355,8 +2355,8 @@ DELEGATE	d e l ax g ax t
 DELEGATION	d e l ax g ei sh ax n
 DELETE	d ax l ii t
 DELI	d e l ii
-DELIBERATE	d ax l i b r ax t
 DELIBERATE	d ax l i b ax r ax t
+DELIBERATE	d ax l i b r ax t
 DELICACY	d e l ax k ax s ii
 DELICATE	d e l ax k ax t
 DELICATESSEN	d e l ax k ax t e s ax n
@@ -2428,8 +2428,8 @@ DEPRIVE	d ax p r ye v
 DEPRIVED	d ax p r ye v d
 DEPT	d ax p aa t m ax n t
 DEPTH	d e p th
-DEPUTATION	d e p j ax t ei sh ax n
 DEPUTATION	d e p j u t ei sh ax n
+DEPUTATION	d e p j ax t ei sh ax n
 DEPUTY	d e p j ax t ii
 DERANGED	d ax r ei n dz d
 DERELICT	d e r ax l i k t
@@ -2506,8 +2506,8 @@ DEVOTED	d ax v eu t ax d
 DEVOTEE	d e v ax t ii
 DEVOUR	d ax v au ax
 DEVOUT	d ax v au t
-DEW	d j u
 DEW	dz u
+DEW	d j u
 DEXTERITY	d e k s t e r ax t ii
 DIABETES	d ye ax b ii t ii z
 DIABOLIC	d ye ax b o l i k
@@ -2613,8 +2613,8 @@ DISCJOCKEY	d i s k dz o k ii
 DISCARD	d i s k aa d
 DISCERN	d ax s er n
 DISCERN	d i s er n
-DISCERNING	d i s er n i ng
 DISCERNING	d ax s er n i ng
+DISCERNING	d i s er n i ng
 DISCHARGE	d i s ch aa dz
 DISCIPLE	d ax s ye p ax l
 DISCIPLINARIAN	d i s ax p l ax n ee r ii ax n
@@ -2633,19 +2633,19 @@ DISCOUNT	d i s k au n t
 DISCOURAGE	d i s k a r i dz
 DISCOURSE	d i s k oo s
 DISCOURTEOUS	d i s k er t ii ax s
-DISCOVER	d ax s k a v ax
 DISCOVER	d i s k a v ax
+DISCOVER	d ax s k a v ax
 DISCREDIT	d i s k r e d ax t
 DISCREET	d i s k r ii t
 DISCREET	d ax s k r ii t
-DISCREPANCY	d ax s k r e p ax n s ii
 DISCREPANCY	d i s k r e p ax n s ii
+DISCREPANCY	d ax s k r e p ax n s ii
 DISCRETE	d i s k r ii t
 DISCRETE	d ax s k r ii t
-DISCRETION	d i s k r e sh ax n
 DISCRETION	d ax s k r e sh ax n
-DISCRIMINATE	d i s k r i m ax n ei t
+DISCRETION	d i s k r e sh ax n
 DISCRIMINATE	d ax s k r i m ax n ei t
+DISCRIMINATE	d i s k r i m ax n ei t
 DISCUSS	d ax s k a s
 DISDAIN	d i s d ei n
 DISEASE	d ax z ii z
@@ -2653,8 +2653,8 @@ DISFAVOUR	d i s f ei v ax
 DISFIGURE	d i s f i g ax
 DISGRACE	d ax s g r ei s
 DISGRUNTLED	d i s g r a n t ax l d
-DISGUISE	d i s g ye z
 DISGUISE	d ax s g ye z
+DISGUISE	d i s g ye z
 DISGUST	d ax s g a s t
 DISH	d i sh
 DISHEARTENED	d i s h aa t ax n d
@@ -2729,8 +2729,8 @@ DISSOLVE	d ax z o l v
 DISSUADE	d i s s w ei d
 DISTANCE	d i s t ax n s
 DISTANT	d i s t ax n t
-DISTASTEFUL	d i s t ei s t f uh l
 DISTASTEFUL	d i s t ei s t f ax l
+DISTASTEFUL	d i s t ei s t f uh l
 DISTEND	d i s t e n d
 DISTIL	d i s t i l
 DISTILLATE	d i s t ax l ax t
@@ -2740,8 +2740,8 @@ DISTINCTIVE	d ax s t i ng k t i v
 DISTINGUISH	d ax s t i ng g w i sh
 DISTORT	d ax s t oo t
 DISTRACT	d ax s t r ae k t
-DISTRAUGHT	d i s t r oo t
 DISTRAUGHT	d ax s t r oo t
+DISTRAUGHT	d i s t r oo t
 DISTRESS	d ax s t r e s
 DISTRIBUTE	d ax s t r i b j u t
 DISTRIBUTION	d i s t r ax b j u sh ax n
@@ -2936,8 +2936,8 @@ DUAL	d j u ax l
 DUB	d a b
 DUBIOUS	d j u b ii ax s
 DUCK	d a k
-DUE	d j u
 DUE	dz u
+DUE	d j u
 DUEL	d j u ax l
 DUET	d j u e t
 DUG	d a g
@@ -2961,8 +2961,8 @@ DUPLEX	d j u p l e k s
 DUPLICATE	d j u p l ax k ei t
 DURABLE	d j u r ax b ax l
 DURATION	d j u r ei sh ax n
-DURING	d j u r i ng
 DURING	dz u r i ng
+DURING	d j u r i ng
 DUSK	d a s k
 DUST	d a s t
 DUSTPAN	d a s t p ae n
@@ -3006,8 +3006,8 @@ EAVES	ii v z
 EAVESDROP	ii v z d r o p
 EB	ii b ii
 EBB	e b
-ECCENTRIC	ax k s e n t r i k
 ECCENTRIC	e k s e n t r i k
+ECCENTRIC	ax k s e n t r i k
 ECG	ii s ii dz ii
 ECHIDNA	ax k i d n ax
 ECHO	e k eu
@@ -3503,8 +3503,8 @@ FINALIST	f ye n ax l ax s t
 FINALLY	f ye n ax l ii
 FINANCE	f ye n ae n s
 FINANCIAL	f ax n ae n sh ax l
-FIND	f ye n d
 FIND	f ye n
+FIND	f ye n d
 FINE	f ye n
 FINGER	f i ng g ax
 FINGERNAIL	f i ng g ax n ei l
@@ -3605,8 +3605,8 @@ FLOCK	f l o k
 FLOG	f l o g
 FLOOD	f l a d
 FLOODLIGHT	f l a d l ye t
-FLOOR	f l oo r
 FLOOR	f l oo
+FLOOR	f l oo r
 FLOORBOARD	f l oo b oo d
 FLOP	f l o p
 FLOPPY	f l o p ii
@@ -3670,9 +3670,9 @@ FOOTPATH	f uh t p aa th
 FOOTPRINT	f uh t p r i n t
 FOOTSTEP	f uh t s t e p
 FOOTWEAR	f uh t w ee
-FOR	f ax r
 FOR	f oo
 FOR	f ax
+FOR	f ax r
 FORAGE	f o r i dz
 FORBEARANCE	f oo b ee r ax n s
 FORBID	f ax b i d
@@ -3692,8 +3692,8 @@ FOREHEAD	f o r ax d
 FOREIGN	f o r ax n
 FOREMAN	f oo m ax n
 FOREMOST	f oo m eu s t
-FORENSIC	f ax r e n s i k
 FORENSIC	f ax r e n z i k
+FORENSIC	f ax r e n s i k
 FORESEE	f oo s ii
 FORESHADOW	f oo sh ae d eu
 FOREST	f o r ax s t
@@ -3712,8 +3712,8 @@ FORMAL	f oo m ax l
 FORMAT	f oo m ae t
 FORMATION	f oo m ei sh ax n
 FORMER	f oo m ax
-FORMIDABLE	f oo m i d ax b ax l
 FORMIDABLE	f oo m ax d ax b ax l
+FORMIDABLE	f oo m i d ax b ax l
 FORMULA	f oo m j ax l ax
 FORMULATE	f oo m j ax l ei t
 FORSAKE	f ax s ei k
@@ -3898,8 +3898,8 @@ GAP	g ae p
 GAPE	g ei p
 GARAGE	g ae r aa zh
 GARBAGE	g aa b i dz
-GARDEN	g aa d n
 GARDEN	g aa d ax n
+GARDEN	g aa d n
 GARDENER	g aa d n ax
 GARGLE	g aa g ax l
 GARISH	g ee r i sh
@@ -4030,8 +4030,8 @@ GOLD	g eu l d
 GOLDEN	g eu l d ax n
 GOLDENSYRUP	g eu l d ax n s i r ax p
 GOLDMINE	g eu l d m ye n
-GOLF	g eu l f
 GOLF	g o l f
+GOLF	g eu l f
 GONE	g o n
 GONORRHOEA	g o n ax r ii ax
 GOOD	g uh d
@@ -4242,8 +4242,8 @@ HANDCUFFS	h ae n d k a f s
 HANDFUL	h ae n d f uh l
 HANDICAP	h ae n d ii k ae p
 HANDICRAFT	h ae n d ii k r aa f t
-HANDKERCHIEF	h ae ng k ax ch ax f
 HANDKERCHIEF	h ae ng k ax ch ii f
+HANDKERCHIEF	h ae ng k ax ch ax f
 HANDLE	h ae n d ax l
 HANDMADE	h ae n m ei d
 HANDOUT	h ae n d au t
@@ -4290,10 +4290,10 @@ HATE	h ei t
 HAUGHTY	h oo t ii
 HAUL	h oo l
 HAUNT	h oo n t
-HAVE	h ax v
+HAVE	h ae f
 HAVE	ax v
 HAVE	h ae v
-HAVE	h ae f
+HAVE	h ax v
 HAVEN	h ei v ax n
 HAVOC	h ae v ax k
 HAWK	h oo k
@@ -4355,8 +4355,8 @@ HEIR	ee
 HEIRLOOM	ee l u m
 HELD	h e l d
 HELICOPTER	h e l ii k o p t ax
-HELICOPTER	h e l ax k o p t ax
 HELICOPTER	h e l ii k o p t ax r
+HELICOPTER	h e l ax k o p t ax
 HELIPORT	h e l ii p oo t
 HELL	h e l
 HELLO	h a l eu
@@ -4374,8 +4374,8 @@ HENCE	h e n s
 HENCEFORTH	h e n s f oo th
 HEPATITIS	h e p ax t ye t ax s
 HER	h ax
-HER	h ax r
 HER	h er
+HER	h ax r
 HERALD	h e r ax l d
 HERB	h er b
 HERD	h er d
@@ -4392,8 +4392,8 @@ HERPES	h er p ii z
 HERS	h er z
 HERSELF	h ax s e l f
 HESITATE	h e z ax t ei t
-HETEROSEXUAL	h e t ax r eu s e k sh u ax l
 HETEROSEXUAL	h e t r ax s e k sh u ax l
+HETEROSEXUAL	h e t ax r eu s e k sh u ax l
 HEW	h j u
 HEYDAY	h ei d ei
 HI-FI	h ye f ye
@@ -4404,8 +4404,8 @@ HIDE	h ye d
 HIDEAWAY	h ye d ax w ei
 HIDEOUS	h i d ii ax s
 HIERARCHY	h ye ax r aa k ii
-HIGH	h ae e
 HIGH	h ye
+HIGH	h ae e
 HIGHSCHOOL	h ye s k u l
 HIGHSEASON	h ye s ii z ax n
 HIGHBROW	h ye b r au
@@ -4484,11 +4484,11 @@ HONOURABLE	o n ax r ax b ax l
 HOOD	h uh d
 HOODLUM	h u d l ax m
 HOODWINK	h uh d w i ng k
-HOOF	h u f
 HOOF	h uh f
+HOOF	h u f
 HOOK	h uh k
-HOOLIGAN	h u l ax g ax n
 HOOLIGAN	h u l ii g ax n
+HOOLIGAN	h u l ax g ax n
 HOON	h u n
 HOOP	h u p
 HOP	h o p
@@ -4719,10 +4719,10 @@ INCLINED	i ng k l ye n d
 INCLUDE	i ng k l u d
 INCLUSIVE	i ng k l u s i v
 INCOHERENT	i ng k eu h ie r ax n t
-INCOME	i ng k a m
 INCOME	i n k a m
-INCOMING	i ng k a m i ng
+INCOME	i ng k a m
 INCOMING	i n k a m i ng
+INCOMING	i ng k a m i ng
 INCOMPETENT	i ng k o m p ax t ax n t
 INCONVENIENT	i ng k ax n v ii n ii ax n t
 INCORPORATE	i ng k oo p ax r ei t
@@ -4793,8 +4793,8 @@ INHALE	i n h ei l
 INHERIT	i n h e r ax t
 INITIAL	i n i sh ax l
 INITIATE	i n i sh ii ei t
-INITIATIVE	i n i sh ii ax t i v
 INITIATIVE	ax n i sh ax t i v
+INITIATIVE	i n i sh ii ax t i v
 INJECT	i n dz e k t
 INJURE	i n dz ax
 INJUSTICE	i n dz a s t ax s
@@ -4882,8 +4882,8 @@ INTERVIEW	i n t ax v j u
 INTESTINE	i n t e s t ax n
 INTIMATE	i n t ax m ax t
 INTIMIDATE	i n t i m ax d ei t
-INTO	i n t u
 INTO	i n t ax
+INTO	i n t u
 INTONATION	i n t ax n ei sh ax n
 INTOXICATED	i n t o k s ax k ei t ax d
 INTRANSITIVE	i n t r ae n z ax t i v
@@ -4925,8 +4925,8 @@ ISLAM	i z l ae m
 ISLAND	ye l ax n d
 ISOLATE	ye s ax l ei t
 ISSUE	i sh u
-IT	ax t
 IT	i t
+IT	ax t
 ITALIAN	i t ae l j ax n
 ITALICS	i t ae l i k s
 ITCH	i ch
@@ -5098,12 +5098,12 @@ KILOBYTE	k i l ax b ye t
 KILOGRAM	k i l ax g r ae m
 KILOHERTZ	k i l ax h er t s
 KILOJOULE	k i l ax dz u l
-KILOMETRE	k ax l o m ax t ax
 KILOMETRE	k i l ax m ii t ax
+KILOMETRE	k ax l o m ax t ax
 KILOWATT	k i l ax w o t
 KILT	k i l t
-KIMONO	k ax m eu n eu
 KIMONO	k i m ax n eu
+KIMONO	k ax m eu n eu
 KIN	k i n
 KIND	k ye n d
 KINDERGARTEN	k i n d ax g aa t ax n
@@ -5128,8 +5128,8 @@ KITTEN	k i t ax n
 KIWI	k ii w ii
 KJ	k i l ax dz u l
 KLEPTOMANIA	k l e p t ax m ei n ii ax
-KM	k ax l o m ax t ax
 KM	k i l ax m ii t ax
+KM	k ax l o m ax t ax
 KNACK	n ae k
 KNACKERED	n ae k ax d
 KNAPSACK	n ae p s ae k
@@ -5161,8 +5161,8 @@ KOSHER	k eu sh ax
 KUNG-FU	k a ng f u
 L	e l
 L-PLATE	e l p l ei t
-LA	l ei n
 LA	l aa
+LA	l ei n
 LABEL	l ei b ax l
 LABOR	l ei b ax
 LABORPARTY	l ei b ax p aa t ii
@@ -5209,8 +5209,8 @@ LAST	l aa s t
 LATCH	l ae ch
 LATE	l ei t
 LATELY	l ei t l ii
-LATER	l ei t ax r
 LATER	l ei t ax
+LATER	l ei t ax r
 LATEST	l ei t ax s t
 LATHER	l ae dh ax
 LATIN	l ae t ax n
@@ -5272,8 +5272,8 @@ LEMONADE	l e m ax n ei d
 LEND	l e n d
 LENGTH	l e ng th
 LENGTH	l e ng k th
-LENGTHEN	l e ng th ax n
 LENGTHEN	l e ng k th ax n
+LENGTHEN	l e ng th ax n
 LENIENT	l ii n ii ax n t
 LENS	l e n z
 LENT	l e n t
@@ -5291,8 +5291,8 @@ LEVER	l ii v ax
 LEVY	l e v ii
 LIABILITY	l ye ax b i l ax t ii
 LIABLE	l ye ax b ax l
-LIAISON	l ii ei z ax n
 LIAISON	l ii ei z o n
+LIAISON	l ii ei z ax n
 LIAR	l ye ax
 LIBEL	l ye b ax l
 LIBERAL	l i b r ax l
@@ -5537,10 +5537,10 @@ MANSLAUGHTER	m ae n s l oo t ax
 MANTA	m ae n t ax
 MANTLEPIECE	m ae n t ax l p ii s
 MANUAL	m ae n j u ax l
-MANUFACTURE	m ae n j ax f ae k sh ax
-MANUFACTURE	m ae n j ax f ae k ch ax
 MANUFACTURE	m ae n ax f ae k ch ax
 MANUFACTURE	m ae n j u f ae k sh ax
+MANUFACTURE	m ae n j ax f ae k ch ax
+MANUFACTURE	m ae n j ax f ae k sh ax
 MANURE	m ax n j ue
 MANUSCRIPT	m ae n j ax s k r i p t
 MANY	m e n ii
@@ -5575,8 +5575,8 @@ MARSHMALLOW	m aa sh m ae l eu
 MARSUPIAL	m aa s j u p ii ax l
 MARTYR	m aa t ax
 MARVEL	m aa v ax l
-MASCARA	m ax s k aa r ax
 MASCARA	m ae s k aa r ax
+MASCARA	m ax s k aa r ax
 MASCOT	m ae s k o t
 MASCULINE	m ae s k j ax l ax n
 MASH	m ae sh
@@ -5608,8 +5608,8 @@ MATRIMONY	m ae t r ax m ax n ii
 MATT	m ae t
 MATTER	m ae t ax
 MATTRESS	m ae t r ax s
-MATURE	m ax ch u ax
 MATURE	m ax ch ue
+MATURE	m ax ch u ax
 MAUL	m oo l
 MAUVE	m eu v
 MAVERICK	m ae v ax r i k
@@ -5877,8 +5877,8 @@ MORTAR	m oo t ax
 MORTGAGE	m oo g i dz
 MORTIFIED	m oo t ax f ye d
 MORTUARY	m oo ch ax r ii
-MOSAIC	m ax z ei i k
 MOSAIC	m eu z ei i k
+MOSAIC	m ax z ei i k
 MOSQUE	m o s k
 MOSS	m o s
 MOST	m eu s t
@@ -6016,16 +6016,16 @@ NAVIGATE	n ae v ax g ei t
 NAVY	n ei v ii
 NB	e n b ii
 NE	n oo th ii s t
-NEAR	n ie
 NEAR	n ie r
+NEAR	n ie
 NEARBY	n ie b ye
 NEARLY	n ie l ii
 NEAT	n ii t
 NECESSARY	n e s ax s e r ii
 NECK	n e k
 NECKLACE	n e k l ax s
-NEE	n ei
 NEE	n ii
+NEE	n ei
 NEED	n ii d
 NEEDLE	n ii d ax l
 NEGATIVE	n e g ax t i v
@@ -6049,16 +6049,16 @@ NETWORK	n e t w er k
 NEUROTIC	n j u r o t i k
 NEUTER	n j u t ax
 NEUTRAL	n j u t r ax l
-NEVER	n e v ax
 NEVER	n e v ax r
+NEVER	n e v ax
 NEVERTHELESS	n e v ax dh ax l e s
 NEW	n j u
 NEWINGTON	n j u i ng t ax n
 NEWS	n j u z
 NEWSAGENT	n j u z ei dz ax n t
 NEWSPAPER	n j u z p ei p ax
-NEXT	n e k s t
 NEXT	n e k s
+NEXT	n e k s t
 NEXTOFKIN	n e k s t ax v k i n
 NIB	n i b
 NIBBLE	n i b ax l
@@ -6152,8 +6152,8 @@ NUMERATOR	n j u m ax r ei t ax
 NUMEROUS	n j u m ax r ax s
 NUN	n a n
 NURSE	n er s
-NURSERY	n er s r ii
 NURSERY	n er s ax r ii
+NURSERY	n er s r ii
 NUT	n a t
 NUTRITION	n j u t r i sh ax n
 NUTRITIONIST	n j u t r i sh ax n ii s t
@@ -6203,8 +6203,8 @@ OFF-PEAK	o f p ii k
 OFF-PUTTING	o f p uh t i ng
 OFFENCE	ax f e n s
 OFFENSIVE	ax f e n s i v
-OFFER	o f ax
 OFFER	o f ax r
+OFFER	o f ax
 OFFICE	o f ax s
 OFFICER	o f ax s ax
 OFFICES	o f ax s ax z
@@ -6232,8 +6232,8 @@ ONCOMING	o n k a m i ng
 ONE	w a n
 ONLY	eu n l ii
 ONSET	o n s e t
-ONTO	o n t ax
 ONTO	o n t u
+ONTO	o n t ax
 OOZE	u z
 OPAL	eu p ax l
 OPAQUE	eu p ei k
@@ -6260,8 +6260,8 @@ ORATOR	o r ax t ax
 ORCHARD	oo ch ax d
 ORCHESTRA	oo k ax s t r ax
 ORDEAL	oo d ii l
-ORDER	oo d ax
 ORDER	oo d ax r
+ORDER	oo d ax
 ORDINALNUMBER	oo d ax n ax l n a m b ax
 ORDINARY	oo d ax n r ii
 ORDINARY	oo d ax n e r ii
@@ -6289,8 +6289,8 @@ OUR	au
 OUR	au ax
 OURS	au zh
 OURS	au ax z
-OURSELVES	au ax s e l v z
 OURSELVES	au s e l v z
+OURSELVES	au ax s e l v z
 OUT	au t
 OUTBACK	au t b ae k
 OUTBREAK	au t b r ei k
@@ -6351,8 +6351,8 @@ OVERWHELM	eu v ax w e l m d
 OVERWORK	eu v ax w er k
 OVULATE	o v j ax l ei t
 OWE	eu
-OWL	ae o l
 OWL	au l
+OWL	ae o l
 OWN	eu n
 OXYGEN	o k s ax dz ax n
 OYSTER	oi s t ax
@@ -6681,8 +6681,8 @@ PLAN	p l ae n
 PLANE	p l ei n
 PLANET	p l ae n ax t
 PLANK	p l ae ng k
-PLANT	p l aa n t
 PLANT	p l ae n t
+PLANT	p l aa n t
 PLAQUE	p l aa k
 PLASTER	p l aa s t ax
 PLASTERED	p l aa s t ax d
@@ -7062,8 +7062,8 @@ PYRAMID	p i r ax m i d
 PYTHON	p ye th ax n
 Q	k j u
 QC	k j u s ii
-QLD	k w ii n z l ax n d
 QLD	k w ii n z l ae n d
+QLD	k w ii n z l ax n d
 QUACK	k w ae k
 QUADRANGLE	k w o d r ae ng g ax l
 QUADRIPLEGIC	k w o d r ax p l ii dz i k
@@ -7211,8 +7211,8 @@ RECOIL	r ax k oi l
 RECOLLECT	r e k ax l e k t
 RECOMMEND	r e k ax m e n d
 RECONCILE	r e k ax n s ye l
-RECORD	r e k oo d
 RECORD	r ax k oo d
+RECORD	r e k oo d
 RECORD-PLAYER	r e k oo d p l ei ax
 RECORDER	r ax k oo d ax
 RECOUNT	r ax k au n t
@@ -7611,8 +7611,8 @@ SAUCER	s oo s ax
 SAUNA	s oo n ax
 SAUNTER	s oo n t ax
 SAUSAGE	s o s i dz
-SAUTE	s eu t ei
 SAUTE	s oo t ei
+SAUTE	s eu t ei
 SAVAGE	s ae v i dz
 SAVE	s ei v
 SAVIOUR	s ei v j ax
@@ -7727,8 +7727,8 @@ SEASONAL	s ii z ax n ax l
 SEAT	s ii t
 SEC	s e k
 SECATEURS	s e k ax t ax z
-SECOND	s e k ax n d
 SECOND	s e k ax n
+SECOND	s e k ax n d
 SECOND-CLASS	s e k ax n d k l aa s
 SECOND-HAND	s e k ax n d h ae n d
 SECOND-RATE	s e k ax n d r ei t
@@ -8134,8 +8134,8 @@ SNAPSHOT	s n ae p sh o t
 SNARL	s n aa l
 SNATCH	s n ae ch
 SNEAK	s n ii k
-SNEER	s n ie r
 SNEER	s n ie
+SNEER	s n ie r
 SNEEZE	s n ii z
 SNIFF	s n i f
 SNIFFLE	s n i f ax l
@@ -8494,8 +8494,8 @@ STREAK	s t r ii k
 STREAM	s t r ii m
 STREAMER	s t r ii m ax
 STREET	s t r ii t
-STRENGTH	s t r e ng th
 STRENGTH	s t r e ng k th
+STRENGTH	s t r e ng th
 STRENUOUS	s t r e n j u ax s
 STRESS	s t r e s
 STRETCH	s t r e ch
@@ -8710,8 +8710,8 @@ SYMPATHY	s i m p ax th ii
 SYMPHONY	s i m f ax n ii
 SYMPTOM	s i m p t ax m
 SYNAGOGUE	s i n ax g o g
-SYNDICATE	s i n d ax k ax t
 SYNDICATE	s i n d i k ax t
+SYNDICATE	s i n d ax k ax t
 SYNONYM	s i n ax n i m
 SYNOPSIS	s ax n o p s ax s
 SYNTHETIC	s i n th e t i k
@@ -9036,8 +9036,8 @@ TIT	t i t
 TITBIT	t i t b i t
 TITLE	t ye t ax l
 TITTER	t i t ax
-TO	t ax
 TO	t u
+TO	t ax
 TOAD	t eu d
 TOADSTOOL	t eu d s t u l
 TOAST	t eu s t
@@ -9104,8 +9104,8 @@ TOUCHY	t a ch ii
 TOUGH	t a f
 TOUR	t ue
 TOUR	t u ax
-TOURISM	t u ax r i s ax m
 TOURISM	t ue r i s ax m
+TOURISM	t u ax r i s ax m
 TOURIST	t u ax r ax s t
 TOURIST	t ue r ax s t
 TOURNAMENT	t oo n ax m ax n t
@@ -9171,16 +9171,16 @@ TRENDY	t r e n d ii
 TRESPASS	t r e s p ax s
 TRIAL	t r ye ax l
 TRIANGLE	t r ye ae ng g ax l
-TRIBUNAL	t r ax b j u n ax l
 TRIBUNAL	t r ye b j u n ax l
+TRIBUNAL	t r ax b j u n ax l
 TRICK	t r i k
 TRICKLE	t r i k ax l
 TRIED	t r ye d
 TRIM	t r i m
 TRIP	t r i p
 TRIPLE	t r i p ax l
-TRIUMPH	t r ye a m f
 TRIUMPH	t r ye ax m f
+TRIUMPH	t r ye a m f
 TRIVIAL	t r i v ii ax l
 TROD	t r o d
 TRODDEN	t r o d ax n
@@ -9210,10 +9210,10 @@ TUITION	ch u i sh ax n
 TUITION	t j u i sh ax n
 TUMBLE	t a m b ax l
 TUMOUR	t j u m ax
-TUNA	t j u n ax
 TUNA	ch u n ax
-TUNE	t j u n
+TUNA	t j u n ax
 TUNE	ch u n
+TUNE	t j u n
 TUNNEL	t a n ax l
 TURKISH	t er k i sh
 TURN	t er n
@@ -9352,8 +9352,8 @@ UTTER	a t ax
 V	v ii
 VACANCY	v ei k ax n s ii
 VACANT	v ei k ax n t
-VACATION	v ax k ei sh ax n
 VACATION	v ei k ei sh ax n
+VACATION	v ax k ei sh ax n
 VACCINE	v ae k s ii n
 VACUUM	v ae k j u m
 VAGINA	v ax dz ye n ax
@@ -9479,8 +9479,8 @@ VOYAGE	v oi i dz
 VS	v er s ax z
 VULGAR	v a l g ax
 VULNERABLE	v a l n r ax b ax l
-W	w e s t
 W	d a b ax l j u
+W	w e s t
 WA	w e s t ax n ax s t r ei l j ax
 WAD	w o d
 WADDLE	w o d ax l
@@ -9522,8 +9522,8 @@ WARRANT	w o r ax n t
 WARRANTY	w o r ax n t ii
 WART	w oo t
 WARY	w ee r ii
-WAS	w o z
 WAS	w ax z
+WAS	w o z
 WASH	w o sh
 WASHED-OUT	w o sh t au t
 WASHER	w o sh ax
@@ -9574,9 +9574,9 @@ WELL-OFF	w e l o f
 WELLBEING	w e l b ii i ng
 WENT	w e n t
 WEPT	w e p t
+WERE	w er
 WERE	w ax r
 WERE	w ax
-WERE	w er
 WERENT	w er n t
 WEST	w e s t
 WESTERN	w e s t ax n
@@ -9654,8 +9654,8 @@ WILY	w ye l ii
 WIMP	w i m p
 WIN	w i n
 WINCE	w i n s
-WIND	w i n d
 WIND	w ye n d
+WIND	w i n d
 WINDOW	w i n d eu
 WINDOWSHOPPING	w i n d eu sh o p i ng
 WINDOWS	w i n d eu z
@@ -9680,8 +9680,8 @@ WIT	w i t
 WITCH	w i ch
 WITH	w i dh
 WITH	w i th
-WITHDRAW	w i dh d r oo
 WITHDRAW	w i th d r oo
+WITHDRAW	w i dh d r oo
 WITHHOLD	w i th h eu l d
 WITHHOLD	w i dh h eu l d
 WITHIN	w i dh i n
@@ -9729,8 +9729,8 @@ WORTHWHILE	w er th w ye l
 WORTHY	w er dh ii
 WOULD	w ax d
 WOULD	w uh d
-WOUND	w u n d
 WOUND	w au n d
+WOUND	w u n d
 WOVEN	w eu v ax n
 WOW	w au
 WOWSER	w au z ax
@@ -9763,8 +9763,8 @@ YARN	j aa n
 YAWN	j oo n
 YD	j aa d
 YEAH	j ee
-YEAR	j ie r
 YEAR	j ie
+YEAR	j ie r
 YEAST	j ii s t
 YELL	j e l
 YELLOW	j e l eu
@@ -9782,9 +9782,9 @@ YOU	j ax
 YOU	j u
 YOUNG	j a ng
 YOUNGSTER	j a ng s t ax
+YOUR	j oo
 YOUR	j ax r
 YOUR	j ax
-YOUR	j oo
 YOURS	j oo z
 YOURSELF	j oo s e l f
 YOUTH	j u th
@@ -9805,13 +9805,91 @@ ZOO	z u
 ZOOLOGY	z eu o l ax dz ii
 ZOOM	z u m
 ZUCCHINI	z ax k ii n ii
+BALL	b oo l
+BALLOON	b ax l u n
+BANANA	b ax n aa n ax
+BEANS	b ii n z
+BOYS	b oi z
+BUTTERFLY	b a t ax f l ye
+CARDS	k aa d z
+CATERPILLAR	k ae t ax p i l ax
+CATS	k ae t s
+CICADA	k a z n z
+DOGS	d o g z
+EGGS	e g z
+ELEPHANT	dz ax r aa f
+GIRLS	g er l z
+CLOCK	k l o k
+PICTURES	p i k ch ax z
+TEACHERS	t ii ch ax z
+WATERMELON	w oo t ax m e l ax n
+ALTUPATORY	ax l t u p ae t oo r ii
+BALLOP	b ae l o p
+BANNIFER	b ax n i f ax
+BANNIFER	b ae n i f er
+BANNOW	b ae n eu
+BARRAZON	b ae r ax z o n
+BLONTERSTAPING	b l o n t ax s t ei p i ng
+BRASTERER	b r aa s t er ax
+CARROTS	k ae r o t s
+COMMEECITATE	k o m ii s ii t ei t
+COMMERINE	k o m ax r ii n
+CONFRANTUALLY	k o n f r ae n t j u ae l ii
+CONTRAMPONIST	k o n t r ax m p o n i s t
+COUSINS	k a z i n z
+CUPS	k a p s
+DEFERMICATION	d e f er m i k ei ch o n
+DETRATAPILLIC	d e t r aa t ax p i l i k
+DOPELATE	d eu p i l ei t
+EMPLIFORVENT	e m p l ii f oo v e n t
+FENNERISER	f e n er ye z ax
+FLOWERPOT	f l au ax p o t
+FRESCOVENT	f r e s k eu v ax n t
+GIRAFFE	dz i r aa f
+GLISTERING	g l i s t er i ng
+GLISTOW	g l i s t eu
+GORILLA	g o r i l ax
+GRASSHOPPER	g r aa s h o p ax
+HAMPENT	h ax m p e n t
+HAMPENT	h ae m p e n t
+HIPPOPOTAMUS	h i p eu p o t ax m a s
+HIPPOPOTAMUS	h i p eu p o t ax m ax s
+LODDERNAPISH	l o d ax n ae p i sh
+MAGICIAN	m ae dz i sh ax n
+MARTIAN	m aa sh ax n
+MARTIAN	m aa r sh ae n
+PENNEL	p e n e l
+PENNEL	p e n ax l
+PENNERIFUL	p e n er i f ax l
+PEPPERS	p e p ax s
+PERPLISTERONK	p er p l i s t er o n k
+PRINDLE	p r i n d l
+PRISTORACTIONAL	p r i s t oo r ae k sh o n ax l
+RHINOCEROS	r ye n o s er o s
+RUBID	r u b i d
+SEPRETENNIAL	s e p r ax t e n ii ax l
+SKITICULT	s k i t ii k ax l t
+SPIDERWEB	s p ye d ax w e b
+STOPOGRATTIC	s t o p eu g r ae t i k
+TAFFLEST	t ae f l e s t
+THICKERY	th i k ax ii
+TRUMPETINE	t r a m p e t ii n
+UNDERBRANTUAND	a n d ax b r ax n t j u ae n d
+VEGEMITE	v e dz ii m ye t
+VEGEMITE	v e dz ax m ye t
+VERSATRATIONIST	v er s ax t r ei sh o n i s t
+WOOGALAMIC	w uh g ax l ae m i k
+WOOGALAMIC	w u g ax l ae m i k
+XYLOPHONE	z ye l ax f eu n
+XYLOPHONE	z ye l eu f eu n
+YOYO	j eu j eu
 ABSORBED	ax b z oo b d
 AIRFIELD	ee f ii l d
 ALAN	ae l ax n
 ALBERTA	ae l b er t ax
 ALFALFA	ae l f ae l f ax
-ALIMONY	ae l ax m ax n ii
 ALIMONY	ae l ax m eu n ii
+ALIMONY	ae l ax m ax n ii
 AL	ae l
 ALLIGATOR	ae l ax g ei t ax
 ALPS	ae l p s
@@ -9841,14 +9919,12 @@ BETS	b e t s
 BIRDS	b er d z
 BOOTS	b u t s
 BOYD	b oi d
-BOYS	b oi z
 BULLDOG	b uh l d o g
 BUTLER	b a t l ax
 BUYING	b ye i ng
 CALMLY	k aa m l ii
 CAMEL	k ae m ax l
 CAN'T	k aa n t
-CATERPILLAR	k ae t ax p i l ax
 CAUSED	k oo z d
 CHANGING	ch ei n dz i ng
 CHARLES	ch aa l z
@@ -9899,7 +9975,6 @@ GAFFE	g ae f
 GAVEL	g ae v ax l
 GAZELLE	g ax z e l
 GETS	g e t s
-GIRLS	g er l z
 GIVEN	g i v ax n
 GLEBE	g l ii b
 GLIMPSED	g l i m p s t
@@ -9969,8 +10044,8 @@ INSIDE?	i n s ye d
 ISN'T	i z ax n
 ISN'T	i z ax n t
 ITCHES	i ch ax z
-IT'S	ax t s
 IT'S	i t s
+IT'S	ax t s
 IT;	ax t
 IT?	ax t
 I'VE	ye v
@@ -10046,8 +10121,8 @@ RELISH	r e l i sh
 RESISTANCE	r ax z i s t ax n s
 RISKS	r i s k s
 RISKY	r i s k ii
-ROARING	r oo r i ng
 ROARING	r oo i ng
+ROARING	r oo r i ng
 RODENT	r eu d ax n t
 ROLLING	r eu l i ng
 ROSA'S	r eu z ax z
@@ -10103,8 +10178,8 @@ TRIFLE	t r ye f ax l
 TROUT	t r au t
 TROY	t r oi
 TRUE	t r u
-TUNER	t j u n ax
 TUNER	ch u n ax
+TUNER	t j u n ax
 TURNED	t er n d
 TWINS	t w i n z
 UNAMUSED	a n ax m j u z d
@@ -10112,8 +10187,6 @@ UNCONTROLLABLE	a n k ax n t r eu l ax b ax l
 UNDAUNTED	a n d oo n t ax d
 UNFORTUNATELY	a n f oo ch ax n ax t l ii
 UNSAFE	a n s ei f
-VEGEMITE	v e dz ax m ye t
-VEGEMITE	v e dz ii m ye t
 VIOLENTLY	v ye l ax n t l ii
 VOODOO	v u d u
 VOWED	v au d
